@@ -1,10 +1,11 @@
 import unittest
-import ranking.ranking as cfb_rank
+from src.ranking import ranking
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
-        self.assertEqual(cfb_rank, cfb_rank)
+class RankingTestCase(unittest.TestCase):
+    def test_ranking(self):
+        self.assertTrue(type(ranking()) == int, True)
+        self.assertTrue(1 <= ranking() <= 25, True)
 
 
 if __name__ == '__main__':
