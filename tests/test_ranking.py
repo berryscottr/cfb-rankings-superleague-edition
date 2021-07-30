@@ -1,5 +1,5 @@
 import unittest
-from src.ranking import ranking
+from src.ranking.ranking import ranking
 
 
 class RankingTestCase(unittest.TestCase):
