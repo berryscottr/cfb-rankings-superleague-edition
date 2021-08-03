@@ -1,4 +1,4 @@
 FROM python
-WORKDIR /app
-COPY . .
-CMD ["python", "./src/ranking/main.py"]
+COPY . /app
+WORKDIR /app/src/ranking
+CMD ["python", "./ranking.py"]

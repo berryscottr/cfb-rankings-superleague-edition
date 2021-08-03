@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='cfb-rankings-superleague-edition',
+    name='cfbRankingsSuperleagueEdition',
     version='0.0.1',
     packages=['ranking'],
     url='https://github.com/berryscottr/cfb-rankings-superleague-edition',
