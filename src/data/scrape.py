@@ -16,9 +16,11 @@ all_games = pd.DataFrame()
 
 for year in range(2010, 2021):
     games = api_instance.get_games(year=year)
-    print(games)
-    games.to_csv('{}_games.csv'.format(year))
 
-    all_games = pd.concat([games, all_games])
+    for game in games:
+        print(game.attendance)
+    # games.to_csv('{}_games.csv'.format(year))
 
-all_games.to_csv('data/allgames.csv')
+    # all_games = pd.concat([games, all_games])
+
+# all_games.to_csv('data/allgames.csv')
