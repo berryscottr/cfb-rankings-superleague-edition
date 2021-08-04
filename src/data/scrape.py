@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
-import requests
 import cfbd
+import datetime
+import csv
 
 from secrets import api_key
 
@@ -14,13 +15,19 @@ api_instance = cfbd.GamesApi(cfbd.ApiClient(configuration))
 
 all_games = pd.DataFrame()
 
-for year in range(2010, 2021):  # @will try datetime.datetime.now.year in case hard coding requires maintenance
+# for year in range(2010, datetime.datetime.now.year):
+for year in range(2010, 2021):
+
+    # Pulls games
     games = api_instance.get_games(year=year)
 
-    for game in games:
-        print(game.attendance)
-    # games.to_csv('{}_games.csv'.format(year))
+    with open('src/data/games/{}_games.csv'.format(year), 'w', newline='') as outfile:
+        writer = csv.writer(outfile)
 
-    # all_games = pd.concat([games, all_games])
+        # Writes the headers
+        game_headers = games[0].__dict__.keys()
+        writer.writerow(game_headers)
 
-# all_games.to_csv('data/allgames.csv')
+        # Writes out the game rows 
+        for game in games:
+            writer.writerow(game.__dict__.values())
