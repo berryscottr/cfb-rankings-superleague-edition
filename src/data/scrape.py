@@ -14,7 +14,7 @@ api_instance = cfbd.GamesApi(cfbd.ApiClient(configuration))
 
 all_games = pd.DataFrame()
 
-for year in range(2010, 2021):
+for year in range(2010, 2021):  # @will try datetime.datetime.now.year in case hard coding requires maintenance
     games = api_instance.get_games(year=year)
 
     for game in games:
