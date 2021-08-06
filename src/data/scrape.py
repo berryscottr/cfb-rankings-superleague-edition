@@ -48,63 +48,57 @@ class ScrapeWriter():
 
 
 # for year in range(2010, datetime.datetime.now.year):
-for year in range(2010, 2021):
+for year in range(2019, 2021):
     print('Starting year: {}'.format(year))
 
     # Pulls games
     games = games_api_instance.get_games(year=year, season_type='both')
     games_writer = ScrapeWriter(games, 'games', year)
     games_writer.write_scraped_data()
-    time.sleep(1)
 
     # Pulls player individual game stats
-    # for week in range(1,20):
-    #     try:
-    #         player_game_stats = games_api_instance.get_player_game_stats(year=year, season_type='both', week=week)
-    #         player_game_stats_writer = ScrapeWriter(player_game_stats, 'player_game_stats', year, week)
-    #         player_game_stats_writer.write_scraped_data()
-    #     except ApiException:
-    #         print('API Exception for year {} and week {}'.format(year, week))
-    #     time.sleep(1)
+    for week in range(1,20):
+        try:
+            player_game_stats = games_api_instance.get_player_game_stats(year=year, season_type='both', week=week)
+            player_game_stats_writer = ScrapeWriter(player_game_stats, 'player_game_stats', year, week)
+            player_game_stats_writer.write_scraped_data()
+        except ApiException:
+            print('API Exception for year {} and week {}'.format(year, week))
+        except IndexError:
+            print('No weeks left')
+        except ValueError:
+            print('No weeks left')
 
     # Pulls team drive stats
     drives = drives_api_instance.get_drives(year=year, season_type='both')
     drives_writer = ScrapeWriter(drives, 'drives', year)
     drives_writer.write_scraped_data() 
-    time.sleep(1)
 
     if year >= 2013:
         lines = betting_api_instance.get_lines(year=year, season_type='both')
         lines_writer = ScrapeWriter(lines, 'lines', year)
         lines_writer.write_scraped_data()
-        time.sleep(1)
     
         player_usage = players_api_instance.get_player_usage(year=year)
         player_usage_writer = ScrapeWriter(player_usage, 'player_usage', year)
         player_usage_writer.write_scraped_data()
-        time.sleep(1)
 
     player_season_stats = players_api_instance.get_player_season_stats(year=year, season_type='both')
     player_season_stats_writer = ScrapeWriter(player_season_stats, 'player_season_stats', year)
     player_season_stats_writer.write_scraped_data()
-    time.sleep(1)
     
     recruiting_players = recruiting_api_instance.get_recruiting_players(year=year)
     recruiting_players_writer = ScrapeWriter(recruiting_players, 'recruiting_players', year)
     recruiting_players_writer.write_scraped_data()
-    time.sleep(1)
 
 venues = venues_api_instance.get_venues()
 venues_writer = ScrapeWriter(venues, 'venues')
 venues_writer.write_scraped_data()
-time.sleep(1)
 
 recruiting_groups = recruiting_api_instance.get_recruiting_groups()
 recruiting_groups_writer = ScrapeWriter(recruiting_groups, 'recruiting_groups')
 recruiting_groups_writer.write_scraped_data()
-time.sleep(1)
 
 recruiting_teams = recruiting_api_instance.get_recruiting_teams()
 recruiting_teams_writer = ScrapeWriter(recruiting_teams, 'recruiting_teams')
 recruiting_teams_writer.write_scraped_data()
-time.sleep(1)
