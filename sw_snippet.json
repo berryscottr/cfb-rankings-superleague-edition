@@ -1,0 +1,11 @@
+{
+  "ScrapeWriter": {
+    "prefix": "sw",
+    "body": [
+      "$0 = api_instance.get_$0()",
+      "$0_writer = ScrapeWriter($0, '$0')",
+      "$0_writer.write_scraped_data()"
+    ],
+    "description": "ScrapeWriter"
+  }
+}
