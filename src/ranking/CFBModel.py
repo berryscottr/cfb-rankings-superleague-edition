@@ -27,15 +27,21 @@ class CFBModel:
         game_data = self.data['cleaned_games']
 
         # Select columns
-        x = game_data.loc[:,['season', 'week', 'season_type', 'neutral_site', 'conference_game', 'team_id',  'team_conference', 'team_wins','team_loses','games_played','season_point_total','team_line_score_q1_total','team_line_score_q2_total','team_line_score_q3_total','team_line_score_q4_total','opp_team_id', 'opp_team_conference','opp_team_wins','opp_team_loses','opp_games_played','opp_season_point_total','opp_team_line_score_q1_total','opp_team_line_score_q2_total','opp_team_line_score_q3_total','opp_team_line_score_q4_total']]
+        x = game_data.loc[:,
+            ['season', 'week', 'season_type', 'neutral_site', 'conference_game', 'team_id', 'team_conference',
+             'team_wins', 'team_loses', 'games_played', 'season_point_total', 'team_line_score_q1_total',
+             'team_line_score_q2_total', 'team_line_score_q3_total', 'team_line_score_q4_total', 'opp_team_id',
+             'opp_team_conference', 'opp_team_wins', 'opp_team_loses', 'opp_games_played', 'opp_season_point_total',
+             'opp_team_line_score_q1_total', 'opp_team_line_score_q2_total', 'opp_team_line_score_q3_total',
+             'opp_team_line_score_q4_total']]
         y = game_data['team_points'] - game_data['opp_team_points']
-        
+
         x.loc[:, 'team_conference'].fillna('N/A', inplace=True)
         x.loc[:, 'opp_team_conference'].fillna('N/A', inplace=True)
-        
+
         x.loc[:, 'team_line_score_q3_total'].fillna(0, inplace=True)
         x.loc[:, 'opp_team_line_score_q3_total'].fillna(0, inplace=True)
-        
+
         x.loc[:, 'team_line_score_q4_total'].fillna(0, inplace=True)
         x.loc[:, 'opp_team_line_score_q4_total'].fillna(0, inplace=True)
 
@@ -48,6 +54,7 @@ class CFBModel:
 
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=.2, random_state=0)
 
-        xg_reg = xgb.XGBRegressor(objective='reg:linear',colsample_bytree=0.3, learning_rate=0.1,max_depth=5, alpha=10, n_estimators=10)
+        xg_reg = xgb.XGBRegressor(objective='reg:squarederror', colsample_bytree=0.3, learning_rate=0.1, max_depth=5,
+                                  alpha=10, n_estimators=10)
         xg_reg.fit(x_train, y_train)
         return xg_reg.score(x_test, y_test)
