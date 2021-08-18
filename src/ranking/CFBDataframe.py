@@ -8,6 +8,7 @@ class CFBDataframe:
                          "player_game_stats": [[], pd.DataFrame()], "player_season_stats": [[], pd.DataFrame()],
                          "player_usage": [[], pd.DataFrame()], "recruiting_groups": [[], pd.DataFrame()],
                          "recruiting_players": [[], pd.DataFrame()], "recruiting_teams": [[], pd.DataFrame()],
+                         "cleaned_games": [[], pd.DataFrame()], 
                          "venues": [[], pd.DataFrame()]}
 
     @staticmethod
