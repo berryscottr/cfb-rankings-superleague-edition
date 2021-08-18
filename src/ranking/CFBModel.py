@@ -4,6 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 import xgboost as xgb
 
+
 class CFBModel:
     def __init__(self, df):
         # dict of dfs
@@ -37,7 +38,6 @@ class CFBModel:
         
         x.loc[:, 'team_line_score_q4_total'].fillna(0, inplace=True)
         x.loc[:, 'opp_team_line_score_q4_total'].fillna(0, inplace=True)
-
 
         # Data Transforms
         x.loc[:, 'season_type'] = LabelEncoder().fit_transform(x['season_type'])
