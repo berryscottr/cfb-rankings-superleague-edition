@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 class CFBDataframe:
     def __init__(self):
         # list of dfs values[0] and empty init df values[1]
