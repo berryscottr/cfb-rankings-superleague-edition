@@ -8,7 +8,5 @@ WORKDIR /app
 RUN pip3 install -r requirements.txt
 # change directory to ranking code location
 WORKDIR /app/src/ranking
-# remove authentication from jupyter config
-CMD ["echo", "\"c.NotebookApp.token = ''\"", ">", "~/.jupyter/jupyter_notebook_config.py"]
 # run notebook without browser
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--no-browser", "--allow-root"]
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
