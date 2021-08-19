@@ -1,7 +1,9 @@
+import numpy as np
 import pandas as pd
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import Lasso, LinearRegression
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LassoCV
 import xgboost as xgb
 
 
@@ -53,6 +55,12 @@ class CFBModel:
         x.loc[:, 'opp_team_id'] = LabelEncoder().fit_transform(x['opp_team_id'])
 
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=.2, random_state=0)
+
+        lasso = LassoCV.fit(x,y)
+        importance = np.abs(lasso.coeff_)
+        feature_names = np.array('cleaned_games'.feature_names)
+        testText = "Hello"
+        return testText
 
         xg_reg = xgb.XGBRegressor(objective='reg:squarederror', colsample_bytree=0.3, learning_rate=0.1, max_depth=5,
                                   alpha=10, n_estimators=10)
