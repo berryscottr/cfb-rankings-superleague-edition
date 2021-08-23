@@ -28,41 +28,49 @@ class CFBModel:
     def spread_prediction(self):
         game_data = self.data['cleaned_games']
 
-        # Select columns
-        x = game_data.loc[:,
-            ['season', 'week', 'season_type', 'neutral_site', 'conference_game', 'team_id', 'team_conference',
-             'team_wins', 'team_loses', 'games_played', 'season_point_total', 'team_line_score_q1_total',
-             'team_line_score_q2_total', 'team_line_score_q3_total', 'team_line_score_q4_total', 'opp_team_id',
-             'opp_team_conference', 'opp_team_wins', 'opp_team_loses', 'opp_games_played', 'opp_season_point_total',
-             'opp_team_line_score_q1_total', 'opp_team_line_score_q2_total', 'opp_team_line_score_q3_total',
-             'opp_team_line_score_q4_total']]
-        y = game_data['team_points'] - game_data['opp_team_points']
+        score_list = []
+        for year in range(2010, 2020):
+            year_data = game_data.loc[game_data['season'] == year]
 
-        x.loc[:, 'team_conference'].fillna('N/A', inplace=True)
-        x.loc[:, 'opp_team_conference'].fillna('N/A', inplace=True)
+            # Select columns
+            x = year_data.loc[:,
+                ['week', 'season_type', 'neutral_site', 'conference_game', 'team_id', 'team_conference',
+                'team_wins', 'team_loses', 'games_played', 'season_point_total', 'team_line_score_q1_total',
+                'team_line_score_q2_total', 'team_line_score_q3_total', 'team_line_score_q4_total','team_previous_wins','team_previous_loses','opp_team_id',
+                'opp_team_conference', 'opp_team_wins', 'opp_team_loses', 'opp_games_played', 'opp_season_point_total',
+                'opp_team_line_score_q1_total', 'opp_team_line_score_q2_total', 'opp_team_line_score_q3_total',
+                'opp_team_line_score_q4_total','opp_team_previous_wins','opp_team_previous_loses','team_points_allowed','team_opp_wins','team_opp_loses','opp_team_points_allowed','opp_team_opp_wins','opp_team_opp_loses']]
+            y = year_data['team_points'] - year_data['opp_team_points']
 
-        x.loc[:, 'team_line_score_q3_total'].fillna(0, inplace=True)
-        x.loc[:, 'opp_team_line_score_q3_total'].fillna(0, inplace=True)
+            x.loc[:, 'team_conference'].fillna('N/A', inplace=True)
+            x.loc[:, 'opp_team_conference'].fillna('N/A', inplace=True)
 
-        x.loc[:, 'team_line_score_q4_total'].fillna(0, inplace=True)
-        x.loc[:, 'opp_team_line_score_q4_total'].fillna(0, inplace=True)
+            x.loc[:, 'team_line_score_q3_total'].fillna(0, inplace=True)
+            x.loc[:, 'opp_team_line_score_q3_total'].fillna(0, inplace=True)
 
-        # Data Transforms
-        x.loc[:, 'season_type'] = LabelEncoder().fit_transform(x['season_type'])
-        x.loc[:, 'team_conference'] = LabelEncoder().fit_transform(x['team_conference'])
-        x.loc[:, 'opp_team_conference'] = LabelEncoder().fit_transform(x['opp_team_conference'])
-        x.loc[:, 'team_id'] = LabelEncoder().fit_transform(x['team_id'])
-        x.loc[:, 'opp_team_id'] = LabelEncoder().fit_transform(x['opp_team_id'])
+            x.loc[:, 'team_line_score_q4_total'].fillna(0, inplace=True)
+            x.loc[:, 'opp_team_line_score_q4_total'].fillna(0, inplace=True)
 
-        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=.2, random_state=0)
+            # Data Transforms
+            x.loc[:, 'season_type'] = LabelEncoder().fit_transform(x['season_type'])
+            x.loc[:, 'team_conference'] = LabelEncoder().fit_transform(x['team_conference'])
+            x.loc[:, 'opp_team_conference'] = LabelEncoder().fit_transform(x['opp_team_conference'])
+            x.loc[:, 'team_id'] = LabelEncoder().fit_transform(x['team_id'])
+            x.loc[:, 'opp_team_id'] = LabelEncoder().fit_transform(x['opp_team_id'])
 
-        lasso = LassoCV.fit(x,y)
-        importance = np.abs(lasso.coeff_)
-        feature_names = np.array('cleaned_games'.feature_names)
-        testText = "Hello"
-        return testText
 
-        xg_reg = xgb.XGBRegressor(objective='reg:squarederror', colsample_bytree=0.3, learning_rate=0.1, max_depth=5,
-                                  alpha=10, n_estimators=10)
-        xg_reg.fit(x_train, y_train)
-        return xg_reg.score(x_test, y_test)
+            x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=.2, random_state=0)
+
+            # lasso = LassoCV.fit(x,y)
+            # importance = np.abs(lasso.coeff_)
+            # feature_names = np.array('cleaned_games'.feature_names)
+            # testText = "Hello"
+            # return testText
+
+            xg_reg = xgb.XGBRegressor(objective='reg:squarederror', colsample_bytree=0.3, learning_rate=0.1, max_depth=5,
+                                    alpha=10, n_estimators=10)
+            xg_reg.fit(x_train, y_train)
+            xgb_score = xg_reg.score(x_test, y_test)
+            score_list.append(xgb_score)
+        
+        return score_list
