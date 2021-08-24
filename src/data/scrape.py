@@ -59,6 +59,10 @@ for year in range(2019, 2021):
     # Pulls player individual game stats
     for week in range(1,20):
         try:
+            print(week)
+            team_stats = games_api_instance.get_team_game_stats(year=year, week=week)
+            team_stats_writer = ScrapeWriter(team_stats, 'team_stats', year, week)
+            team_stats_writer.write_scraped_data()
             player_game_stats = games_api_instance.get_player_game_stats(year=year, season_type='both', week=week)
             player_game_stats_writer = ScrapeWriter(player_game_stats, 'player_game_stats', year, week)
             player_game_stats_writer.write_scraped_data()
