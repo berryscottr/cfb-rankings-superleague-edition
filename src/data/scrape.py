@@ -48,7 +48,7 @@ class ScrapeWriter():
 
 
 # for year in range(2010, datetime.datetime.now.year):
-for year in range(2019, 2021):
+for year in range(2010, 2021):
     print('Starting year: {}'.format(year))
 
     # Pulls games
