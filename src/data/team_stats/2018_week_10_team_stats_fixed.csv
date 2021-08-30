@@ -28,6 +28,38 @@ game_id,team,category,stat
 401013345,Northwestern,fumblesLost,0
 401013345,Northwestern,interceptions,0
 401013345,Northwestern,possessionTime,30:24
+401013345,Notre Dame,rushingTDs,2
+401013345,Notre Dame,puntReturnYards,54
+401013345,Notre Dame,puntReturnTDs,0
+401013345,Notre Dame,puntReturns,4
+401013345,Notre Dame,passingTDs,2
+401013345,Notre Dame,kickReturnYards,52
+401013345,Notre Dame,kickReturnTDs,0
+401013345,Notre Dame,kickReturns,3
+401013345,Notre Dame,kickingPoints,7
+401013345,Notre Dame,fumblesRecovered,0
+401013345,Notre Dame,totalFumbles,1
+401013345,Notre Dame,tacklesForLoss,6
+401013345,Notre Dame,defensiveTDs,0
+401013345,Notre Dame,tackles,43
+401013345,Notre Dame,sacks,5
+401013345,Notre Dame,qbHurries,2
+401013345,Notre Dame,passesDeflected,5
+401013345,Notre Dame,firstDowns,25
+401013345,Notre Dame,thirdDownEff,5-14
+401013345,Notre Dame,fourthDownEff,3-3
+401013345,Notre Dame,totalYards,464
+401013345,Notre Dame,netPassingYards,343
+401013345,Notre Dame,completionAttempts,22-34
+401013345,Notre Dame,yardsPerPass,10.1
+401013345,Notre Dame,rushingYards,121
+401013345,Notre Dame,rushingAttempts,40
+401013345,Notre Dame,yardsPerRushAttempt,3.0
+401013345,Notre Dame,totalPenaltiesYards,8-58
+401013345,Notre Dame,turnovers,1
+401013345,Notre Dame,fumblesLost,1
+401013345,Notre Dame,interceptions,0
+401013345,Notre Dame,possessionTime,29:36
 401012326,Kentucky,fumblesRecovered,2
 401012326,Kentucky,totalFumbles,2
 401012326,Kentucky,tacklesForLoss,4
@@ -36,6 +68,14 @@ game_id,team,category,stat
 401012326,Kentucky,sacks,0
 401012326,Kentucky,qbHurries,1
 401012326,Kentucky,passesDeflected,2
+401012326,Georgia,fumblesRecovered,2
+401012326,Georgia,totalFumbles,2
+401012326,Georgia,tacklesForLoss,5
+401012326,Georgia,defensiveTDs,0
+401012326,Georgia,tackles,38
+401012326,Georgia,sacks,4
+401012326,Georgia,qbHurries,3
+401012326,Georgia,passesDeflected,1
 401012325,Missouri,fumblesRecovered,0
 401012325,Missouri,rushingTDs,2
 401012325,Missouri,puntReturnYards,12
@@ -67,6 +107,34 @@ game_id,team,category,stat
 401012325,Missouri,fumblesLost,0
 401012325,Missouri,interceptions,0
 401012325,Missouri,possessionTime,34:36
+401012325,Florida,fumblesRecovered,0
+401012325,Florida,rushingTDs,1
+401012325,Florida,puntReturnYards,0
+401012325,Florida,puntReturnTDs,0
+401012325,Florida,puntReturns,1
+401012325,Florida,passingTDs,1
+401012325,Florida,kickingPoints,5
+401012325,Florida,tacklesForLoss,4
+401012325,Florida,defensiveTDs,0
+401012325,Florida,tackles,36
+401012325,Florida,sacks,1
+401012325,Florida,qbHurries,0
+401012325,Florida,passesDeflected,5
+401012325,Florida,firstDowns,17
+401012325,Florida,thirdDownEff,3-15
+401012325,Florida,fourthDownEff,2-4
+401012325,Florida,totalYards,323
+401012325,Florida,netPassingYards,210
+401012325,Florida,completionAttempts,19-40
+401012325,Florida,yardsPerPass,5.3
+401012325,Florida,rushingYards,113
+401012325,Florida,rushingAttempts,28
+401012325,Florida,yardsPerRushAttempt,4.0
+401012325,Florida,totalPenaltiesYards,8-66
+401012325,Florida,turnovers,0
+401012325,Florida,fumblesLost,0
+401012325,Florida,interceptions,0
+401012325,Florida,possessionTime,25:24
 401012330,Charlotte,fumblesRecovered,0
 401012330,Charlotte,rushingTDs,0
 401012330,Charlotte,puntReturnYards,10
@@ -98,6 +166,41 @@ game_id,team,category,stat
 401012330,Charlotte,fumblesLost,0
 401012330,Charlotte,interceptions,1
 401012330,Charlotte,possessionTime,33:13
+401012330,Tennessee,rushingTDs,0
+401012330,Tennessee,puntReturnYards,98
+401012330,Tennessee,puntReturnTDs,1
+401012330,Tennessee,puntReturns,3
+401012330,Tennessee,passingTDs,1
+401012330,Tennessee,kickReturnYards,29
+401012330,Tennessee,kickReturnTDs,0
+401012330,Tennessee,kickReturns,1
+401012330,Tennessee,kickingPoints,2
+401012330,Tennessee,interceptionYards,18
+401012330,Tennessee,interceptionTDs,0
+401012330,Tennessee,passesIntercepted,1
+401012330,Tennessee,fumblesRecovered,0
+401012330,Tennessee,totalFumbles,1
+401012330,Tennessee,tacklesForLoss,8
+401012330,Tennessee,defensiveTDs,1
+401012330,Tennessee,tackles,32
+401012330,Tennessee,sacks,3
+401012330,Tennessee,qbHurries,1
+401012330,Tennessee,passesDeflected,4
+401012330,Tennessee,firstDowns,10
+401012330,Tennessee,thirdDownEff,4-12
+401012330,Tennessee,fourthDownEff,0-0
+401012330,Tennessee,totalYards,192
+401012330,Tennessee,netPassingYards,172
+401012330,Tennessee,completionAttempts,16-21
+401012330,Tennessee,yardsPerPass,8.2
+401012330,Tennessee,rushingYards,20
+401012330,Tennessee,rushingAttempts,26
+401012330,Tennessee,yardsPerRushAttempt,0.8
+401012330,Tennessee,totalPenaltiesYards,4-55
+401012330,Tennessee,turnovers,0
+401012330,Tennessee,fumblesLost,0
+401012330,Tennessee,interceptions,0
+401012330,Tennessee,possessionTime,26:47
 401012328,Ole Miss,rushingTDs,5
 401012328,Ole Miss,puntReturnYards,13
 401012328,Ole Miss,puntReturnTDs,0
@@ -130,6 +233,28 @@ game_id,team,category,stat
 401012328,Ole Miss,fumblesLost,1
 401012328,Ole Miss,interceptions,0
 401012328,Ole Miss,possessionTime,35:35
+401012328,South Carolina,fumblesRecovered,1
+401012328,South Carolina,rushingTDs,3
+401012328,South Carolina,passingTDs,2
+401012328,South Carolina,kickReturnYards,189
+401012328,South Carolina,kickReturnTDs,1
+401012328,South Carolina,kickReturns,7
+401012328,South Carolina,kickingPoints,12
+401012328,South Carolina,firstDowns,18
+401012328,South Carolina,thirdDownEff,6-14
+401012328,South Carolina,fourthDownEff,0-1
+401012328,South Carolina,totalYards,510
+401012328,South Carolina,netPassingYards,363
+401012328,South Carolina,completionAttempts,22-32
+401012328,South Carolina,yardsPerPass,11.3
+401012328,South Carolina,rushingYards,147
+401012328,South Carolina,rushingAttempts,37
+401012328,South Carolina,yardsPerRushAttempt,4.0
+401012328,South Carolina,totalPenaltiesYards,5-51
+401012328,South Carolina,turnovers,0
+401012328,South Carolina,fumblesLost,0
+401012328,South Carolina,interceptions,0
+401012328,South Carolina,possessionTime,24:25
 401012327,LSU,fumblesRecovered,0
 401012327,LSU,rushingTDs,0
 401012327,LSU,passingTDs,0
@@ -161,6 +286,38 @@ game_id,team,category,stat
 401012327,LSU,fumblesLost,0
 401012327,LSU,interceptions,1
 401012327,LSU,possessionTime,24:42
+401012327,Alabama,rushingTDs,2
+401012327,Alabama,puntReturnYards,-3
+401012327,Alabama,puntReturnTDs,0
+401012327,Alabama,puntReturns,1
+401012327,Alabama,passingTDs,2
+401012327,Alabama,kickingPoints,5
+401012327,Alabama,interceptionYards,0
+401012327,Alabama,interceptionTDs,0
+401012327,Alabama,passesIntercepted,1
+401012327,Alabama,fumblesRecovered,0
+401012327,Alabama,totalFumbles,1
+401012327,Alabama,tacklesForLoss,10
+401012327,Alabama,defensiveTDs,0
+401012327,Alabama,tackles,25
+401012327,Alabama,sacks,5
+401012327,Alabama,qbHurries,2
+401012327,Alabama,passesDeflected,7
+401012327,Alabama,firstDowns,29
+401012327,Alabama,thirdDownEff,8-14
+401012327,Alabama,fourthDownEff,1-1
+401012327,Alabama,totalYards,576
+401012327,Alabama,netPassingYards,295
+401012327,Alabama,completionAttempts,25-42
+401012327,Alabama,yardsPerPass,7.0
+401012327,Alabama,rushingYards,281
+401012327,Alabama,rushingAttempts,37
+401012327,Alabama,yardsPerRushAttempt,7.6
+401012327,Alabama,totalPenaltiesYards,6-60
+401012327,Alabama,turnovers,1
+401012327,Alabama,fumblesLost,0
+401012327,Alabama,interceptions,1
+401012327,Alabama,possessionTime,35:18
 401012329,Louisiana Tech,fumblesRecovered,0
 401012329,Louisiana Tech,rushingTDs,0
 401012329,Louisiana Tech,passingTDs,0
@@ -183,6 +340,40 @@ game_id,team,category,stat
 401012329,Louisiana Tech,fumblesLost,0
 401012329,Louisiana Tech,interceptions,1
 401012329,Louisiana Tech,possessionTime,29:49
+401012329,Mississippi State,fumblesRecovered,0
+401012329,Mississippi State,rushingTDs,2
+401012329,Mississippi State,puntReturnYards,41
+401012329,Mississippi State,puntReturnTDs,0
+401012329,Mississippi State,puntReturns,2
+401012329,Mississippi State,passingTDs,4
+401012329,Mississippi State,kickReturnYards,41
+401012329,Mississippi State,kickReturnTDs,0
+401012329,Mississippi State,kickReturns,2
+401012329,Mississippi State,kickingPoints,9
+401012329,Mississippi State,interceptionYards,29
+401012329,Mississippi State,interceptionTDs,0
+401012329,Mississippi State,passesIntercepted,1
+401012329,Mississippi State,tacklesForLoss,3
+401012329,Mississippi State,defensiveTDs,0
+401012329,Mississippi State,tackles,28
+401012329,Mississippi State,sacks,1
+401012329,Mississippi State,qbHurries,4
+401012329,Mississippi State,passesDeflected,4
+401012329,Mississippi State,firstDowns,26
+401012329,Mississippi State,thirdDownEff,5-10
+401012329,Mississippi State,fourthDownEff,1-1
+401012329,Mississippi State,totalYards,532
+401012329,Mississippi State,netPassingYards,243
+401012329,Mississippi State,completionAttempts,17-29
+401012329,Mississippi State,yardsPerPass,8.4
+401012329,Mississippi State,rushingYards,289
+401012329,Mississippi State,rushingAttempts,36
+401012329,Mississippi State,yardsPerRushAttempt,8.0
+401012329,Mississippi State,totalPenaltiesYards,3-25
+401012329,Mississippi State,turnovers,0
+401012329,Mississippi State,fumblesLost,0
+401012329,Mississippi State,interceptions,0
+401012329,Mississippi State,possessionTime,30:11
 401012324,Texas A&M,rushingTDs,2
 401012324,Texas A&M,puntReturnYards,7
 401012324,Texas A&M,puntReturnTDs,0
@@ -215,6 +406,41 @@ game_id,team,category,stat
 401012324,Texas A&M,fumblesLost,1
 401012324,Texas A&M,interceptions,1
 401012324,Texas A&M,possessionTime,38:21
+401012324,Auburn,rushingTDs,1
+401012324,Auburn,puntReturnYards,28
+401012324,Auburn,puntReturnTDs,0
+401012324,Auburn,puntReturns,3
+401012324,Auburn,passingTDs,3
+401012324,Auburn,kickReturnYards,8
+401012324,Auburn,kickReturnTDs,0
+401012324,Auburn,kickReturns,1
+401012324,Auburn,kickingPoints,4
+401012324,Auburn,interceptionYards,0
+401012324,Auburn,interceptionTDs,0
+401012324,Auburn,passesIntercepted,1
+401012324,Auburn,fumblesRecovered,1
+401012324,Auburn,totalFumbles,2
+401012324,Auburn,tacklesForLoss,12
+401012324,Auburn,defensiveTDs,0
+401012324,Auburn,tackles,48
+401012324,Auburn,sacks,5
+401012324,Auburn,qbHurries,6
+401012324,Auburn,passesDeflected,2
+401012324,Auburn,firstDowns,13
+401012324,Auburn,thirdDownEff,3-11
+401012324,Auburn,fourthDownEff,0-0
+401012324,Auburn,totalYards,278
+401012324,Auburn,netPassingYards,259
+401012324,Auburn,completionAttempts,19-30
+401012324,Auburn,yardsPerPass,8.6
+401012324,Auburn,rushingYards,19
+401012324,Auburn,rushingAttempts,21
+401012324,Auburn,yardsPerRushAttempt,0.9
+401012324,Auburn,totalPenaltiesYards,6-39
+401012324,Auburn,turnovers,0
+401012324,Auburn,fumblesLost,0
+401012324,Auburn,interceptions,0
+401012324,Auburn,possessionTime,21:19
 401020770,Buffalo,rushingTDs,4
 401020770,Buffalo,puntReturnYards,2
 401020770,Buffalo,puntReturnTDs,0
@@ -247,6 +473,38 @@ game_id,team,category,stat
 401020770,Buffalo,fumblesLost,0
 401020770,Buffalo,interceptions,0
 401020770,Buffalo,possessionTime,29:38
+401020770,Miami (OH),rushingTDs,5
+401020770,Miami (OH),puntReturnYards,0
+401020770,Miami (OH),puntReturnTDs,0
+401020770,Miami (OH),puntReturns,1
+401020770,Miami (OH),passingTDs,1
+401020770,Miami (OH),kickReturnYards,124
+401020770,Miami (OH),kickReturnTDs,0
+401020770,Miami (OH),kickReturns,4
+401020770,Miami (OH),kickingPoints,6
+401020770,Miami (OH),fumblesRecovered,0
+401020770,Miami (OH),totalFumbles,1
+401020770,Miami (OH),tacklesForLoss,8
+401020770,Miami (OH),defensiveTDs,0
+401020770,Miami (OH),tackles,47
+401020770,Miami (OH),sacks,2
+401020770,Miami (OH),qbHurries,1
+401020770,Miami (OH),passesDeflected,4
+401020770,Miami (OH),firstDowns,23
+401020770,Miami (OH),thirdDownEff,6-14
+401020770,Miami (OH),fourthDownEff,2-4
+401020770,Miami (OH),totalYards,453
+401020770,Miami (OH),netPassingYards,313
+401020770,Miami (OH),completionAttempts,20-35
+401020770,Miami (OH),yardsPerPass,8.9
+401020770,Miami (OH),rushingYards,140
+401020770,Miami (OH),rushingAttempts,41
+401020770,Miami (OH),yardsPerRushAttempt,3.4
+401020770,Miami (OH),totalPenaltiesYards,13-139
+401020770,Miami (OH),turnovers,1
+401020770,Miami (OH),fumblesLost,1
+401020770,Miami (OH),interceptions,0
+401020770,Miami (OH),possessionTime,30:22
 401020773,Western Michigan,rushingTDs,1
 401020773,Western Michigan,passingTDs,1
 401020773,Western Michigan,kickReturnYards,73
@@ -276,6 +534,41 @@ game_id,team,category,stat
 401020773,Western Michigan,fumblesLost,4
 401020773,Western Michigan,interceptions,2
 401020773,Western Michigan,possessionTime,29:04
+401020773,Ohio,rushingTDs,4
+401020773,Ohio,puntReturnYards,23
+401020773,Ohio,puntReturnTDs,1
+401020773,Ohio,puntReturns,2
+401020773,Ohio,passingTDs,3
+401020773,Ohio,kickReturnYards,49
+401020773,Ohio,kickReturnTDs,0
+401020773,Ohio,kickReturns,2
+401020773,Ohio,kickingPoints,11
+401020773,Ohio,interceptionYards,4
+401020773,Ohio,interceptionTDs,0
+401020773,Ohio,passesIntercepted,2
+401020773,Ohio,fumblesRecovered,4
+401020773,Ohio,totalFumbles,0
+401020773,Ohio,tacklesForLoss,5
+401020773,Ohio,defensiveTDs,1
+401020773,Ohio,tackles,43
+401020773,Ohio,sacks,2
+401020773,Ohio,qbHurries,1
+401020773,Ohio,passesDeflected,1
+401020773,Ohio,firstDowns,24
+401020773,Ohio,thirdDownEff,5-11
+401020773,Ohio,fourthDownEff,0-0
+401020773,Ohio,totalYards,420
+401020773,Ohio,netPassingYards,164
+401020773,Ohio,completionAttempts,13-19
+401020773,Ohio,yardsPerPass,8.6
+401020773,Ohio,rushingYards,256
+401020773,Ohio,rushingAttempts,41
+401020773,Ohio,yardsPerRushAttempt,6.2
+401020773,Ohio,totalPenaltiesYards,8-75
+401020773,Ohio,turnovers,0
+401020773,Ohio,fumblesLost,0
+401020773,Ohio,interceptions,0
+401020773,Ohio,possessionTime,30:56
 401020769,Bowling Green,rushingTDs,0
 401020769,Bowling Green,puntReturnYards,55
 401020769,Bowling Green,puntReturnTDs,0
@@ -305,6 +598,41 @@ game_id,team,category,stat
 401020769,Bowling Green,fumblesLost,0
 401020769,Bowling Green,interceptions,1
 401020769,Bowling Green,possessionTime,31:26
+401020769,Kent State,rushingTDs,3
+401020769,Kent State,puntReturnYards,6
+401020769,Kent State,puntReturnTDs,0
+401020769,Kent State,puntReturns,5
+401020769,Kent State,passingTDs,2
+401020769,Kent State,kickReturnYards,31
+401020769,Kent State,kickReturnTDs,0
+401020769,Kent State,kickReturns,3
+401020769,Kent State,kickingPoints,5
+401020769,Kent State,interceptionYards,0
+401020769,Kent State,interceptionTDs,0
+401020769,Kent State,passesIntercepted,1
+401020769,Kent State,fumblesRecovered,0
+401020769,Kent State,totalFumbles,2
+401020769,Kent State,tacklesForLoss,5
+401020769,Kent State,defensiveTDs,0
+401020769,Kent State,tackles,42
+401020769,Kent State,sacks,3
+401020769,Kent State,qbHurries,3
+401020769,Kent State,passesDeflected,7
+401020769,Kent State,firstDowns,21
+401020769,Kent State,thirdDownEff,7-17
+401020769,Kent State,fourthDownEff,1-1
+401020769,Kent State,totalYards,382
+401020769,Kent State,netPassingYards,157
+401020769,Kent State,completionAttempts,14-24
+401020769,Kent State,yardsPerPass,6.5
+401020769,Kent State,rushingYards,225
+401020769,Kent State,rushingAttempts,50
+401020769,Kent State,yardsPerRushAttempt,4.5
+401020769,Kent State,totalPenaltiesYards,11-86
+401020769,Kent State,turnovers,1
+401020769,Kent State,fumblesLost,1
+401020769,Kent State,interceptions,0
+401020769,Kent State,possessionTime,28:25
 401020772,Northern Illinois,rushingTDs,2
 401020772,Northern Illinois,puntReturnYards,0
 401020772,Northern Illinois,puntReturnTDs,0
@@ -340,6 +668,35 @@ game_id,team,category,stat
 401020772,Northern Illinois,fumblesLost,1
 401020772,Northern Illinois,interceptions,0
 401020772,Northern Illinois,possessionTime,33:00
+401020772,Akron,rushingTDs,0
+401020772,Akron,passingTDs,3
+401020772,Akron,kickReturnYards,39
+401020772,Akron,kickReturnTDs,0
+401020772,Akron,kickReturns,2
+401020772,Akron,kickingPoints,8
+401020772,Akron,fumblesRecovered,1
+401020772,Akron,totalFumbles,0
+401020772,Akron,tacklesForLoss,5
+401020772,Akron,defensiveTDs,0
+401020772,Akron,tackles,45
+401020772,Akron,sacks,4
+401020772,Akron,qbHurries,1
+401020772,Akron,passesDeflected,1
+401020772,Akron,firstDowns,19
+401020772,Akron,thirdDownEff,5-14
+401020772,Akron,fourthDownEff,0-1
+401020772,Akron,totalYards,361
+401020772,Akron,netPassingYards,326
+401020772,Akron,completionAttempts,21-38
+401020772,Akron,yardsPerPass,8.6
+401020772,Akron,rushingYards,35
+401020772,Akron,rushingAttempts,28
+401020772,Akron,yardsPerRushAttempt,1.3
+401020772,Akron,totalPenaltiesYards,7-50
+401020772,Akron,turnovers,2
+401020772,Akron,fumblesLost,0
+401020772,Akron,interceptions,2
+401020772,Akron,possessionTime,25:55
 401020771,Ball State,rushingTDs,1
 401020771,Ball State,passingTDs,1
 401020771,Ball State,kickReturnYards,38
@@ -372,6 +729,41 @@ game_id,team,category,stat
 401020771,Ball State,fumblesLost,3
 401020771,Ball State,interceptions,2
 401020771,Ball State,possessionTime,30:45
+401020771,Toledo,rushingTDs,3
+401020771,Toledo,puntReturnYards,4
+401020771,Toledo,puntReturnTDs,0
+401020771,Toledo,puntReturns,1
+401020771,Toledo,passingTDs,2
+401020771,Toledo,kickReturnYards,51
+401020771,Toledo,kickReturnTDs,0
+401020771,Toledo,kickReturns,2
+401020771,Toledo,kickingPoints,9
+401020771,Toledo,interceptionYards,31
+401020771,Toledo,interceptionTDs,0
+401020771,Toledo,passesIntercepted,2
+401020771,Toledo,fumblesRecovered,3
+401020771,Toledo,totalFumbles,1
+401020771,Toledo,tacklesForLoss,8
+401020771,Toledo,defensiveTDs,0
+401020771,Toledo,tackles,41
+401020771,Toledo,sacks,4
+401020771,Toledo,qbHurries,4
+401020771,Toledo,passesDeflected,5
+401020771,Toledo,firstDowns,27
+401020771,Toledo,thirdDownEff,5-11
+401020771,Toledo,fourthDownEff,1-1
+401020771,Toledo,totalYards,531
+401020771,Toledo,netPassingYards,327
+401020771,Toledo,completionAttempts,25-35
+401020771,Toledo,yardsPerPass,9.3
+401020771,Toledo,rushingYards,204
+401020771,Toledo,rushingAttempts,38
+401020771,Toledo,yardsPerRushAttempt,5.4
+401020771,Toledo,totalPenaltiesYards,6-45
+401020771,Toledo,turnovers,5
+401020771,Toledo,fumblesLost,0
+401020771,Toledo,interceptions,5
+401020771,Toledo,possessionTime,29:08
 401020774,Central Michigan,fumblesRecovered,2
 401020774,Central Michigan,totalFumbles,4
 401020774,Central Michigan,tacklesForLoss,13
@@ -380,6 +772,14 @@ game_id,team,category,stat
 401020774,Central Michigan,sacks,3
 401020774,Central Michigan,qbHurries,0
 401020774,Central Michigan,passesDeflected,2
+401020774,Eastern Michigan,fumblesRecovered,2
+401020774,Eastern Michigan,totalFumbles,3
+401020774,Eastern Michigan,tacklesForLoss,8
+401020774,Eastern Michigan,defensiveTDs,0
+401020774,Eastern Michigan,tackles,14
+401020774,Eastern Michigan,sacks,4
+401020774,Eastern Michigan,qbHurries,4
+401020774,Eastern Michigan,passesDeflected,5
 401021687,Troy,rushingTDs,1
 401021687,Troy,passingTDs,1
 401021687,Troy,kickReturnYards,75
@@ -412,6 +812,38 @@ game_id,team,category,stat
 401021687,Troy,fumblesLost,1
 401021687,Troy,interceptions,0
 401021687,Troy,possessionTime,31:34
+401021687,Louisiana,rushingTDs,2
+401021687,Louisiana,puntReturnYards,0
+401021687,Louisiana,puntReturnTDs,0
+401021687,Louisiana,puntReturns,1
+401021687,Louisiana,passingTDs,0
+401021687,Louisiana,kickReturnYards,158
+401021687,Louisiana,kickReturnTDs,0
+401021687,Louisiana,kickReturns,5
+401021687,Louisiana,kickingPoints,4
+401021687,Louisiana,fumblesRecovered,1
+401021687,Louisiana,totalFumbles,3
+401021687,Louisiana,tacklesForLoss,5
+401021687,Louisiana,defensiveTDs,0
+401021687,Louisiana,tackles,30
+401021687,Louisiana,sacks,1
+401021687,Louisiana,qbHurries,1
+401021687,Louisiana,passesDeflected,3
+401021687,Louisiana,firstDowns,18
+401021687,Louisiana,thirdDownEff,5-15
+401021687,Louisiana,fourthDownEff,1-2
+401021687,Louisiana,totalYards,270
+401021687,Louisiana,netPassingYards,170
+401021687,Louisiana,completionAttempts,14-29
+401021687,Louisiana,yardsPerPass,5.9
+401021687,Louisiana,rushingYards,100
+401021687,Louisiana,rushingAttempts,36
+401021687,Louisiana,yardsPerRushAttempt,2.8
+401021687,Louisiana,totalPenaltiesYards,5-42
+401021687,Louisiana,turnovers,3
+401021687,Louisiana,fumblesLost,1
+401021687,Louisiana,interceptions,2
+401021687,Louisiana,possessionTime,28:26
 401021684,South Alabama,rushingTDs,0
 401021684,South Alabama,passingTDs,2
 401021684,South Alabama,kickReturnYards,57
@@ -441,6 +873,38 @@ game_id,team,category,stat
 401021684,South Alabama,fumblesLost,0
 401021684,South Alabama,interceptions,0
 401021684,South Alabama,possessionTime,30:58
+401021684,Arkansas State,rushingTDs,2
+401021684,Arkansas State,puntReturnYards,34
+401021684,Arkansas State,puntReturnTDs,0
+401021684,Arkansas State,puntReturns,4
+401021684,Arkansas State,passingTDs,3
+401021684,Arkansas State,kickReturnYards,25
+401021684,Arkansas State,kickReturnTDs,0
+401021684,Arkansas State,kickReturns,1
+401021684,Arkansas State,kickingPoints,8
+401021684,Arkansas State,fumblesRecovered,0
+401021684,Arkansas State,totalFumbles,1
+401021684,Arkansas State,tacklesForLoss,8
+401021684,Arkansas State,defensiveTDs,0
+401021684,Arkansas State,tackles,27
+401021684,Arkansas State,sacks,3
+401021684,Arkansas State,qbHurries,0
+401021684,Arkansas State,passesDeflected,5
+401021684,Arkansas State,firstDowns,26
+401021684,Arkansas State,thirdDownEff,8-16
+401021684,Arkansas State,fourthDownEff,0-1
+401021684,Arkansas State,totalYards,509
+401021684,Arkansas State,netPassingYards,354
+401021684,Arkansas State,completionAttempts,27-40
+401021684,Arkansas State,yardsPerPass,8.9
+401021684,Arkansas State,rushingYards,155
+401021684,Arkansas State,rushingAttempts,37
+401021684,Arkansas State,yardsPerRushAttempt,4.2
+401021684,Arkansas State,totalPenaltiesYards,3-15
+401021684,Arkansas State,turnovers,0
+401021684,Arkansas State,fumblesLost,0
+401021684,Arkansas State,interceptions,0
+401021684,Arkansas State,possessionTime,29:02
 401021685,Georgia Southern,fumblesRecovered,0
 401021685,Georgia Southern,rushingTDs,0
 401021685,Georgia Southern,puntReturnYards,34
@@ -475,6 +939,35 @@ game_id,team,category,stat
 401021685,Georgia Southern,fumblesLost,1
 401021685,Georgia Southern,interceptions,0
 401021685,Georgia Southern,possessionTime,33:24
+401021685,Louisiana Monroe,rushingTDs,4
+401021685,Louisiana Monroe,passingTDs,2
+401021685,Louisiana Monroe,kickReturnYards,10
+401021685,Louisiana Monroe,kickReturnTDs,0
+401021685,Louisiana Monroe,kickReturns,1
+401021685,Louisiana Monroe,kickingPoints,8
+401021685,Louisiana Monroe,fumblesRecovered,1
+401021685,Louisiana Monroe,totalFumbles,1
+401021685,Louisiana Monroe,tacklesForLoss,9
+401021685,Louisiana Monroe,defensiveTDs,0
+401021685,Louisiana Monroe,tackles,42
+401021685,Louisiana Monroe,sacks,5
+401021685,Louisiana Monroe,qbHurries,1
+401021685,Louisiana Monroe,passesDeflected,2
+401021685,Louisiana Monroe,firstDowns,21
+401021685,Louisiana Monroe,thirdDownEff,3-10
+401021685,Louisiana Monroe,fourthDownEff,2-3
+401021685,Louisiana Monroe,totalYards,573
+401021685,Louisiana Monroe,netPassingYards,337
+401021685,Louisiana Monroe,completionAttempts,13-22
+401021685,Louisiana Monroe,yardsPerPass,15.3
+401021685,Louisiana Monroe,rushingYards,236
+401021685,Louisiana Monroe,rushingAttempts,42
+401021685,Louisiana Monroe,yardsPerRushAttempt,5.6
+401021685,Louisiana Monroe,totalPenaltiesYards,8-75
+401021685,Louisiana Monroe,turnovers,2
+401021685,Louisiana Monroe,fumblesLost,0
+401021685,Louisiana Monroe,interceptions,2
+401021685,Louisiana Monroe,possessionTime,26:36
 401013164,NC State,rushingTDs,2
 401013164,NC State,puntReturnYards,14
 401013164,NC State,puntReturnTDs,0
@@ -510,6 +1003,35 @@ game_id,team,category,stat
 401013164,NC State,fumblesLost,0
 401013164,NC State,interceptions,0
 401013164,NC State,possessionTime,37:30
+401013164,Florida State,rushingTDs,0
+401013164,Florida State,passingTDs,4
+401013164,Florida State,kickReturnYards,136
+401013164,Florida State,kickReturnTDs,0
+401013164,Florida State,kickReturns,6
+401013164,Florida State,kickingPoints,4
+401013164,Florida State,fumblesRecovered,0
+401013164,Florida State,totalFumbles,1
+401013164,Florida State,tacklesForLoss,5
+401013164,Florida State,defensiveTDs,0
+401013164,Florida State,tackles,36
+401013164,Florida State,sacks,0
+401013164,Florida State,qbHurries,1
+401013164,Florida State,passesDeflected,1
+401013164,Florida State,firstDowns,17
+401013164,Florida State,thirdDownEff,3-15
+401013164,Florida State,fourthDownEff,4-7
+401013164,Florida State,totalYards,445
+401013164,Florida State,netPassingYards,421
+401013164,Florida State,completionAttempts,29-48
+401013164,Florida State,yardsPerPass,8.8
+401013164,Florida State,rushingYards,24
+401013164,Florida State,rushingAttempts,20
+401013164,Florida State,yardsPerRushAttempt,1.2
+401013164,Florida State,totalPenaltiesYards,15-116
+401013164,Florida State,turnovers,2
+401013164,Florida State,fumblesLost,1
+401013164,Florida State,interceptions,1
+401013164,Florida State,possessionTime,22:30
 401013161,Virginia Tech,rushingTDs,0
 401013161,Virginia Tech,puntReturnYards,16
 401013161,Virginia Tech,puntReturnTDs,0
@@ -542,6 +1064,41 @@ game_id,team,category,stat
 401013161,Virginia Tech,fumblesLost,1
 401013161,Virginia Tech,interceptions,1
 401013161,Virginia Tech,possessionTime,30:58
+401013161,Boston College,rushingTDs,3
+401013161,Boston College,puntReturnYards,33
+401013161,Boston College,puntReturnTDs,0
+401013161,Boston College,puntReturns,2
+401013161,Boston College,passingTDs,1
+401013161,Boston College,kickReturnYards,22
+401013161,Boston College,kickReturnTDs,0
+401013161,Boston College,kickReturns,1
+401013161,Boston College,kickingPoints,7
+401013161,Boston College,interceptionYards,1
+401013161,Boston College,interceptionTDs,0
+401013161,Boston College,passesIntercepted,1
+401013161,Boston College,fumblesRecovered,1
+401013161,Boston College,totalFumbles,2
+401013161,Boston College,tacklesForLoss,3
+401013161,Boston College,defensiveTDs,0
+401013161,Boston College,tackles,39
+401013161,Boston College,sacks,0
+401013161,Boston College,qbHurries,9
+401013161,Boston College,passesDeflected,5
+401013161,Boston College,firstDowns,19
+401013161,Boston College,thirdDownEff,4-16
+401013161,Boston College,fourthDownEff,0-1
+401013161,Boston College,totalYards,396
+401013161,Boston College,netPassingYards,177
+401013161,Boston College,completionAttempts,15-26
+401013161,Boston College,yardsPerPass,6.8
+401013161,Boston College,rushingYards,219
+401013161,Boston College,rushingAttempts,49
+401013161,Boston College,yardsPerRushAttempt,4.5
+401013161,Boston College,totalPenaltiesYards,4-39
+401013161,Boston College,turnovers,1
+401013161,Boston College,fumblesLost,1
+401013161,Boston College,interceptions,0
+401013161,Boston College,possessionTime,29:02
 401013162,Louisville,rushingTDs,1
 401013162,Louisville,passingTDs,0
 401013162,Louisville,kickReturnYards,247
@@ -574,6 +1131,41 @@ game_id,team,category,stat
 401013162,Louisville,fumblesLost,1
 401013162,Louisville,interceptions,2
 401013162,Louisville,possessionTime,37:32
+401013162,Clemson,rushingTDs,5
+401013162,Clemson,puntReturnYards,1
+401013162,Clemson,puntReturnTDs,0
+401013162,Clemson,puntReturns,4
+401013162,Clemson,passingTDs,5
+401013162,Clemson,kickReturnYards,52
+401013162,Clemson,kickReturnTDs,0
+401013162,Clemson,kickReturns,2
+401013162,Clemson,kickingPoints,11
+401013162,Clemson,interceptionYards,52
+401013162,Clemson,interceptionTDs,1
+401013162,Clemson,passesIntercepted,2
+401013162,Clemson,fumblesRecovered,1
+401013162,Clemson,totalFumbles,0
+401013162,Clemson,tacklesForLoss,8.5
+401013162,Clemson,defensiveTDs,1
+401013162,Clemson,tackles,39
+401013162,Clemson,sacks,5.5
+401013162,Clemson,qbHurries,3
+401013162,Clemson,passesDeflected,1
+401013162,Clemson,firstDowns,29
+401013162,Clemson,thirdDownEff,7-8
+401013162,Clemson,fourthDownEff,0-0
+401013162,Clemson,totalYards,661
+401013162,Clemson,netPassingYards,169
+401013162,Clemson,completionAttempts,14-20
+401013162,Clemson,yardsPerPass,8.4
+401013162,Clemson,rushingYards,492
+401013162,Clemson,rushingAttempts,37
+401013162,Clemson,yardsPerRushAttempt,13.3
+401013162,Clemson,totalPenaltiesYards,3-16
+401013162,Clemson,turnovers,2
+401013162,Clemson,fumblesLost,1
+401013162,Clemson,interceptions,1
+401013162,Clemson,possessionTime,22:15
 401013166,Syracuse,fumblesRecovered,2
 401013166,Syracuse,totalFumbles,0
 401013166,Syracuse,tacklesForLoss,8
@@ -582,6 +1174,14 @@ game_id,team,category,stat
 401013166,Syracuse,sacks,5
 401013166,Syracuse,qbHurries,4
 401013166,Syracuse,passesDeflected,4
+401013166,Wake Forest,fumblesRecovered,0
+401013166,Wake Forest,totalFumbles,2
+401013166,Wake Forest,tacklesForLoss,7
+401013166,Wake Forest,defensiveTDs,0
+401013166,Wake Forest,tackles,61
+401013166,Wake Forest,sacks,3
+401013166,Wake Forest,qbHurries,2
+401013166,Wake Forest,passesDeflected,7
 401013163,Duke,rushingTDs,1
 401013163,Duke,puntReturnYards,1
 401013163,Duke,puntReturnTDs,0
@@ -614,6 +1214,40 @@ game_id,team,category,stat
 401013163,Duke,fumblesLost,0
 401013163,Duke,interceptions,1
 401013163,Duke,possessionTime,27:54
+401013163,Miami,fumblesRecovered,0
+401013163,Miami,rushingTDs,2
+401013163,Miami,puntReturnYards,0
+401013163,Miami,puntReturnTDs,0
+401013163,Miami,puntReturns,1
+401013163,Miami,passingTDs,0
+401013163,Miami,kickReturnYards,75
+401013163,Miami,kickReturnTDs,0
+401013163,Miami,kickReturns,4
+401013163,Miami,kickingPoints,0
+401013163,Miami,interceptionYards,9
+401013163,Miami,interceptionTDs,0
+401013163,Miami,passesIntercepted,1
+401013163,Miami,tacklesForLoss,4
+401013163,Miami,defensiveTDs,0
+401013163,Miami,tackles,28
+401013163,Miami,sacks,1
+401013163,Miami,qbHurries,7
+401013163,Miami,passesDeflected,2
+401013163,Miami,firstDowns,16
+401013163,Miami,thirdDownEff,3-14
+401013163,Miami,fourthDownEff,1-2
+401013163,Miami,totalYards,411
+401013163,Miami,netPassingYards,111
+401013163,Miami,completionAttempts,13-28
+401013163,Miami,yardsPerPass,4.0
+401013163,Miami,rushingYards,300
+401013163,Miami,rushingAttempts,44
+401013163,Miami,yardsPerRushAttempt,6.8
+401013163,Miami,totalPenaltiesYards,6-73
+401013163,Miami,turnovers,2
+401013163,Miami,fumblesLost,2
+401013163,Miami,interceptions,0
+401013163,Miami,possessionTime,32:05
 401013165,North Carolina,rushingTDs,1
 401013165,North Carolina,passingTDs,1
 401013165,North Carolina,kickReturnYards,118
@@ -643,6 +1277,41 @@ game_id,team,category,stat
 401013165,North Carolina,fumblesLost,0
 401013165,North Carolina,interceptions,3
 401013165,North Carolina,possessionTime,23:48
+401013165,Georgia Tech,rushingTDs,4
+401013165,Georgia Tech,puntReturnYards,12
+401013165,Georgia Tech,puntReturnTDs,0
+401013165,Georgia Tech,puntReturns,1
+401013165,Georgia Tech,passingTDs,1
+401013165,Georgia Tech,kickReturnYards,24
+401013165,Georgia Tech,kickReturnTDs,0
+401013165,Georgia Tech,kickReturns,1
+401013165,Georgia Tech,kickingPoints,8
+401013165,Georgia Tech,interceptionYards,22
+401013165,Georgia Tech,interceptionTDs,0
+401013165,Georgia Tech,passesIntercepted,3
+401013165,Georgia Tech,fumblesRecovered,0
+401013165,Georgia Tech,totalFumbles,4
+401013165,Georgia Tech,tacklesForLoss,7
+401013165,Georgia Tech,defensiveTDs,0
+401013165,Georgia Tech,tackles,33
+401013165,Georgia Tech,sacks,0
+401013165,Georgia Tech,qbHurries,6
+401013165,Georgia Tech,passesDeflected,1
+401013165,Georgia Tech,firstDowns,27
+401013165,Georgia Tech,thirdDownEff,4-11
+401013165,Georgia Tech,fourthDownEff,2-4
+401013165,Georgia Tech,totalYards,565
+401013165,Georgia Tech,netPassingYards,104
+401013165,Georgia Tech,completionAttempts,2-2
+401013165,Georgia Tech,yardsPerPass,52.0
+401013165,Georgia Tech,rushingYards,461
+401013165,Georgia Tech,rushingAttempts,74
+401013165,Georgia Tech,yardsPerRushAttempt,6.2
+401013165,Georgia Tech,totalPenaltiesYards,3-20
+401013165,Georgia Tech,turnovers,3
+401013165,Georgia Tech,fumblesLost,3
+401013165,Georgia Tech,interceptions,0
+401013165,Georgia Tech,possessionTime,36:12
 401013160,Pittsburgh,rushingTDs,3
 401013160,Pittsburgh,passingTDs,0
 401013160,Pittsburgh,kickReturnYards,40
@@ -672,6 +1341,38 @@ game_id,team,category,stat
 401013160,Pittsburgh,fumblesLost,0
 401013160,Pittsburgh,interceptions,0
 401013160,Pittsburgh,possessionTime,32:34
+401013160,Virginia,rushingTDs,0
+401013160,Virginia,puntReturnYards,19
+401013160,Virginia,puntReturnTDs,0
+401013160,Virginia,puntReturns,3
+401013160,Virginia,passingTDs,1
+401013160,Virginia,kickReturnYards,73
+401013160,Virginia,kickReturnTDs,0
+401013160,Virginia,kickReturns,3
+401013160,Virginia,kickingPoints,7
+401013160,Virginia,fumblesRecovered,0
+401013160,Virginia,totalFumbles,3
+401013160,Virginia,tacklesForLoss,7
+401013160,Virginia,defensiveTDs,0
+401013160,Virginia,tackles,22
+401013160,Virginia,sacks,3
+401013160,Virginia,qbHurries,0
+401013160,Virginia,passesDeflected,1
+401013160,Virginia,firstDowns,14
+401013160,Virginia,thirdDownEff,5-12
+401013160,Virginia,fourthDownEff,0-2
+401013160,Virginia,totalYards,249
+401013160,Virginia,netPassingYards,205
+401013160,Virginia,completionAttempts,17-24
+401013160,Virginia,yardsPerPass,8.5
+401013160,Virginia,rushingYards,44
+401013160,Virginia,rushingAttempts,26
+401013160,Virginia,yardsPerRushAttempt,1.7
+401013160,Virginia,totalPenaltiesYards,10-81
+401013160,Virginia,turnovers,1
+401013160,Virginia,fumblesLost,1
+401013160,Virginia,interceptions,0
+401013160,Virginia,possessionTime,26:36
 401015033,Southern Mississippi,rushingTDs,1
 401015033,Southern Mississippi,puntReturnYards,-2
 401015033,Southern Mississippi,puntReturnTDs,0
@@ -707,6 +1408,38 @@ game_id,team,category,stat
 401015033,Southern Mississippi,fumblesLost,2
 401015033,Southern Mississippi,interceptions,0
 401015033,Southern Mississippi,possessionTime,38:13
+401015033,Marshall,rushingTDs,1
+401015033,Marshall,puntReturnYards,7
+401015033,Marshall,puntReturnTDs,0
+401015033,Marshall,puntReturns,1
+401015033,Marshall,passingTDs,1
+401015033,Marshall,kickReturnYards,47
+401015033,Marshall,kickReturnTDs,0
+401015033,Marshall,kickReturns,5
+401015033,Marshall,kickingPoints,6
+401015033,Marshall,fumblesRecovered,2
+401015033,Marshall,totalFumbles,3
+401015033,Marshall,tacklesForLoss,13
+401015033,Marshall,defensiveTDs,1
+401015033,Marshall,tackles,45
+401015033,Marshall,sacks,2
+401015033,Marshall,qbHurries,1
+401015033,Marshall,passesDeflected,1
+401015033,Marshall,firstDowns,15
+401015033,Marshall,thirdDownEff,5-13
+401015033,Marshall,fourthDownEff,1-1
+401015033,Marshall,totalYards,249
+401015033,Marshall,netPassingYards,218
+401015033,Marshall,completionAttempts,17-38
+401015033,Marshall,yardsPerPass,5.7
+401015033,Marshall,rushingYards,31
+401015033,Marshall,rushingAttempts,22
+401015033,Marshall,yardsPerRushAttempt,1.4
+401015033,Marshall,totalPenaltiesYards,7-79
+401015033,Marshall,turnovers,4
+401015033,Marshall,fumblesLost,2
+401015033,Marshall,interceptions,2
+401015033,Marshall,possessionTime,21:41
 401015035,Rice,rushingTDs,1
 401015035,Rice,passingTDs,2
 401015035,Rice,kickReturnYards,33
@@ -739,6 +1472,38 @@ game_id,team,category,stat
 401015035,Rice,fumblesLost,0
 401015035,Rice,interceptions,2
 401015035,Rice,possessionTime,27:01
+401015035,UTEP,rushingTDs,5
+401015035,UTEP,puntReturnYards,3
+401015035,UTEP,puntReturnTDs,0
+401015035,UTEP,puntReturns,2
+401015035,UTEP,passingTDs,0
+401015035,UTEP,kickingPoints,4
+401015035,UTEP,interceptionYards,0
+401015035,UTEP,interceptionTDs,0
+401015035,UTEP,passesIntercepted,2
+401015035,UTEP,fumblesRecovered,1
+401015035,UTEP,totalFumbles,1
+401015035,UTEP,tacklesForLoss,4
+401015035,UTEP,defensiveTDs,0
+401015035,UTEP,tackles,22
+401015035,UTEP,sacks,1
+401015035,UTEP,qbHurries,4
+401015035,UTEP,passesDeflected,6
+401015035,UTEP,firstDowns,21
+401015035,UTEP,thirdDownEff,8-14
+401015035,UTEP,fourthDownEff,1-1
+401015035,UTEP,totalYards,410
+401015035,UTEP,netPassingYards,210
+401015035,UTEP,completionAttempts,14-24
+401015035,UTEP,yardsPerPass,8.8
+401015035,UTEP,rushingYards,200
+401015035,UTEP,rushingAttempts,45
+401015035,UTEP,yardsPerRushAttempt,4.4
+401015035,UTEP,totalPenaltiesYards,3-13
+401015035,UTEP,turnovers,2
+401015035,UTEP,fumblesLost,1
+401015035,UTEP,interceptions,1
+401015035,UTEP,possessionTime,31:22
 401013373,Air Force,fumblesRecovered,0
 401013373,Air Force,rushingTDs,2
 401013373,Air Force,puntReturnYards,8
@@ -770,6 +1535,40 @@ game_id,team,category,stat
 401013373,Air Force,fumblesLost,0
 401013373,Air Force,interceptions,1
 401013373,Air Force,possessionTime,22:28
+401013373,Army,fumblesRecovered,0
+401013373,Army,rushingTDs,2
+401013373,Army,puntReturnYards,17
+401013373,Army,puntReturnTDs,0
+401013373,Army,puntReturns,1
+401013373,Army,passingTDs,0
+401013373,Army,kickReturnYards,5
+401013373,Army,kickReturnTDs,0
+401013373,Army,kickReturns,1
+401013373,Army,kickingPoints,5
+401013373,Army,interceptionYards,0
+401013373,Army,interceptionTDs,0
+401013373,Army,passesIntercepted,1
+401013373,Army,tacklesForLoss,3
+401013373,Army,defensiveTDs,0
+401013373,Army,tackles,35
+401013373,Army,sacks,0
+401013373,Army,qbHurries,0
+401013373,Army,passesDeflected,2
+401013373,Army,firstDowns,16
+401013373,Army,thirdDownEff,8-16
+401013373,Army,fourthDownEff,3-3
+401013373,Army,totalYards,286
+401013373,Army,netPassingYards,44
+401013373,Army,completionAttempts,3-5
+401013373,Army,yardsPerPass,8.8
+401013373,Army,rushingYards,242
+401013373,Army,rushingAttempts,59
+401013373,Army,yardsPerRushAttempt,4.1
+401013373,Army,totalPenaltiesYards,5-69
+401013373,Army,turnovers,0
+401013373,Army,fumblesLost,0
+401013373,Army,interceptions,0
+401013373,Army,possessionTime,37:32
 401013034,Baylor,fumblesRecovered,0
 401013034,Baylor,rushingTDs,2
 401013034,Baylor,puntReturnYards,30
@@ -801,6 +1600,37 @@ game_id,team,category,stat
 401013034,Baylor,fumblesLost,0
 401013034,Baylor,interceptions,1
 401013034,Baylor,possessionTime,27:54
+401013034,Oklahoma State,fumblesRecovered,0
+401013034,Oklahoma State,rushingTDs,3
+401013034,Oklahoma State,passingTDs,1
+401013034,Oklahoma State,kickReturnYards,17
+401013034,Oklahoma State,kickReturnTDs,0
+401013034,Oklahoma State,kickReturns,1
+401013034,Oklahoma State,kickingPoints,7
+401013034,Oklahoma State,interceptionYards,0
+401013034,Oklahoma State,interceptionTDs,0
+401013034,Oklahoma State,passesIntercepted,1
+401013034,Oklahoma State,tacklesForLoss,7
+401013034,Oklahoma State,defensiveTDs,0
+401013034,Oklahoma State,tackles,36
+401013034,Oklahoma State,sacks,2
+401013034,Oklahoma State,qbHurries,4
+401013034,Oklahoma State,passesDeflected,1
+401013034,Oklahoma State,firstDowns,32
+401013034,Oklahoma State,thirdDownEff,7-16
+401013034,Oklahoma State,fourthDownEff,2-3
+401013034,Oklahoma State,totalYards,500
+401013034,Oklahoma State,netPassingYards,288
+401013034,Oklahoma State,completionAttempts,24-41
+401013034,Oklahoma State,yardsPerPass,7.0
+401013034,Oklahoma State,rushingYards,212
+401013034,Oklahoma State,rushingAttempts,47
+401013034,Oklahoma State,yardsPerRushAttempt,4.5
+401013034,Oklahoma State,totalPenaltiesYards,12-133
+401013034,Oklahoma State,turnovers,0
+401013034,Oklahoma State,fumblesLost,0
+401013034,Oklahoma State,interceptions,0
+401013034,Oklahoma State,possessionTime,31:59
 401013063,TCU,fumblesRecovered,2
 401013063,TCU,rushingTDs,1
 401013063,TCU,puntReturnYards,6
@@ -829,6 +1659,38 @@ game_id,team,category,stat
 401013063,TCU,fumblesLost,1
 401013063,TCU,interceptions,0
 401013063,TCU,possessionTime,24:46
+401013063,Kansas State,rushingTDs,1
+401013063,Kansas State,puntReturnYards,44
+401013063,Kansas State,puntReturnTDs,0
+401013063,Kansas State,puntReturns,5
+401013063,Kansas State,passingTDs,1
+401013063,Kansas State,kickReturnYards,32
+401013063,Kansas State,kickReturnTDs,0
+401013063,Kansas State,kickReturns,2
+401013063,Kansas State,kickingPoints,1
+401013063,Kansas State,fumblesRecovered,1
+401013063,Kansas State,totalFumbles,2
+401013063,Kansas State,tacklesForLoss,3
+401013063,Kansas State,defensiveTDs,0
+401013063,Kansas State,tackles,31
+401013063,Kansas State,sacks,0
+401013063,Kansas State,qbHurries,2
+401013063,Kansas State,passesDeflected,5
+401013063,Kansas State,firstDowns,21
+401013063,Kansas State,thirdDownEff,5-16
+401013063,Kansas State,fourthDownEff,2-4
+401013063,Kansas State,totalYards,301
+401013063,Kansas State,netPassingYards,162
+401013063,Kansas State,completionAttempts,16-28
+401013063,Kansas State,yardsPerPass,5.8
+401013063,Kansas State,rushingYards,139
+401013063,Kansas State,rushingAttempts,47
+401013063,Kansas State,yardsPerRushAttempt,3.0
+401013063,Kansas State,totalPenaltiesYards,2-3
+401013063,Kansas State,turnovers,3
+401013063,Kansas State,fumblesLost,2
+401013063,Kansas State,interceptions,1
+401013063,Kansas State,possessionTime,35:14
 401013069,Texas Tech,fumblesRecovered,0
 401013069,Texas Tech,rushingTDs,2
 401013069,Texas Tech,passingTDs,4
@@ -860,6 +1722,37 @@ game_id,team,category,stat
 401013069,Texas Tech,fumblesLost,0
 401013069,Texas Tech,interceptions,0
 401013069,Texas Tech,possessionTime,27:49
+401013069,Oklahoma,fumblesRecovered,0
+401013069,Oklahoma,rushingTDs,4
+401013069,Oklahoma,puntReturnYards,9
+401013069,Oklahoma,puntReturnTDs,0
+401013069,Oklahoma,puntReturns,1
+401013069,Oklahoma,passingTDs,3
+401013069,Oklahoma,kickReturnYards,34
+401013069,Oklahoma,kickReturnTDs,0
+401013069,Oklahoma,kickReturns,2
+401013069,Oklahoma,kickingPoints,7
+401013069,Oklahoma,tacklesForLoss,6
+401013069,Oklahoma,defensiveTDs,0
+401013069,Oklahoma,tackles,32
+401013069,Oklahoma,sacks,2
+401013069,Oklahoma,qbHurries,2
+401013069,Oklahoma,passesDeflected,4
+401013069,Oklahoma,firstDowns,31
+401013069,Oklahoma,thirdDownEff,4-9
+401013069,Oklahoma,fourthDownEff,0-1
+401013069,Oklahoma,totalYards,687
+401013069,Oklahoma,netPassingYards,360
+401013069,Oklahoma,completionAttempts,20-35
+401013069,Oklahoma,yardsPerPass,10.3
+401013069,Oklahoma,rushingYards,327
+401013069,Oklahoma,rushingAttempts,42
+401013069,Oklahoma,yardsPerRushAttempt,7.8
+401013069,Oklahoma,totalPenaltiesYards,10-113
+401013069,Oklahoma,turnovers,2
+401013069,Oklahoma,fumblesLost,0
+401013069,Oklahoma,interceptions,2
+401013069,Oklahoma,possessionTime,31:06
 401013188,West Virginia,rushingTDs,2
 401013188,West Virginia,puntReturnYards,0
 401013188,West Virginia,puntReturnTDs,0
@@ -892,6 +1785,38 @@ game_id,team,category,stat
 401013188,West Virginia,fumblesLost,0
 401013188,West Virginia,interceptions,0
 401013188,West Virginia,possessionTime,26:00
+401013188,Texas,rushingTDs,2
+401013188,Texas,puntReturnYards,29
+401013188,Texas,puntReturnTDs,0
+401013188,Texas,puntReturns,1
+401013188,Texas,passingTDs,3
+401013188,Texas,kickReturnYards,84
+401013188,Texas,kickReturnTDs,0
+401013188,Texas,kickReturns,4
+401013188,Texas,kickingPoints,11
+401013188,Texas,fumblesRecovered,0
+401013188,Texas,totalFumbles,3
+401013188,Texas,tacklesForLoss,3
+401013188,Texas,defensiveTDs,0
+401013188,Texas,tackles,49
+401013188,Texas,sacks,0
+401013188,Texas,qbHurries,2
+401013188,Texas,passesDeflected,5
+401013188,Texas,firstDowns,28
+401013188,Texas,thirdDownEff,6-11
+401013188,Texas,fourthDownEff,2-2
+401013188,Texas,totalYards,522
+401013188,Texas,netPassingYards,356
+401013188,Texas,completionAttempts,24-35
+401013188,Texas,yardsPerPass,10.2
+401013188,Texas,rushingYards,166
+401013188,Texas,rushingAttempts,39
+401013188,Texas,yardsPerRushAttempt,4.3
+401013188,Texas,totalPenaltiesYards,7-64
+401013188,Texas,turnovers,0
+401013188,Texas,fumblesLost,0
+401013188,Texas,interceptions,0
+401013188,Texas,possessionTime,32:22
 401013045,Kansas,fumblesRecovered,0
 401013045,Kansas,totalFumbles,3
 401013045,Kansas,tacklesForLoss,6
@@ -900,6 +1825,14 @@ game_id,team,category,stat
 401013045,Kansas,sacks,3
 401013045,Kansas,qbHurries,2
 401013045,Kansas,passesDeflected,1
+401013045,Iowa State,fumblesRecovered,1
+401013045,Iowa State,totalFumbles,0
+401013045,Iowa State,tacklesForLoss,4
+401013045,Iowa State,defensiveTDs,0
+401013045,Iowa State,tackles,56
+401013045,Iowa State,sacks,0
+401013045,Iowa State,qbHurries,0
+401013045,Iowa State,passesDeflected,9
 401016410,Boise State,rushingTDs,2
 401016410,Boise State,passingTDs,1
 401016410,Boise State,kickReturnYards,51
@@ -929,6 +1862,41 @@ game_id,team,category,stat
 401016410,Boise State,fumblesLost,1
 401016410,Boise State,interceptions,1
 401016410,Boise State,possessionTime,32:29
+401016410,BYU,rushingTDs,1
+401016410,BYU,puntReturnYards,11
+401016410,BYU,puntReturnTDs,0
+401016410,BYU,puntReturns,1
+401016410,BYU,passingTDs,0
+401016410,BYU,kickReturnYards,21
+401016410,BYU,kickReturnTDs,0
+401016410,BYU,kickReturns,2
+401016410,BYU,kickingPoints,10
+401016410,BYU,interceptionYards,31
+401016410,BYU,interceptionTDs,0
+401016410,BYU,passesIntercepted,1
+401016410,BYU,fumblesRecovered,1
+401016410,BYU,totalFumbles,3
+401016410,BYU,tacklesForLoss,3
+401016410,BYU,defensiveTDs,0
+401016410,BYU,tackles,36
+401016410,BYU,sacks,2
+401016410,BYU,qbHurries,0
+401016410,BYU,passesDeflected,3
+401016410,BYU,firstDowns,21
+401016410,BYU,thirdDownEff,3-12
+401016410,BYU,fourthDownEff,2-2
+401016410,BYU,totalYards,390
+401016410,BYU,netPassingYards,292
+401016410,BYU,completionAttempts,19-29
+401016410,BYU,yardsPerPass,10.1
+401016410,BYU,rushingYards,98
+401016410,BYU,rushingAttempts,37
+401016410,BYU,yardsPerRushAttempt,2.6
+401016410,BYU,totalPenaltiesYards,8-58
+401016410,BYU,turnovers,3
+401016410,BYU,fumblesLost,3
+401016410,BYU,interceptions,0
+401016410,BYU,possessionTime,27:24
 401012782,UCLA,rushingTDs,1
 401012782,UCLA,puntReturnYards,-1
 401012782,UCLA,puntReturnTDs,0
@@ -961,6 +1929,41 @@ game_id,team,category,stat
 401012782,UCLA,fumblesLost,2
 401012782,UCLA,interceptions,1
 401012782,UCLA,possessionTime,30:45
+401012782,Oregon,rushingTDs,3
+401012782,Oregon,puntReturnYards,56
+401012782,Oregon,puntReturnTDs,1
+401012782,Oregon,puntReturns,1
+401012782,Oregon,passingTDs,2
+401012782,Oregon,kickReturnYards,55
+401012782,Oregon,kickReturnTDs,0
+401012782,Oregon,kickReturns,2
+401012782,Oregon,kickingPoints,6
+401012782,Oregon,interceptionYards,0
+401012782,Oregon,interceptionTDs,0
+401012782,Oregon,passesIntercepted,1
+401012782,Oregon,fumblesRecovered,2
+401012782,Oregon,totalFumbles,1
+401012782,Oregon,tacklesForLoss,3
+401012782,Oregon,defensiveTDs,1
+401012782,Oregon,tackles,40
+401012782,Oregon,sacks,1
+401012782,Oregon,qbHurries,11
+401012782,Oregon,passesDeflected,4
+401012782,Oregon,firstDowns,20
+401012782,Oregon,thirdDownEff,8-17
+401012782,Oregon,fourthDownEff,2-3
+401012782,Oregon,totalYards,492
+401012782,Oregon,netPassingYards,292
+401012782,Oregon,completionAttempts,19-33
+401012782,Oregon,yardsPerPass,8.8
+401012782,Oregon,rushingYards,200
+401012782,Oregon,rushingAttempts,42
+401012782,Oregon,yardsPerRushAttempt,4.8
+401012782,Oregon,totalPenaltiesYards,1-15
+401012782,Oregon,turnovers,0
+401012782,Oregon,fumblesLost,0
+401012782,Oregon,interceptions,0
+401012782,Oregon,possessionTime,29:15
 401012784,Washington,rushingTDs,2
 401012784,Washington,passingTDs,1
 401012784,Washington,kickingPoints,9
@@ -990,6 +1993,38 @@ game_id,team,category,stat
 401012784,Washington,fumblesLost,0
 401012784,Washington,interceptions,0
 401012784,Washington,possessionTime,32:38
+401012784,Stanford,rushingTDs,1
+401012784,Stanford,puntReturnYards,17
+401012784,Stanford,puntReturnTDs,0
+401012784,Stanford,puntReturns,3
+401012784,Stanford,passingTDs,2
+401012784,Stanford,kickReturnYards,99
+401012784,Stanford,kickReturnTDs,0
+401012784,Stanford,kickReturns,5
+401012784,Stanford,kickingPoints,5
+401012784,Stanford,fumblesRecovered,0
+401012784,Stanford,totalFumbles,1
+401012784,Stanford,tacklesForLoss,5
+401012784,Stanford,defensiveTDs,0
+401012784,Stanford,tackles,39
+401012784,Stanford,sacks,3
+401012784,Stanford,qbHurries,0
+401012784,Stanford,passesDeflected,5
+401012784,Stanford,firstDowns,22
+401012784,Stanford,thirdDownEff,8-16
+401012784,Stanford,fourthDownEff,0-1
+401012784,Stanford,totalYards,424
+401012784,Stanford,netPassingYards,347
+401012784,Stanford,completionAttempts,29-44
+401012784,Stanford,yardsPerPass,7.9
+401012784,Stanford,rushingYards,77
+401012784,Stanford,rushingAttempts,23
+401012784,Stanford,yardsPerRushAttempt,3.3
+401012784,Stanford,totalPenaltiesYards,4-28
+401012784,Stanford,turnovers,3
+401012784,Stanford,fumblesLost,0
+401012784,Stanford,interceptions,3
+401012784,Stanford,possessionTime,27:22
 401012785,Washington State,rushingTDs,1
 401012785,Washington State,passingTDs,1
 401012785,Washington State,kickReturnYards,65
@@ -1022,6 +2057,38 @@ game_id,team,category,stat
 401012785,Washington State,fumblesLost,1
 401012785,Washington State,interceptions,1
 401012785,Washington State,possessionTime,28:41
+401012785,California,rushingTDs,0
+401012785,California,passingTDs,1
+401012785,California,kickReturnYards,34
+401012785,California,kickReturnTDs,0
+401012785,California,kickReturns,3
+401012785,California,kickingPoints,7
+401012785,California,interceptionYards,10
+401012785,California,interceptionTDs,0
+401012785,California,passesIntercepted,1
+401012785,California,fumblesRecovered,1
+401012785,California,totalFumbles,0
+401012785,California,tacklesForLoss,3
+401012785,California,defensiveTDs,0
+401012785,California,tackles,40
+401012785,California,sacks,1
+401012785,California,qbHurries,1
+401012785,California,passesDeflected,3
+401012785,California,firstDowns,20
+401012785,California,thirdDownEff,4-14
+401012785,California,fourthDownEff,2-2
+401012785,California,totalYards,288
+401012785,California,netPassingYards,176
+401012785,California,completionAttempts,17-32
+401012785,California,yardsPerPass,5.5
+401012785,California,rushingYards,112
+401012785,California,rushingAttempts,36
+401012785,California,yardsPerRushAttempt,3.1
+401012785,California,totalPenaltiesYards,2-25
+401012785,California,turnovers,2
+401012785,California,fumblesLost,0
+401012785,California,interceptions,2
+401012785,California,possessionTime,31:12
 401012783,USC,fumblesRecovered,0
 401012783,USC,rushingTDs,4
 401012783,USC,puntReturnYards,-1
@@ -1047,6 +2114,35 @@ game_id,team,category,stat
 401012783,USC,fumblesLost,1
 401012783,USC,interceptions,0
 401012783,USC,possessionTime,30:49
+401012783,Oregon State,rushingTDs,2
+401012783,Oregon State,passingTDs,1
+401012783,Oregon State,kickReturnYards,67
+401012783,Oregon State,kickReturnTDs,0
+401012783,Oregon State,kickReturns,2
+401012783,Oregon State,kickingPoints,3
+401012783,Oregon State,fumblesRecovered,1
+401012783,Oregon State,totalFumbles,0
+401012783,Oregon State,tacklesForLoss,2
+401012783,Oregon State,defensiveTDs,0
+401012783,Oregon State,tackles,38
+401012783,Oregon State,sacks,2
+401012783,Oregon State,qbHurries,0
+401012783,Oregon State,passesDeflected,6
+401012783,Oregon State,firstDowns,24
+401012783,Oregon State,thirdDownEff,9-18
+401012783,Oregon State,fourthDownEff,1-3
+401012783,Oregon State,totalYards,332
+401012783,Oregon State,netPassingYards,301
+401012783,Oregon State,completionAttempts,31-46
+401012783,Oregon State,yardsPerPass,6.5
+401012783,Oregon State,rushingYards,31
+401012783,Oregon State,rushingAttempts,32
+401012783,Oregon State,yardsPerRushAttempt,1.0
+401012783,Oregon State,totalPenaltiesYards,4-28
+401012783,Oregon State,turnovers,0
+401012783,Oregon State,fumblesLost,0
+401012783,Oregon State,interceptions,0
+401012783,Oregon State,possessionTime,29:11
 401012781,Arizona State,fumblesRecovered,0
 401012781,Arizona State,rushingTDs,2
 401012781,Arizona State,puntReturnYards,11
@@ -1081,6 +2177,41 @@ game_id,team,category,stat
 401012781,Arizona State,fumblesLost,0
 401012781,Arizona State,interceptions,1
 401012781,Arizona State,possessionTime,36:35
+401012781,Utah,rushingTDs,1
+401012781,Utah,puntReturnYards,36
+401012781,Utah,puntReturnTDs,0
+401012781,Utah,puntReturns,1
+401012781,Utah,passingTDs,1
+401012781,Utah,kickReturnYards,33
+401012781,Utah,kickReturnTDs,0
+401012781,Utah,kickReturns,1
+401012781,Utah,kickingPoints,8
+401012781,Utah,interceptionYards,0
+401012781,Utah,interceptionTDs,0
+401012781,Utah,passesIntercepted,1
+401012781,Utah,fumblesRecovered,0
+401012781,Utah,totalFumbles,1
+401012781,Utah,tacklesForLoss,7
+401012781,Utah,defensiveTDs,0
+401012781,Utah,tackles,52
+401012781,Utah,sacks,0
+401012781,Utah,qbHurries,0
+401012781,Utah,passesDeflected,1
+401012781,Utah,firstDowns,17
+401012781,Utah,thirdDownEff,5-12
+401012781,Utah,fourthDownEff,0-0
+401012781,Utah,totalYards,325
+401012781,Utah,netPassingYards,147
+401012781,Utah,completionAttempts,11-26
+401012781,Utah,yardsPerPass,5.7
+401012781,Utah,rushingYards,178
+401012781,Utah,rushingAttempts,32
+401012781,Utah,yardsPerRushAttempt,5.6
+401012781,Utah,totalPenaltiesYards,3-28
+401012781,Utah,turnovers,3
+401012781,Utah,fumblesLost,0
+401012781,Utah,interceptions,3
+401012781,Utah,possessionTime,23:25
 401012780,Colorado,rushingTDs,1
 401012780,Colorado,puntReturnYards,59
 401012780,Colorado,puntReturnTDs,0
@@ -1116,6 +2247,38 @@ game_id,team,category,stat
 401012780,Colorado,fumblesLost,1
 401012780,Colorado,interceptions,1
 401012780,Colorado,possessionTime,30:56
+401012780,Arizona,rushingTDs,0
+401012780,Arizona,passingTDs,5
+401012780,Arizona,kickReturnYards,79
+401012780,Arizona,kickReturnTDs,0
+401012780,Arizona,kickReturns,4
+401012780,Arizona,kickingPoints,12
+401012780,Arizona,interceptionYards,1
+401012780,Arizona,interceptionTDs,0
+401012780,Arizona,passesIntercepted,1
+401012780,Arizona,fumblesRecovered,1
+401012780,Arizona,totalFumbles,1
+401012780,Arizona,tacklesForLoss,10
+401012780,Arizona,defensiveTDs,0
+401012780,Arizona,tackles,46
+401012780,Arizona,sacks,5
+401012780,Arizona,qbHurries,0
+401012780,Arizona,passesDeflected,7
+401012780,Arizona,firstDowns,27
+401012780,Arizona,thirdDownEff,9-14
+401012780,Arizona,fourthDownEff,0-0
+401012780,Arizona,totalYards,566
+401012780,Arizona,netPassingYards,350
+401012780,Arizona,completionAttempts,17-22
+401012780,Arizona,yardsPerPass,15.9
+401012780,Arizona,rushingYards,216
+401012780,Arizona,rushingAttempts,47
+401012780,Arizona,yardsPerRushAttempt,4.6
+401012780,Arizona,totalPenaltiesYards,12-129
+401012780,Arizona,turnovers,2
+401012780,Arizona,fumblesLost,1
+401012780,Arizona,interceptions,1
+401012780,Arizona,possessionTime,28:59
 401015034,Western Kentucky,rushingTDs,0
 401015034,Western Kentucky,puntReturnYards,0
 401015034,Western Kentucky,puntReturnTDs,0
@@ -1148,6 +2311,35 @@ game_id,team,category,stat
 401015034,Western Kentucky,fumblesLost,1
 401015034,Western Kentucky,interceptions,1
 401015034,Western Kentucky,possessionTime,23:19
+401015034,Middle Tennessee,rushingTDs,0
+401015034,Middle Tennessee,passingTDs,2
+401015034,Middle Tennessee,kickingPoints,17
+401015034,Middle Tennessee,interceptionYards,19
+401015034,Middle Tennessee,interceptionTDs,0
+401015034,Middle Tennessee,passesIntercepted,1
+401015034,Middle Tennessee,fumblesRecovered,1
+401015034,Middle Tennessee,totalFumbles,0
+401015034,Middle Tennessee,tacklesForLoss,4
+401015034,Middle Tennessee,defensiveTDs,0
+401015034,Middle Tennessee,tackles,41
+401015034,Middle Tennessee,sacks,2
+401015034,Middle Tennessee,qbHurries,8
+401015034,Middle Tennessee,passesDeflected,11
+401015034,Middle Tennessee,firstDowns,27
+401015034,Middle Tennessee,thirdDownEff,5-17
+401015034,Middle Tennessee,fourthDownEff,1-1
+401015034,Middle Tennessee,totalYards,474
+401015034,Middle Tennessee,netPassingYards,228
+401015034,Middle Tennessee,completionAttempts,24-42
+401015034,Middle Tennessee,yardsPerPass,5.4
+401015034,Middle Tennessee,rushingYards,246
+401015034,Middle Tennessee,rushingAttempts,45
+401015034,Middle Tennessee,yardsPerRushAttempt,5.5
+401015034,Middle Tennessee,totalPenaltiesYards,3-34
+401015034,Middle Tennessee,turnovers,0
+401015034,Middle Tennessee,fumblesLost,0
+401015034,Middle Tennessee,interceptions,0
+401015034,Middle Tennessee,possessionTime,36:41
 401015032,Florida International,fumblesRecovered,0
 401015032,Florida International,rushingTDs,0
 401015032,Florida International,passingTDs,2
@@ -1176,6 +2368,35 @@ game_id,team,category,stat
 401015032,Florida International,fumblesLost,1
 401015032,Florida International,interceptions,2
 401015032,Florida International,possessionTime,30:24
+401015032,Florida Atlantic,rushingTDs,5
+401015032,Florida Atlantic,passingTDs,2
+401015032,Florida Atlantic,kickingPoints,8
+401015032,Florida Atlantic,interceptionYards,18
+401015032,Florida Atlantic,interceptionTDs,0
+401015032,Florida Atlantic,passesIntercepted,2
+401015032,Florida Atlantic,fumblesRecovered,1
+401015032,Florida Atlantic,totalFumbles,0
+401015032,Florida Atlantic,tacklesForLoss,5
+401015032,Florida Atlantic,defensiveTDs,0
+401015032,Florida Atlantic,tackles,32
+401015032,Florida Atlantic,sacks,1
+401015032,Florida Atlantic,qbHurries,2
+401015032,Florida Atlantic,passesDeflected,7
+401015032,Florida Atlantic,firstDowns,31
+401015032,Florida Atlantic,thirdDownEff,3-8
+401015032,Florida Atlantic,fourthDownEff,2-4
+401015032,Florida Atlantic,totalYards,596
+401015032,Florida Atlantic,netPassingYards,157
+401015032,Florida Atlantic,completionAttempts,10-16
+401015032,Florida Atlantic,yardsPerPass,9.8
+401015032,Florida Atlantic,rushingYards,439
+401015032,Florida Atlantic,rushingAttempts,60
+401015032,Florida Atlantic,yardsPerRushAttempt,7.3
+401015032,Florida Atlantic,totalPenaltiesYards,5-55
+401015032,Florida Atlantic,turnovers,0
+401015032,Florida Atlantic,fumblesLost,0
+401015032,Florida Atlantic,interceptions,0
+401015032,Florida Atlantic,possessionTime,29:36
 401015036,UAB,rushingTDs,4
 401015036,UAB,puntReturnYards,18
 401015036,UAB,puntReturnTDs,0
@@ -1211,6 +2432,35 @@ game_id,team,category,stat
 401015036,UAB,fumblesLost,0
 401015036,UAB,interceptions,1
 401015036,UAB,possessionTime,34:27
+401015036,UT San Antonio,rushingTDs,0
+401015036,UT San Antonio,passingTDs,0
+401015036,UT San Antonio,kickingPoints,3
+401015036,UT San Antonio,interceptionYards,-1
+401015036,UT San Antonio,interceptionTDs,0
+401015036,UT San Antonio,passesIntercepted,1
+401015036,UT San Antonio,fumblesRecovered,0
+401015036,UT San Antonio,totalFumbles,2
+401015036,UT San Antonio,tacklesForLoss,2
+401015036,UT San Antonio,defensiveTDs,0
+401015036,UT San Antonio,tackles,52
+401015036,UT San Antonio,sacks,0
+401015036,UT San Antonio,qbHurries,1
+401015036,UT San Antonio,passesDeflected,2
+401015036,UT San Antonio,firstDowns,19
+401015036,UT San Antonio,thirdDownEff,2-12
+401015036,UT San Antonio,fourthDownEff,1-3
+401015036,UT San Antonio,totalYards,220
+401015036,UT San Antonio,netPassingYards,136
+401015036,UT San Antonio,completionAttempts,15-35
+401015036,UT San Antonio,yardsPerPass,3.9
+401015036,UT San Antonio,rushingYards,84
+401015036,UT San Antonio,rushingAttempts,26
+401015036,UT San Antonio,yardsPerRushAttempt,3.2
+401015036,UT San Antonio,totalPenaltiesYards,2-20
+401015036,UT San Antonio,turnovers,2
+401015036,UT San Antonio,fumblesLost,1
+401015036,UT San Antonio,interceptions,1
+401015036,UT San Antonio,possessionTime,25:33
 401022551,Hawai'i,fumblesRecovered,1
 401022551,Hawai'i,rushingTDs,0
 401022551,Hawai'i,passingTDs,2
@@ -1233,6 +2483,41 @@ game_id,team,category,stat
 401022551,Hawai'i,fumblesLost,0
 401022551,Hawai'i,interceptions,2
 401022551,Hawai'i,possessionTime,24:50
+401022551,Utah State,rushingTDs,7
+401022551,Utah State,puntReturnYards,2
+401022551,Utah State,puntReturnTDs,0
+401022551,Utah State,puntReturns,1
+401022551,Utah State,passingTDs,1
+401022551,Utah State,kickReturnYards,77
+401022551,Utah State,kickReturnTDs,0
+401022551,Utah State,kickReturns,2
+401022551,Utah State,kickingPoints,8
+401022551,Utah State,interceptionYards,0
+401022551,Utah State,interceptionTDs,0
+401022551,Utah State,passesIntercepted,2
+401022551,Utah State,fumblesRecovered,0
+401022551,Utah State,totalFumbles,3
+401022551,Utah State,tacklesForLoss,3
+401022551,Utah State,defensiveTDs,0
+401022551,Utah State,tackles,37
+401022551,Utah State,sacks,3
+401022551,Utah State,qbHurries,2
+401022551,Utah State,passesDeflected,7
+401022551,Utah State,firstDowns,27
+401022551,Utah State,thirdDownEff,7-12
+401022551,Utah State,fourthDownEff,2-2
+401022551,Utah State,totalYards,575
+401022551,Utah State,netPassingYards,175
+401022551,Utah State,completionAttempts,19-24
+401022551,Utah State,yardsPerPass,7.3
+401022551,Utah State,rushingYards,400
+401022551,Utah State,rushingAttempts,46
+401022551,Utah State,yardsPerRushAttempt,8.7
+401022551,Utah State,totalPenaltiesYards,11-100
+401022551,Utah State,turnovers,1
+401022551,Utah State,fumblesLost,1
+401022551,Utah State,interceptions,0
+401022551,Utah State,possessionTime,28:44
 401022552,San José State,rushingTDs,0
 401022552,San José State,passingTDs,1
 401022552,San José State,kickReturnYards,41
@@ -1262,6 +2547,38 @@ game_id,team,category,stat
 401022552,San José State,fumblesLost,0
 401022552,San José State,interceptions,0
 401022552,San José State,possessionTime,23:39
+401022552,Wyoming,rushingTDs,2
+401022552,Wyoming,puntReturnYards,43
+401022552,Wyoming,puntReturnTDs,0
+401022552,Wyoming,puntReturns,5
+401022552,Wyoming,passingTDs,1
+401022552,Wyoming,kickReturnYards,3
+401022552,Wyoming,kickReturnTDs,0
+401022552,Wyoming,kickReturns,1
+401022552,Wyoming,kickingPoints,6
+401022552,Wyoming,fumblesRecovered,0
+401022552,Wyoming,totalFumbles,4
+401022552,Wyoming,tacklesForLoss,4
+401022552,Wyoming,defensiveTDs,0
+401022552,Wyoming,tackles,27
+401022552,Wyoming,sacks,1
+401022552,Wyoming,qbHurries,0
+401022552,Wyoming,passesDeflected,5
+401022552,Wyoming,firstDowns,22
+401022552,Wyoming,thirdDownEff,9-16
+401022552,Wyoming,fourthDownEff,1-2
+401022552,Wyoming,totalYards,475
+401022552,Wyoming,netPassingYards,51
+401022552,Wyoming,completionAttempts,4-8
+401022552,Wyoming,yardsPerPass,6.4
+401022552,Wyoming,rushingYards,424
+401022552,Wyoming,rushingAttempts,64
+401022552,Wyoming,yardsPerRushAttempt,6.6
+401022552,Wyoming,totalPenaltiesYards,4-25
+401022552,Wyoming,turnovers,2
+401022552,Wyoming,fumblesLost,2
+401022552,Wyoming,interceptions,0
+401022552,Wyoming,possessionTime,36:21
 401022550,San Diego State,rushingTDs,3
 401022550,San Diego State,puntReturnYards,54
 401022550,San Diego State,puntReturnTDs,0
@@ -1294,6 +2611,35 @@ game_id,team,category,stat
 401022550,San Diego State,fumblesLost,3
 401022550,San Diego State,interceptions,0
 401022550,San Diego State,possessionTime,32:21
+401022550,New Mexico,rushingTDs,0
+401022550,New Mexico,puntReturnYards,12
+401022550,New Mexico,puntReturnTDs,0
+401022550,New Mexico,puntReturns,2
+401022550,New Mexico,passingTDs,2
+401022550,New Mexico,kickingPoints,4
+401022550,New Mexico,fumblesRecovered,3
+401022550,New Mexico,totalFumbles,1
+401022550,New Mexico,tacklesForLoss,5
+401022550,New Mexico,defensiveTDs,1
+401022550,New Mexico,tackles,45
+401022550,New Mexico,sacks,3
+401022550,New Mexico,qbHurries,1
+401022550,New Mexico,passesDeflected,3
+401022550,New Mexico,firstDowns,11
+401022550,New Mexico,thirdDownEff,4-14
+401022550,New Mexico,fourthDownEff,0-1
+401022550,New Mexico,totalYards,142
+401022550,New Mexico,netPassingYards,41
+401022550,New Mexico,completionAttempts,9-20
+401022550,New Mexico,yardsPerPass,2.0
+401022550,New Mexico,rushingYards,101
+401022550,New Mexico,rushingAttempts,37
+401022550,New Mexico,yardsPerRushAttempt,2.7
+401022550,New Mexico,totalPenaltiesYards,2-30
+401022550,New Mexico,turnovers,1
+401022550,New Mexico,fumblesLost,0
+401022550,New Mexico,interceptions,1
+401022550,New Mexico,possessionTime,27:39
 401022553,UNLV,fumblesRecovered,0
 401022553,UNLV,rushingTDs,0
 401022553,UNLV,puntReturnYards,0
@@ -1328,6 +2674,40 @@ game_id,team,category,stat
 401022553,UNLV,fumblesLost,0
 401022553,UNLV,interceptions,1
 401022553,UNLV,possessionTime,25:25
+401022553,Fresno State,fumblesRecovered,0
+401022553,Fresno State,rushingTDs,4
+401022553,Fresno State,puntReturnYards,21
+401022553,Fresno State,puntReturnTDs,0
+401022553,Fresno State,puntReturns,1
+401022553,Fresno State,passingTDs,2
+401022553,Fresno State,kickReturnYards,18
+401022553,Fresno State,kickReturnTDs,0
+401022553,Fresno State,kickReturns,1
+401022553,Fresno State,kickingPoints,12
+401022553,Fresno State,interceptionYards,39
+401022553,Fresno State,interceptionTDs,0
+401022553,Fresno State,passesIntercepted,1
+401022553,Fresno State,tacklesForLoss,5
+401022553,Fresno State,defensiveTDs,0
+401022553,Fresno State,tackles,45
+401022553,Fresno State,sacks,1
+401022553,Fresno State,qbHurries,3
+401022553,Fresno State,passesDeflected,6
+401022553,Fresno State,firstDowns,25
+401022553,Fresno State,thirdDownEff,5-10
+401022553,Fresno State,fourthDownEff,0-0
+401022553,Fresno State,totalYards,466
+401022553,Fresno State,netPassingYards,274
+401022553,Fresno State,completionAttempts,26-35
+401022553,Fresno State,yardsPerPass,7.8
+401022553,Fresno State,rushingYards,192
+401022553,Fresno State,rushingAttempts,34
+401022553,Fresno State,yardsPerRushAttempt,5.6
+401022553,Fresno State,totalPenaltiesYards,5-40
+401022553,Fresno State,turnovers,1
+401022553,Fresno State,fumblesLost,0
+401022553,Fresno State,interceptions,1
+401022553,Fresno State,possessionTime,31:25
 401021686,Georgia State,rushingTDs,2
 401021686,Georgia State,puntReturnYards,69
 401021686,Georgia State,puntReturnTDs,0
@@ -1360,6 +2740,38 @@ game_id,team,category,stat
 401021686,Georgia State,fumblesLost,2
 401021686,Georgia State,interceptions,0
 401021686,Georgia State,possessionTime,33:28
+401021686,Texas State,rushingTDs,5
+401021686,Texas State,puntReturnYards,6
+401021686,Texas State,puntReturnTDs,0
+401021686,Texas State,puntReturns,2
+401021686,Texas State,passingTDs,2
+401021686,Texas State,kickReturnYards,0
+401021686,Texas State,kickReturnTDs,0
+401021686,Texas State,kickReturns,1
+401021686,Texas State,kickingPoints,4
+401021686,Texas State,fumblesRecovered,1
+401021686,Texas State,totalFumbles,0
+401021686,Texas State,tacklesForLoss,0
+401021686,Texas State,defensiveTDs,0
+401021686,Texas State,tackles,12
+401021686,Texas State,sacks,0
+401021686,Texas State,qbHurries,0
+401021686,Texas State,passesDeflected,1
+401021686,Texas State,firstDowns,19
+401021686,Texas State,thirdDownEff,6-14
+401021686,Texas State,fourthDownEff,2-2
+401021686,Texas State,totalYards,489
+401021686,Texas State,netPassingYards,325
+401021686,Texas State,completionAttempts,21-26
+401021686,Texas State,yardsPerPass,12.5
+401021686,Texas State,rushingYards,164
+401021686,Texas State,rushingAttempts,36
+401021686,Texas State,yardsPerRushAttempt,4.6
+401021686,Texas State,totalPenaltiesYards,5-32
+401021686,Texas State,turnovers,0
+401021686,Texas State,fumblesLost,0
+401021686,Texas State,interceptions,0
+401021686,Texas State,possessionTime,26:32
 401013341,Nebraska,rushingTDs,3
 401013341,Nebraska,puntReturnYards,-2
 401013341,Nebraska,puntReturnTDs,0
@@ -1395,6 +2807,38 @@ game_id,team,category,stat
 401013341,Nebraska,fumblesLost,1
 401013341,Nebraska,interceptions,0
 401013341,Nebraska,possessionTime,33:26
+401013341,Ohio State,rushingTDs,3
+401013341,Ohio State,puntReturnYards,2
+401013341,Ohio State,puntReturnTDs,0
+401013341,Ohio State,puntReturns,1
+401013341,Ohio State,passingTDs,2
+401013341,Ohio State,kickReturnYards,28
+401013341,Ohio State,kickReturnTDs,0
+401013341,Ohio State,kickReturns,3
+401013341,Ohio State,kickingPoints,4
+401013341,Ohio State,fumblesRecovered,1
+401013341,Ohio State,totalFumbles,6
+401013341,Ohio State,tacklesForLoss,5
+401013341,Ohio State,defensiveTDs,0
+401013341,Ohio State,tackles,43
+401013341,Ohio State,sacks,1
+401013341,Ohio State,qbHurries,1
+401013341,Ohio State,passesDeflected,2
+401013341,Ohio State,firstDowns,23
+401013341,Ohio State,thirdDownEff,3-9
+401013341,Ohio State,fourthDownEff,0-1
+401013341,Ohio State,totalYards,481
+401013341,Ohio State,netPassingYards,252
+401013341,Ohio State,completionAttempts,18-32
+401013341,Ohio State,yardsPerPass,7.9
+401013341,Ohio State,rushingYards,229
+401013341,Ohio State,rushingAttempts,40
+401013341,Ohio State,yardsPerRushAttempt,5.7
+401013341,Ohio State,totalPenaltiesYards,6-46
+401013341,Ohio State,turnovers,3
+401013341,Ohio State,fumblesLost,2
+401013341,Ohio State,interceptions,1
+401013341,Ohio State,possessionTime,26:13
 401012877,Maryland,rushingTDs,0
 401012877,Maryland,puntReturnYards,0
 401012877,Maryland,puntReturnTDs,0
@@ -1430,6 +2874,38 @@ game_id,team,category,stat
 401012877,Maryland,fumblesLost,2
 401012877,Maryland,interceptions,0
 401012877,Maryland,possessionTime,23:04
+401012877,Michigan State,rushingTDs,2
+401012877,Michigan State,puntReturnYards,5
+401012877,Michigan State,puntReturnTDs,0
+401012877,Michigan State,puntReturns,1
+401012877,Michigan State,passingTDs,0
+401012877,Michigan State,kickReturnYards,49
+401012877,Michigan State,kickReturnTDs,0
+401012877,Michigan State,kickReturns,1
+401012877,Michigan State,kickingPoints,6
+401012877,Michigan State,fumblesRecovered,2
+401012877,Michigan State,totalFumbles,2
+401012877,Michigan State,tacklesForLoss,8
+401012877,Michigan State,defensiveTDs,0
+401012877,Michigan State,tackles,25
+401012877,Michigan State,sacks,4
+401012877,Michigan State,qbHurries,0
+401012877,Michigan State,passesDeflected,5
+401012877,Michigan State,firstDowns,19
+401012877,Michigan State,thirdDownEff,5-14
+401012877,Michigan State,fourthDownEff,1-1
+401012877,Michigan State,totalYards,356
+401012877,Michigan State,netPassingYards,87
+401012877,Michigan State,completionAttempts,11-22
+401012877,Michigan State,yardsPerPass,4.0
+401012877,Michigan State,rushingYards,269
+401012877,Michigan State,rushingAttempts,46
+401012877,Michigan State,yardsPerRushAttempt,5.8
+401012877,Michigan State,totalPenaltiesYards,4-33
+401012877,Michigan State,turnovers,2
+401012877,Michigan State,fumblesLost,0
+401012877,Michigan State,interceptions,2
+401012877,Michigan State,possessionTime,36:56
 401012847,Wisconsin,fumblesRecovered,0
 401012847,Wisconsin,rushingTDs,3
 401012847,Wisconsin,puntReturnYards,8
@@ -1461,6 +2937,37 @@ game_id,team,category,stat
 401012847,Wisconsin,fumblesLost,0
 401012847,Wisconsin,interceptions,2
 401012847,Wisconsin,possessionTime,31:51
+401012847,Rutgers,fumblesRecovered,0
+401012847,Rutgers,rushingTDs,1
+401012847,Rutgers,passingTDs,1
+401012847,Rutgers,kickReturnYards,36
+401012847,Rutgers,kickReturnTDs,0
+401012847,Rutgers,kickReturns,2
+401012847,Rutgers,kickingPoints,5
+401012847,Rutgers,interceptionYards,3
+401012847,Rutgers,interceptionTDs,0
+401012847,Rutgers,passesIntercepted,2
+401012847,Rutgers,tacklesForLoss,4
+401012847,Rutgers,defensiveTDs,0
+401012847,Rutgers,tackles,43
+401012847,Rutgers,sacks,1
+401012847,Rutgers,qbHurries,1
+401012847,Rutgers,passesDeflected,3
+401012847,Rutgers,firstDowns,13
+401012847,Rutgers,thirdDownEff,9-19
+401012847,Rutgers,fourthDownEff,1-1
+401012847,Rutgers,totalYards,333
+401012847,Rutgers,netPassingYards,261
+401012847,Rutgers,completionAttempts,20-39
+401012847,Rutgers,yardsPerPass,6.7
+401012847,Rutgers,rushingYards,72
+401012847,Rutgers,rushingAttempts,26
+401012847,Rutgers,yardsPerRushAttempt,2.8
+401012847,Rutgers,totalPenaltiesYards,4-50
+401012847,Rutgers,turnovers,0
+401012847,Rutgers,fumblesLost,0
+401012847,Rutgers,interceptions,0
+401012847,Rutgers,possessionTime,28:09
 401012894,Penn State,rushingTDs,1
 401012894,Penn State,puntReturnYards,1
 401012894,Penn State,puntReturnTDs,0
@@ -1493,6 +3000,41 @@ game_id,team,category,stat
 401012894,Penn State,fumblesLost,1
 401012894,Penn State,interceptions,2
 401012894,Penn State,possessionTime,20:48
+401012894,Michigan,rushingTDs,3
+401012894,Michigan,puntReturnYards,54
+401012894,Michigan,puntReturnTDs,0
+401012894,Michigan,puntReturns,2
+401012894,Michigan,passingTDs,2
+401012894,Michigan,kickReturnYards,27
+401012894,Michigan,kickReturnTDs,0
+401012894,Michigan,kickReturns,1
+401012894,Michigan,kickingPoints,6
+401012894,Michigan,interceptionYards,77
+401012894,Michigan,interceptionTDs,1
+401012894,Michigan,passesIntercepted,2
+401012894,Michigan,fumblesRecovered,1
+401012894,Michigan,totalFumbles,0
+401012894,Michigan,tacklesForLoss,6
+401012894,Michigan,defensiveTDs,1
+401012894,Michigan,tackles,30
+401012894,Michigan,sacks,5
+401012894,Michigan,qbHurries,1
+401012894,Michigan,passesDeflected,1
+401012894,Michigan,firstDowns,20
+401012894,Michigan,thirdDownEff,8-15
+401012894,Michigan,fourthDownEff,1-3
+401012894,Michigan,totalYards,403
+401012894,Michigan,netPassingYards,144
+401012894,Michigan,completionAttempts,11-17
+401012894,Michigan,yardsPerPass,8.5
+401012894,Michigan,rushingYards,259
+401012894,Michigan,rushingAttempts,52
+401012894,Michigan,yardsPerRushAttempt,5.0
+401012894,Michigan,totalPenaltiesYards,7-60
+401012894,Michigan,turnovers,0
+401012894,Michigan,fumblesLost,0
+401012894,Michigan,interceptions,0
+401012894,Michigan,possessionTime,37:41
 401012812,Illinois,rushingTDs,5
 401012812,Illinois,puntReturnYards,-1
 401012812,Illinois,puntReturnTDs,0
@@ -1525,6 +3067,41 @@ game_id,team,category,stat
 401012812,Illinois,fumblesLost,2
 401012812,Illinois,interceptions,1
 401012812,Illinois,possessionTime,27:10
+401012812,Minnesota,rushingTDs,2
+401012812,Minnesota,puntReturnYards,0
+401012812,Minnesota,puntReturnTDs,0
+401012812,Minnesota,puntReturns,1
+401012812,Minnesota,passingTDs,2
+401012812,Minnesota,kickReturnYards,92
+401012812,Minnesota,kickReturnTDs,0
+401012812,Minnesota,kickReturns,4
+401012812,Minnesota,kickingPoints,7
+401012812,Minnesota,interceptionYards,0
+401012812,Minnesota,interceptionTDs,0
+401012812,Minnesota,passesIntercepted,1
+401012812,Minnesota,fumblesRecovered,2
+401012812,Minnesota,totalFumbles,3
+401012812,Minnesota,tacklesForLoss,6
+401012812,Minnesota,defensiveTDs,0
+401012812,Minnesota,tackles,40
+401012812,Minnesota,sacks,1
+401012812,Minnesota,qbHurries,1
+401012812,Minnesota,passesDeflected,1
+401012812,Minnesota,firstDowns,20
+401012812,Minnesota,thirdDownEff,6-15
+401012812,Minnesota,fourthDownEff,0-1
+401012812,Minnesota,totalYards,438
+401012812,Minnesota,netPassingYards,260
+401012812,Minnesota,completionAttempts,15-28
+401012812,Minnesota,yardsPerPass,9.3
+401012812,Minnesota,rushingYards,178
+401012812,Minnesota,rushingAttempts,42
+401012812,Minnesota,yardsPerRushAttempt,4.2
+401012812,Minnesota,totalPenaltiesYards,2-15
+401012812,Minnesota,turnovers,2
+401012812,Minnesota,fumblesLost,2
+401012812,Minnesota,interceptions,0
+401012812,Minnesota,possessionTime,32:50
 401012869,Purdue,rushingTDs,1
 401012869,Purdue,puntReturnYards,24
 401012869,Purdue,puntReturnTDs,0
@@ -1557,6 +3134,41 @@ game_id,team,category,stat
 401012869,Purdue,fumblesLost,0
 401012869,Purdue,interceptions,2
 401012869,Purdue,possessionTime,25:55
+401012869,Iowa,rushingTDs,4
+401012869,Iowa,puntReturnYards,38
+401012869,Iowa,puntReturnTDs,0
+401012869,Iowa,puntReturns,1
+401012869,Iowa,passingTDs,1
+401012869,Iowa,kickReturnYards,93
+401012869,Iowa,kickReturnTDs,0
+401012869,Iowa,kickReturns,4
+401012869,Iowa,kickingPoints,6
+401012869,Iowa,interceptionYards,11
+401012869,Iowa,interceptionTDs,0
+401012869,Iowa,passesIntercepted,2
+401012869,Iowa,fumblesRecovered,0
+401012869,Iowa,totalFumbles,1
+401012869,Iowa,tacklesForLoss,6
+401012869,Iowa,defensiveTDs,0
+401012869,Iowa,tackles,40
+401012869,Iowa,sacks,1
+401012869,Iowa,qbHurries,0
+401012869,Iowa,passesDeflected,2
+401012869,Iowa,firstDowns,22
+401012869,Iowa,thirdDownEff,7-14
+401012869,Iowa,fourthDownEff,1-1
+401012869,Iowa,totalYards,393
+401012869,Iowa,netPassingYards,275
+401012869,Iowa,completionAttempts,21-32
+401012869,Iowa,yardsPerPass,8.6
+401012869,Iowa,rushingYards,118
+401012869,Iowa,rushingAttempts,37
+401012869,Iowa,yardsPerRushAttempt,3.2
+401012869,Iowa,totalPenaltiesYards,8-75
+401012869,Iowa,turnovers,0
+401012869,Iowa,fumblesLost,0
+401012869,Iowa,interceptions,0
+401012869,Iowa,possessionTime,33:57
 401021683,Coastal Carolina,rushingTDs,0
 401021683,Coastal Carolina,passingTDs,0
 401021683,Coastal Carolina,kickReturnYards,24
@@ -1589,6 +3201,40 @@ game_id,team,category,stat
 401021683,Coastal Carolina,fumblesLost,0
 401021683,Coastal Carolina,interceptions,1
 401021683,Coastal Carolina,possessionTime,25:04
+401021683,Appalachian State,fumblesRecovered,0
+401021683,Appalachian State,rushingTDs,2
+401021683,Appalachian State,puntReturnYards,63
+401021683,Appalachian State,puntReturnTDs,0
+401021683,Appalachian State,puntReturns,5
+401021683,Appalachian State,passingTDs,1
+401021683,Appalachian State,kickReturnYards,72
+401021683,Appalachian State,kickReturnTDs,0
+401021683,Appalachian State,kickReturns,2
+401021683,Appalachian State,kickingPoints,3
+401021683,Appalachian State,interceptionYards,0
+401021683,Appalachian State,interceptionTDs,0
+401021683,Appalachian State,passesIntercepted,1
+401021683,Appalachian State,tacklesForLoss,9
+401021683,Appalachian State,defensiveTDs,0
+401021683,Appalachian State,tackles,31
+401021683,Appalachian State,sacks,3
+401021683,Appalachian State,qbHurries,1
+401021683,Appalachian State,passesDeflected,3
+401021683,Appalachian State,firstDowns,21
+401021683,Appalachian State,thirdDownEff,5-15
+401021683,Appalachian State,fourthDownEff,1-3
+401021683,Appalachian State,totalYards,405
+401021683,Appalachian State,netPassingYards,127
+401021683,Appalachian State,completionAttempts,9-19
+401021683,Appalachian State,yardsPerPass,6.7
+401021683,Appalachian State,rushingYards,278
+401021683,Appalachian State,rushingAttempts,56
+401021683,Appalachian State,yardsPerRushAttempt,5.0
+401021683,Appalachian State,totalPenaltiesYards,6-40
+401021683,Appalachian State,turnovers,2
+401021683,Appalachian State,fumblesLost,0
+401021683,Appalachian State,interceptions,2
+401021683,Appalachian State,possessionTime,34:56
 401019517,UCF,fumblesRecovered,0
 401019517,UCF,rushingTDs,4
 401019517,UCF,puntReturnYards,2
@@ -1623,6 +3269,40 @@ game_id,team,category,stat
 401019517,UCF,fumblesLost,0
 401019517,UCF,interceptions,1
 401019517,UCF,possessionTime,21:03
+401019517,Temple,fumblesRecovered,0
+401019517,Temple,rushingTDs,1
+401019517,Temple,puntReturnYards,2
+401019517,Temple,puntReturnTDs,0
+401019517,Temple,puntReturns,1
+401019517,Temple,passingTDs,4
+401019517,Temple,kickReturnYards,73
+401019517,Temple,kickReturnTDs,0
+401019517,Temple,kickReturns,6
+401019517,Temple,kickingPoints,10
+401019517,Temple,interceptionYards,0
+401019517,Temple,interceptionTDs,0
+401019517,Temple,passesIntercepted,1
+401019517,Temple,tacklesForLoss,3
+401019517,Temple,defensiveTDs,0
+401019517,Temple,tackles,44
+401019517,Temple,sacks,0
+401019517,Temple,qbHurries,2
+401019517,Temple,passesDeflected,7
+401019517,Temple,firstDowns,36
+401019517,Temple,thirdDownEff,4-16
+401019517,Temple,fourthDownEff,3-5
+401019517,Temple,totalYards,670
+401019517,Temple,netPassingYards,444
+401019517,Temple,completionAttempts,31-52
+401019517,Temple,yardsPerPass,8.5
+401019517,Temple,rushingYards,226
+401019517,Temple,rushingAttempts,46
+401019517,Temple,yardsPerRushAttempt,4.9
+401019517,Temple,totalPenaltiesYards,14-149
+401019517,Temple,turnovers,2
+401019517,Temple,fumblesLost,0
+401019517,Temple,interceptions,2
+401019517,Temple,possessionTime,38:17
 401019521,Tulane,fumblesRecovered,2
 401019521,Tulane,totalFumbles,0
 401019521,Tulane,tacklesForLoss,6
@@ -1631,6 +3311,14 @@ game_id,team,category,stat
 401019521,Tulane,sacks,5
 401019521,Tulane,qbHurries,0
 401019521,Tulane,passesDeflected,3
+401019521,South Florida,fumblesRecovered,1
+401019521,South Florida,totalFumbles,0
+401019521,South Florida,tacklesForLoss,3
+401019521,South Florida,defensiveTDs,0
+401019521,South Florida,tackles,42
+401019521,South Florida,sacks,1
+401019521,South Florida,qbHurries,0
+401019521,South Florida,passesDeflected,1
 401019518,Navy,rushingTDs,0
 401019518,Navy,puntReturnYards,8
 401019518,Navy,puntReturnTDs,0
@@ -1662,6 +3350,38 @@ game_id,team,category,stat
 401019518,Navy,fumblesLost,1
 401019518,Navy,interceptions,0
 401019518,Navy,possessionTime,30:26
+401019518,Cincinnati,rushingTDs,4
+401019518,Cincinnati,puntReturnYards,-2
+401019518,Cincinnati,puntReturnTDs,0
+401019518,Cincinnati,puntReturns,2
+401019518,Cincinnati,passingTDs,2
+401019518,Cincinnati,kickReturnYards,20
+401019518,Cincinnati,kickReturnTDs,0
+401019518,Cincinnati,kickReturns,1
+401019518,Cincinnati,kickingPoints,6
+401019518,Cincinnati,fumblesRecovered,1
+401019518,Cincinnati,totalFumbles,0
+401019518,Cincinnati,tacklesForLoss,9
+401019518,Cincinnati,defensiveTDs,0
+401019518,Cincinnati,tackles,27
+401019518,Cincinnati,sacks,5
+401019518,Cincinnati,qbHurries,0
+401019518,Cincinnati,passesDeflected,1
+401019518,Cincinnati,firstDowns,22
+401019518,Cincinnati,thirdDownEff,6-10
+401019518,Cincinnati,fourthDownEff,1-1
+401019518,Cincinnati,totalYards,451
+401019518,Cincinnati,netPassingYards,189
+401019518,Cincinnati,completionAttempts,14-20
+401019518,Cincinnati,yardsPerPass,9.4
+401019518,Cincinnati,rushingYards,262
+401019518,Cincinnati,rushingAttempts,41
+401019518,Cincinnati,yardsPerRushAttempt,6.4
+401019518,Cincinnati,totalPenaltiesYards,4-30
+401019518,Cincinnati,turnovers,0
+401019518,Cincinnati,fumblesLost,0
+401019518,Cincinnati,interceptions,0
+401019518,Cincinnati,possessionTime,25:29
 401019519,Tulsa,rushingTDs,3
 401019519,Tulsa,passingTDs,4
 401019519,Tulsa,kickReturnYards,27
@@ -1694,6 +3414,35 @@ game_id,team,category,stat
 401019519,Tulsa,fumblesLost,1
 401019519,Tulsa,interceptions,0
 401019519,Tulsa,possessionTime,26:39
+401019519,Connecticut,rushingTDs,0
+401019519,Connecticut,passingTDs,2
+401019519,Connecticut,kickReturnYards,73
+401019519,Connecticut,kickReturnTDs,0
+401019519,Connecticut,kickReturns,3
+401019519,Connecticut,kickingPoints,7
+401019519,Connecticut,fumblesRecovered,1
+401019519,Connecticut,totalFumbles,2
+401019519,Connecticut,tacklesForLoss,6
+401019519,Connecticut,defensiveTDs,0
+401019519,Connecticut,tackles,36
+401019519,Connecticut,sacks,2
+401019519,Connecticut,qbHurries,0
+401019519,Connecticut,passesDeflected,3
+401019519,Connecticut,firstDowns,23
+401019519,Connecticut,thirdDownEff,9-17
+401019519,Connecticut,fourthDownEff,0-1
+401019519,Connecticut,totalYards,487
+401019519,Connecticut,netPassingYards,232
+401019519,Connecticut,completionAttempts,14-28
+401019519,Connecticut,yardsPerPass,8.3
+401019519,Connecticut,rushingYards,255
+401019519,Connecticut,rushingAttempts,50
+401019519,Connecticut,yardsPerRushAttempt,5.1
+401019519,Connecticut,totalPenaltiesYards,6-60
+401019519,Connecticut,turnovers,3
+401019519,Connecticut,fumblesLost,2
+401019519,Connecticut,interceptions,1
+401019519,Connecticut,possessionTime,33:21
 401019520,Memphis,rushingTDs,5
 401019520,Memphis,puntReturnYards,11
 401019520,Memphis,puntReturnTDs,0
@@ -1726,6 +3475,38 @@ game_id,team,category,stat
 401019520,Memphis,fumblesLost,0
 401019520,Memphis,interceptions,0
 401019520,Memphis,possessionTime,29:50
+401019520,East Carolina,rushingTDs,2
+401019520,East Carolina,puntReturnYards,-2
+401019520,East Carolina,puntReturnTDs,0
+401019520,East Carolina,puntReturns,1
+401019520,East Carolina,passingTDs,3
+401019520,East Carolina,kickReturnYards,46
+401019520,East Carolina,kickReturnTDs,0
+401019520,East Carolina,kickReturns,3
+401019520,East Carolina,kickingPoints,11
+401019520,East Carolina,fumblesRecovered,0
+401019520,East Carolina,totalFumbles,1
+401019520,East Carolina,tacklesForLoss,5
+401019520,East Carolina,defensiveTDs,0
+401019520,East Carolina,tackles,39
+401019520,East Carolina,sacks,2
+401019520,East Carolina,qbHurries,4
+401019520,East Carolina,passesDeflected,2
+401019520,East Carolina,firstDowns,29
+401019520,East Carolina,thirdDownEff,6-17
+401019520,East Carolina,fourthDownEff,1-2
+401019520,East Carolina,totalYards,556
+401019520,East Carolina,netPassingYards,449
+401019520,East Carolina,completionAttempts,34-62
+401019520,East Carolina,yardsPerPass,7.2
+401019520,East Carolina,rushingYards,107
+401019520,East Carolina,rushingAttempts,29
+401019520,East Carolina,yardsPerRushAttempt,3.7
+401019520,East Carolina,totalPenaltiesYards,4-45
+401019520,East Carolina,turnovers,1
+401019520,East Carolina,fumblesLost,1
+401019520,East Carolina,interceptions,0
+401019520,East Carolina,possessionTime,30:10
 401019522,SMU,rushingTDs,2
 401019522,SMU,puntReturnYards,20
 401019522,SMU,puntReturnTDs,0
@@ -1758,6 +3539,38 @@ game_id,team,category,stat
 401019522,SMU,fumblesLost,1
 401019522,SMU,interceptions,0
 401019522,SMU,possessionTime,34:13
+401019522,Houston,rushingTDs,1
+401019522,Houston,puntReturnYards,0
+401019522,Houston,puntReturnTDs,0
+401019522,Houston,puntReturns,1
+401019522,Houston,passingTDs,2
+401019522,Houston,kickReturnYards,44
+401019522,Houston,kickReturnTDs,0
+401019522,Houston,kickReturns,2
+401019522,Houston,kickingPoints,7
+401019522,Houston,fumblesRecovered,1
+401019522,Houston,totalFumbles,2
+401019522,Houston,tacklesForLoss,3
+401019522,Houston,defensiveTDs,1
+401019522,Houston,tackles,54
+401019522,Houston,sacks,1
+401019522,Houston,qbHurries,2
+401019522,Houston,passesDeflected,1
+401019522,Houston,firstDowns,15
+401019522,Houston,thirdDownEff,8-18
+401019522,Houston,fourthDownEff,1-1
+401019522,Houston,totalYards,365
+401019522,Houston,netPassingYards,175
+401019522,Houston,completionAttempts,11-22
+401019522,Houston,yardsPerPass,8.0
+401019522,Houston,rushingYards,190
+401019522,Houston,rushingAttempts,47
+401019522,Houston,yardsPerRushAttempt,4.0
+401019522,Houston,totalPenaltiesYards,6-50
+401019522,Houston,turnovers,2
+401019522,Houston,fumblesLost,2
+401019522,Houston,interceptions,0
+401019522,Houston,possessionTime,25:47
 401013365,Liberty,rushingTDs,5
 401013365,Liberty,puntReturnYards,-3
 401013365,Liberty,puntReturnTDs,0
@@ -1793,6 +3606,41 @@ game_id,team,category,stat
 401013365,Liberty,fumblesLost,0
 401013365,Liberty,interceptions,4
 401013365,Liberty,possessionTime,27:39
+401013365,UMass,rushingTDs,4
+401013365,UMass,puntReturnYards,4
+401013365,UMass,puntReturnTDs,0
+401013365,UMass,puntReturns,1
+401013365,UMass,passingTDs,4
+401013365,UMass,kickReturnYards,47
+401013365,UMass,kickReturnTDs,0
+401013365,UMass,kickReturns,3
+401013365,UMass,kickingPoints,14
+401013365,UMass,interceptionYards,51
+401013365,UMass,interceptionTDs,0
+401013365,UMass,passesIntercepted,4
+401013365,UMass,fumblesRecovered,0
+401013365,UMass,totalFumbles,3
+401013365,UMass,tacklesForLoss,5
+401013365,UMass,defensiveTDs,0
+401013365,UMass,tackles,42
+401013365,UMass,sacks,1
+401013365,UMass,qbHurries,0
+401013365,UMass,passesDeflected,3
+401013365,UMass,firstDowns,34
+401013365,UMass,thirdDownEff,4-14
+401013365,UMass,fourthDownEff,2-4
+401013365,UMass,totalYards,777
+401013365,UMass,netPassingYards,540
+401013365,UMass,completionAttempts,29-44
+401013365,UMass,yardsPerPass,12.3
+401013365,UMass,rushingYards,237
+401013365,UMass,rushingAttempts,54
+401013365,UMass,yardsPerRushAttempt,4.4
+401013365,UMass,totalPenaltiesYards,9-79
+401013365,UMass,turnovers,3
+401013365,UMass,fumblesLost,2
+401013365,UMass,interceptions,1
+401013365,UMass,possessionTime,32:21
 401013445,Alcorn State,fumblesRecovered,1
 401013445,Alcorn State,rushingTDs,2
 401013445,Alcorn State,puntReturnYards,-3
@@ -1818,3 +3666,32 @@ game_id,team,category,stat
 401013445,Alcorn State,fumblesLost,1
 401013445,Alcorn State,interceptions,0
 401013445,Alcorn State,possessionTime,34:37
+401013445,New Mexico State,rushingTDs,2
+401013445,New Mexico State,passingTDs,4
+401013445,New Mexico State,kickReturnYards,147
+401013445,New Mexico State,kickReturnTDs,1
+401013445,New Mexico State,kickReturns,5
+401013445,New Mexico State,kickingPoints,10
+401013445,New Mexico State,fumblesRecovered,1
+401013445,New Mexico State,totalFumbles,1
+401013445,New Mexico State,tacklesForLoss,4
+401013445,New Mexico State,defensiveTDs,1
+401013445,New Mexico State,tackles,44
+401013445,New Mexico State,sacks,1
+401013445,New Mexico State,qbHurries,3
+401013445,New Mexico State,passesDeflected,4
+401013445,New Mexico State,firstDowns,24
+401013445,New Mexico State,thirdDownEff,8-14
+401013445,New Mexico State,fourthDownEff,2-2
+401013445,New Mexico State,totalYards,529
+401013445,New Mexico State,netPassingYards,396
+401013445,New Mexico State,completionAttempts,32-44
+401013445,New Mexico State,yardsPerPass,9.0
+401013445,New Mexico State,rushingYards,133
+401013445,New Mexico State,rushingAttempts,29
+401013445,New Mexico State,yardsPerRushAttempt,4.6
+401013445,New Mexico State,totalPenaltiesYards,2-15
+401013445,New Mexico State,turnovers,1
+401013445,New Mexico State,fumblesLost,1
+401013445,New Mexico State,interceptions,0
+401013445,New Mexico State,possessionTime,25:23

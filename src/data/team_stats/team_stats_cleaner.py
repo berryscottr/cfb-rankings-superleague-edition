@@ -24,6 +24,8 @@ for year in range(2010,2021):
 
                     for cat in json_stats_row[0]['stats']:
                         new_stats_file.append([row[0], json_stats_row[0]['school'], cat['category'], cat['stat']])
+                    for cat in json_stats_row[1]['stats']:
+                        new_stats_file.append([row[0], json_stats_row[1]['school'], cat['category'], cat['stat']])
         except FileNotFoundError:
             print('File not found')
 

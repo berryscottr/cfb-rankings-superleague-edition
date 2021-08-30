@@ -30,6 +30,37 @@ game_id,team,category,stat
 401212553,Memphis,fourthDownEff,1-1
 401212553,Memphis,thirdDownEff,9-17
 401212553,Memphis,firstDowns,29
+401212553,Arkansas State,tacklesForLoss,5
+401212553,Arkansas State,defensiveTDs,0
+401212553,Arkansas State,tackles,49
+401212553,Arkansas State,sacks,0
+401212553,Arkansas State,qbHurries,0
+401212553,Arkansas State,passesDeflected,1
+401212553,Arkansas State,fumblesRecovered,0
+401212553,Arkansas State,rushingTDs,2
+401212553,Arkansas State,passingTDs,1
+401212553,Arkansas State,kickReturnYards,38
+401212553,Arkansas State,kickReturnTDs,0
+401212553,Arkansas State,kickReturns,2
+401212553,Arkansas State,kickingPoints,6
+401212553,Arkansas State,interceptionYards,0
+401212553,Arkansas State,interceptionTDs,0
+401212553,Arkansas State,passesIntercepted,1
+401212553,Arkansas State,possessionTime,25:27
+401212553,Arkansas State,interceptions,2
+401212553,Arkansas State,fumblesLost,1
+401212553,Arkansas State,turnovers,3
+401212553,Arkansas State,totalPenaltiesYards,5-50
+401212553,Arkansas State,yardsPerRushAttempt,3.6
+401212553,Arkansas State,rushingAttempts,35
+401212553,Arkansas State,rushingYards,125
+401212553,Arkansas State,yardsPerPass,6.8
+401212553,Arkansas State,completionAttempts,28-44
+401212553,Arkansas State,netPassingYards,299
+401212553,Arkansas State,totalYards,424
+401212553,Arkansas State,fourthDownEff,2-3
+401212553,Arkansas State,thirdDownEff,6-15
+401212553,Arkansas State,firstDowns,25
 401237353,Eastern Kentucky,tacklesForLoss,3
 401237353,Eastern Kentucky,defensiveTDs,0
 401237353,Eastern Kentucky,tackles,40
@@ -58,6 +89,40 @@ game_id,team,category,stat
 401237353,Eastern Kentucky,fourthDownEff,0-2
 401237353,Eastern Kentucky,thirdDownEff,3-12
 401237353,Eastern Kentucky,firstDowns,7
+401237353,Marshall,tacklesForLoss,4
+401237353,Marshall,defensiveTDs,0
+401237353,Marshall,tackles,18
+401237353,Marshall,sacks,2
+401237353,Marshall,qbHurries,3
+401237353,Marshall,passesDeflected,0
+401237353,Marshall,fumblesRecovered,0
+401237353,Marshall,rushingTDs,3
+401237353,Marshall,puntReturnYards,12
+401237353,Marshall,puntReturnTDs,0
+401237353,Marshall,puntReturns,3
+401237353,Marshall,passingTDs,5
+401237353,Marshall,kickReturnYards,24
+401237353,Marshall,kickReturnTDs,0
+401237353,Marshall,kickReturns,1
+401237353,Marshall,kickingPoints,11
+401237353,Marshall,interceptionYards,-7
+401237353,Marshall,interceptionTDs,0
+401237353,Marshall,passesIntercepted,1
+401237353,Marshall,possessionTime,34:03
+401237353,Marshall,interceptions,0
+401237353,Marshall,fumblesLost,0
+401237353,Marshall,turnovers,0
+401237353,Marshall,totalPenaltiesYards,2-15
+401237353,Marshall,yardsPerRushAttempt,5.2
+401237353,Marshall,rushingAttempts,54
+401237353,Marshall,rushingYards,282
+401237353,Marshall,yardsPerPass,11.9
+401237353,Marshall,completionAttempts,22-29
+401237353,Marshall,netPassingYards,345
+401237353,Marshall,totalYards,627
+401237353,Marshall,fourthDownEff,2-2
+401237353,Marshall,thirdDownEff,7-10
+401237353,Marshall,firstDowns,34
 401239884,Stephen F. Austin,tacklesForLoss,5
 401239884,Stephen F. Austin,defensiveTDs,0
 401239884,Stephen F. Austin,tackles,38
@@ -89,6 +154,37 @@ game_id,team,category,stat
 401239884,Stephen F. Austin,fourthDownEff,1-1
 401239884,Stephen F. Austin,thirdDownEff,3-8
 401239884,Stephen F. Austin,firstDowns,14
+401239884,UTEP,tacklesForLoss,5
+401239884,UTEP,defensiveTDs,0
+401239884,UTEP,tackles,25
+401239884,UTEP,sacks,1
+401239884,UTEP,qbHurries,3
+401239884,UTEP,passesDeflected,0
+401239884,UTEP,fumblesRecovered,1
+401239884,UTEP,rushingTDs,2
+401239884,UTEP,passingTDs,1
+401239884,UTEP,kickReturnYards,19
+401239884,UTEP,kickReturnTDs,0
+401239884,UTEP,kickReturns,2
+401239884,UTEP,kickingPoints,6
+401239884,UTEP,interceptionYards,0
+401239884,UTEP,interceptionTDs,0
+401239884,UTEP,passesIntercepted,1
+401239884,UTEP,possessionTime,36:47
+401239884,UTEP,interceptions,1
+401239884,UTEP,fumblesLost,1
+401239884,UTEP,turnovers,2
+401239884,UTEP,totalPenaltiesYards,4-40
+401239884,UTEP,yardsPerRushAttempt,4.1
+401239884,UTEP,rushingAttempts,37
+401239884,UTEP,rushingYards,152
+401239884,UTEP,yardsPerPass,7.6
+401239884,UTEP,completionAttempts,17-28
+401239884,UTEP,netPassingYards,212
+401239884,UTEP,totalYards,364
+401239884,UTEP,fourthDownEff,1-2
+401239884,UTEP,thirdDownEff,8-13
+401239884,UTEP,firstDowns,19
 401235700,Middle Tennessee,tacklesForLoss,2
 401235700,Middle Tennessee,defensiveTDs,0
 401235700,Middle Tennessee,tackles,38
@@ -116,6 +212,37 @@ game_id,team,category,stat
 401235700,Middle Tennessee,fourthDownEff,2-2
 401235700,Middle Tennessee,thirdDownEff,3-9
 401235700,Middle Tennessee,firstDowns,13
+401235700,Army,tacklesForLoss,6
+401235700,Army,defensiveTDs,1
+401235700,Army,tackles,31
+401235700,Army,sacks,1
+401235700,Army,qbHurries,3
+401235700,Army,passesDeflected,2
+401235700,Army,fumblesRecovered,2
+401235700,Army,rushingTDs,5
+401235700,Army,passingTDs,0
+401235700,Army,kickReturnYards,15
+401235700,Army,kickReturnTDs,0
+401235700,Army,kickReturns,1
+401235700,Army,kickingPoints,6
+401235700,Army,interceptionYards,43
+401235700,Army,interceptionTDs,1
+401235700,Army,passesIntercepted,2
+401235700,Army,possessionTime,35:29
+401235700,Army,interceptions,0
+401235700,Army,fumblesLost,0
+401235700,Army,turnovers,0
+401235700,Army,totalPenaltiesYards,7-74
+401235700,Army,yardsPerRushAttempt,5.5
+401235700,Army,rushingAttempts,62
+401235700,Army,rushingYards,340
+401235700,Army,yardsPerPass,7.0
+401235700,Army,completionAttempts,2-4
+401235700,Army,netPassingYards,28
+401235700,Army,totalYards,368
+401235700,Army,fourthDownEff,1-1
+401235700,Army,thirdDownEff,13-15
+401235700,Army,firstDowns,24
 401234576,Navy,tacklesForLoss,4
 401234576,Navy,defensiveTDs,0
 401234576,Navy,tackles,33
@@ -150,6 +277,37 @@ game_id,team,category,stat
 401234576,Navy,fourthDownEff,0-2
 401234576,Navy,thirdDownEff,2-12
 401234576,Navy,firstDowns,7
+401234576,BYU,tacklesForLoss,8
+401234576,BYU,defensiveTDs,0
+401234576,BYU,tackles,32
+401234576,BYU,sacks,5
+401234576,BYU,qbHurries,3
+401234576,BYU,passesDeflected,2
+401234576,BYU,fumblesRecovered,1
+401234576,BYU,rushingTDs,5
+401234576,BYU,puntReturnYards,-2
+401234576,BYU,puntReturnTDs,0
+401234576,BYU,puntReturns,1
+401234576,BYU,passingTDs,2
+401234576,BYU,kickReturnYards,38
+401234576,BYU,kickReturnTDs,0
+401234576,BYU,kickReturns,2
+401234576,BYU,kickingPoints,13
+401234576,BYU,possessionTime,37:20
+401234576,BYU,interceptions,1
+401234576,BYU,fumblesLost,0
+401234576,BYU,turnovers,1
+401234576,BYU,totalPenaltiesYards,1-5
+401234576,BYU,yardsPerRushAttempt,6.1
+401234576,BYU,rushingAttempts,49
+401234576,BYU,rushingYards,301
+401234576,BYU,yardsPerPass,12.7
+401234576,BYU,completionAttempts,16-22
+401234576,BYU,netPassingYards,279
+401234576,BYU,totalYards,580
+401234576,BYU,fourthDownEff,1-2
+401234576,BYU,thirdDownEff,6-11
+401234576,BYU,firstDowns,28
 401207101,Southern Mississippi,tacklesForLoss,2
 401207101,Southern Mississippi,defensiveTDs,0
 401207101,Southern Mississippi,tackles,23
@@ -181,6 +339,34 @@ game_id,team,category,stat
 401207101,Southern Mississippi,fourthDownEff,1-2
 401207101,Southern Mississippi,thirdDownEff,5-14
 401207101,Southern Mississippi,firstDowns,20
+401207101,South Alabama,tacklesForLoss,5
+401207101,South Alabama,defensiveTDs,0
+401207101,South Alabama,tackles,23
+401207101,South Alabama,sacks,2
+401207101,South Alabama,qbHurries,3
+401207101,South Alabama,passesDeflected,2
+401207101,South Alabama,fumblesRecovered,0
+401207101,South Alabama,rushingTDs,1
+401207101,South Alabama,passingTDs,3
+401207101,South Alabama,kickReturnYards,27
+401207101,South Alabama,kickReturnTDs,0
+401207101,South Alabama,kickReturns,2
+401207101,South Alabama,kickingPoints,8
+401207101,South Alabama,possessionTime,29:08
+401207101,South Alabama,interceptions,2
+401207101,South Alabama,fumblesLost,0
+401207101,South Alabama,turnovers,2
+401207101,South Alabama,totalPenaltiesYards,4-38
+401207101,South Alabama,yardsPerRushAttempt,4.3
+401207101,South Alabama,rushingAttempts,38
+401207101,South Alabama,rushingYards,163
+401207101,South Alabama,yardsPerPass,12.1
+401207101,South Alabama,completionAttempts,18-30
+401207101,South Alabama,netPassingYards,363
+401207101,South Alabama,totalYards,526
+401207101,South Alabama,fourthDownEff,2-2
+401207101,South Alabama,thirdDownEff,7-12
+401207101,South Alabama,firstDowns,23
 401207098,Houston Baptist,tacklesForLoss,1
 401207098,Houston Baptist,defensiveTDs,0
 401207098,Houston Baptist,tackles,41
@@ -215,6 +401,34 @@ game_id,team,category,stat
 401207098,Houston Baptist,fourthDownEff,1-2
 401207098,Houston Baptist,thirdDownEff,8-18
 401207098,Houston Baptist,firstDowns,28
+401207098,North Texas,tacklesForLoss,5
+401207098,North Texas,defensiveTDs,0
+401207098,North Texas,tackles,38
+401207098,North Texas,sacks,1
+401207098,North Texas,qbHurries,4
+401207098,North Texas,passesDeflected,2
+401207098,North Texas,fumblesRecovered,0
+401207098,North Texas,rushingTDs,4
+401207098,North Texas,puntReturnYards,5
+401207098,North Texas,puntReturnTDs,0
+401207098,North Texas,puntReturns,2
+401207098,North Texas,passingTDs,4
+401207098,North Texas,kickingPoints,9
+401207098,North Texas,possessionTime,22:43
+401207098,North Texas,interceptions,1
+401207098,North Texas,fumblesLost,0
+401207098,North Texas,turnovers,1
+401207098,North Texas,totalPenaltiesYards,6-48
+401207098,North Texas,yardsPerRushAttempt,6.9
+401207098,North Texas,rushingAttempts,52
+401207098,North Texas,rushingYards,360
+401207098,North Texas,yardsPerPass,10.6
+401207098,North Texas,completionAttempts,21-34
+401207098,North Texas,netPassingYards,361
+401207098,North Texas,totalYards,721
+401207098,North Texas,fourthDownEff,3-3
+401207098,North Texas,thirdDownEff,11-17
+401207098,North Texas,firstDowns,33
 401212484,SMU,tacklesForLoss,7
 401212484,SMU,defensiveTDs,0
 401212484,SMU,tackles,42
@@ -249,6 +463,37 @@ game_id,team,category,stat
 401212484,SMU,fourthDownEff,0-1
 401212484,SMU,thirdDownEff,6-14
 401212484,SMU,firstDowns,26
+401212484,Texas State,tacklesForLoss,5
+401212484,Texas State,defensiveTDs,0
+401212484,Texas State,tackles,43
+401212484,Texas State,sacks,1
+401212484,Texas State,qbHurries,2
+401212484,Texas State,passesDeflected,2
+401212484,Texas State,fumblesRecovered,1
+401212484,Texas State,rushingTDs,1
+401212484,Texas State,passingTDs,2
+401212484,Texas State,kickReturnYards,19
+401212484,Texas State,kickReturnTDs,0
+401212484,Texas State,kickReturns,1
+401212484,Texas State,kickingPoints,6
+401212484,Texas State,interceptionYards,45
+401212484,Texas State,interceptionTDs,0
+401212484,Texas State,passesIntercepted,2
+401212484,Texas State,possessionTime,27:57
+401212484,Texas State,interceptions,1
+401212484,Texas State,fumblesLost,1
+401212484,Texas State,turnovers,2
+401212484,Texas State,totalPenaltiesYards,4-43
+401212484,Texas State,yardsPerRushAttempt,5.0
+401212484,Texas State,rushingAttempts,38
+401212484,Texas State,rushingYards,189
+401212484,Texas State,yardsPerPass,5.8
+401212484,Texas State,completionAttempts,21-39
+401212484,Texas State,netPassingYards,227
+401212484,Texas State,totalYards,416
+401212484,Texas State,fourthDownEff,2-3
+401212484,Texas State,thirdDownEff,6-16
+401212484,Texas State,firstDowns,22
 401238035,Central Arkansas,tacklesForLoss,8
 401238035,Central Arkansas,defensiveTDs,1
 401238035,Central Arkansas,tackles,61
@@ -282,3 +527,36 @@ game_id,team,category,stat
 401238035,Central Arkansas,fourthDownEff,0-0
 401238035,Central Arkansas,thirdDownEff,0-0
 401238035,Central Arkansas,firstDowns,0
+401238035,UAB,tacklesForLoss,5
+401238035,UAB,defensiveTDs,0
+401238035,UAB,tackles,39
+401238035,UAB,sacks,2
+401238035,UAB,qbHurries,5
+401238035,UAB,passesDeflected,5
+401238035,UAB,fumblesRecovered,2
+401238035,UAB,rushingTDs,3
+401238035,UAB,puntReturnYards,-2
+401238035,UAB,puntReturnTDs,0
+401238035,UAB,puntReturns,1
+401238035,UAB,passingTDs,3
+401238035,UAB,kickReturnYards,49
+401238035,UAB,kickReturnTDs,0
+401238035,UAB,kickReturns,3
+401238035,UAB,kickingPoints,9
+401238035,UAB,interceptionYards,19
+401238035,UAB,interceptionTDs,0
+401238035,UAB,passesIntercepted,1
+401238035,UAB,interceptions,1
+401238035,UAB,fumblesLost,2
+401238035,UAB,turnovers,3
+401238035,UAB,totalPenaltiesYards,0-0
+401238035,UAB,yardsPerRushAttempt,4.8
+401238035,UAB,rushingAttempts,49
+401238035,UAB,rushingYards,233
+401238035,UAB,yardsPerPass,6.6
+401238035,UAB,completionAttempts,24-34
+401238035,UAB,netPassingYards,226
+401238035,UAB,totalYards,459
+401238035,UAB,fourthDownEff,0-0
+401238035,UAB,thirdDownEff,0-0
+401238035,UAB,firstDowns,0

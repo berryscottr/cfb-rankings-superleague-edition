@@ -31,6 +31,38 @@ game_id,team,category,stat
 400869828,New Mexico State,fumblesLost,2
 400869828,New Mexico State,interceptions,0
 400869828,New Mexico State,possessionTime,21:03
+400869828,Idaho,rushingTDs,3
+400869828,Idaho,puntReturnYards,-1
+400869828,Idaho,puntReturnTDs,0
+400869828,Idaho,puntReturns,1
+400869828,Idaho,passingTDs,4
+400869828,Idaho,kickReturnYards,47
+400869828,Idaho,kickReturnTDs,0
+400869828,Idaho,kickReturns,2
+400869828,Idaho,kickingPoints,13
+400869828,Idaho,fumblesRecovered,2
+400869828,Idaho,totalFumbles,0
+400869828,Idaho,tacklesForLoss,9
+400869828,Idaho,defensiveTDs,0
+400869828,Idaho,tackles,46
+400869828,Idaho,sacks,5
+400869828,Idaho,qbHurries,2
+400869828,Idaho,passesDeflected,2
+400869828,Idaho,firstDowns,34
+400869828,Idaho,thirdDownEff,8-13
+400869828,Idaho,fourthDownEff,0-1
+400869828,Idaho,totalYards,651
+400869828,Idaho,netPassingYards,482
+400869828,Idaho,completionAttempts,31-39
+400869828,Idaho,yardsPerPass,12.4
+400869828,Idaho,rushingYards,169
+400869828,Idaho,rushingAttempts,42
+400869828,Idaho,yardsPerRushAttempt,4.0
+400869828,Idaho,totalPenaltiesYards,5-40
+400869828,Idaho,turnovers,1
+400869828,Idaho,fumblesLost,0
+400869828,Idaho,interceptions,1
+400869828,Idaho,possessionTime,38:57
 400868952,Notre Dame,rushingTDs,1
 400868952,Notre Dame,puntReturnYards,5
 400868952,Notre Dame,puntReturnTDs,0
@@ -66,6 +98,41 @@ game_id,team,category,stat
 400868952,Notre Dame,fumblesLost,0
 400868952,Notre Dame,interceptions,2
 400868952,Notre Dame,possessionTime,27:09
+400868952,Stanford,rushingTDs,1
+400868952,Stanford,puntReturnYards,-7
+400868952,Stanford,puntReturnTDs,0
+400868952,Stanford,puntReturns,1
+400868952,Stanford,passingTDs,0
+400868952,Stanford,kickReturnYards,22
+400868952,Stanford,kickReturnTDs,0
+400868952,Stanford,kickReturns,2
+400868952,Stanford,kickingPoints,1
+400868952,Stanford,interceptionYards,88
+400868952,Stanford,interceptionTDs,1
+400868952,Stanford,passesIntercepted,2
+400868952,Stanford,fumblesRecovered,0
+400868952,Stanford,totalFumbles,2
+400868952,Stanford,tacklesForLoss,7
+400868952,Stanford,defensiveTDs,1
+400868952,Stanford,tackles,37
+400868952,Stanford,sacks,4
+400868952,Stanford,qbHurries,1
+400868952,Stanford,passesDeflected,4
+400868952,Stanford,firstDowns,18
+400868952,Stanford,thirdDownEff,7-12
+400868952,Stanford,fourthDownEff,0-0
+400868952,Stanford,totalYards,296
+400868952,Stanford,netPassingYards,120
+400868952,Stanford,completionAttempts,10-20
+400868952,Stanford,yardsPerPass,6.0
+400868952,Stanford,rushingYards,176
+400868952,Stanford,rushingAttempts,40
+400868952,Stanford,yardsPerRushAttempt,4.4
+400868952,Stanford,totalPenaltiesYards,5-40
+400868952,Stanford,turnovers,3
+400868952,Stanford,fumblesLost,2
+400868952,Stanford,interceptions,1
+400868952,Stanford,possessionTime,32:51
 400869026,Georgia,rushingTDs,0
 400869026,Georgia,puntReturnYards,-1
 400869026,Georgia,puntReturnTDs,0
@@ -98,6 +165,38 @@ game_id,team,category,stat
 400869026,Georgia,fumblesLost,0
 400869026,Georgia,interceptions,0
 400869026,Georgia,possessionTime,35:04
+400869026,Vanderbilt,rushingTDs,2
+400869026,Vanderbilt,puntReturnYards,27
+400869026,Vanderbilt,puntReturnTDs,0
+400869026,Vanderbilt,puntReturns,3
+400869026,Vanderbilt,passingTDs,0
+400869026,Vanderbilt,kickReturnYards,124
+400869026,Vanderbilt,kickReturnTDs,0
+400869026,Vanderbilt,kickReturns,2
+400869026,Vanderbilt,kickingPoints,5
+400869026,Vanderbilt,fumblesRecovered,0
+400869026,Vanderbilt,totalFumbles,1
+400869026,Vanderbilt,tacklesForLoss,9
+400869026,Vanderbilt,defensiveTDs,0
+400869026,Vanderbilt,tackles,34
+400869026,Vanderbilt,sacks,1
+400869026,Vanderbilt,qbHurries,0
+400869026,Vanderbilt,passesDeflected,5
+400869026,Vanderbilt,firstDowns,9
+400869026,Vanderbilt,thirdDownEff,4-14
+400869026,Vanderbilt,fourthDownEff,0-0
+400869026,Vanderbilt,totalYards,171
+400869026,Vanderbilt,netPassingYards,109
+400869026,Vanderbilt,completionAttempts,7-18
+400869026,Vanderbilt,yardsPerPass,6.1
+400869026,Vanderbilt,rushingYards,62
+400869026,Vanderbilt,rushingAttempts,32
+400869026,Vanderbilt,yardsPerRushAttempt,1.9
+400869026,Vanderbilt,totalPenaltiesYards,5-45
+400869026,Vanderbilt,turnovers,0
+400869026,Vanderbilt,fumblesLost,0
+400869026,Vanderbilt,interceptions,0
+400869026,Vanderbilt,possessionTime,24:56
 400869025,Florida,rushingTDs,1
 400869025,Florida,puntReturnYards,8
 400869025,Florida,puntReturnTDs,0
@@ -133,6 +232,38 @@ game_id,team,category,stat
 400869025,Florida,fumblesLost,1
 400869025,Florida,interceptions,3
 400869025,Florida,possessionTime,36:59
+400869025,Missouri,rushingTDs,2
+400869025,Missouri,passingTDs,0
+400869025,Missouri,kickReturnYards,46
+400869025,Missouri,kickReturnTDs,0
+400869025,Missouri,kickReturns,2
+400869025,Missouri,kickingPoints,2
+400869025,Missouri,interceptionYards,2
+400869025,Missouri,interceptionTDs,0
+400869025,Missouri,passesIntercepted,3
+400869025,Missouri,fumblesRecovered,1
+400869025,Missouri,totalFumbles,3
+400869025,Missouri,tacklesForLoss,2
+400869025,Missouri,defensiveTDs,0
+400869025,Missouri,tackles,31
+400869025,Missouri,sacks,1
+400869025,Missouri,qbHurries,5
+400869025,Missouri,passesDeflected,4
+400869025,Missouri,firstDowns,16
+400869025,Missouri,thirdDownEff,4-15
+400869025,Missouri,fourthDownEff,0-0
+400869025,Missouri,totalYards,363
+400869025,Missouri,netPassingYards,98
+400869025,Missouri,completionAttempts,7-22
+400869025,Missouri,yardsPerPass,4.5
+400869025,Missouri,rushingYards,265
+400869025,Missouri,rushingAttempts,46
+400869025,Missouri,yardsPerRushAttempt,5.8
+400869025,Missouri,totalPenaltiesYards,5-24
+400869025,Missouri,turnovers,3
+400869025,Missouri,fumblesLost,1
+400869025,Missouri,interceptions,2
+400869025,Missouri,possessionTime,23:01
 400869028,Tennessee,rushingTDs,1
 400869028,Tennessee,puntReturnYards,60
 400869028,Tennessee,puntReturnTDs,0
@@ -168,6 +299,41 @@ game_id,team,category,stat
 400869028,Tennessee,fumblesLost,0
 400869028,Tennessee,interceptions,1
 400869028,Tennessee,possessionTime,28:27
+400869028,Alabama,rushingTDs,4
+400869028,Alabama,puntReturnYards,108
+400869028,Alabama,puntReturnTDs,1
+400869028,Alabama,puntReturns,4
+400869028,Alabama,passingTDs,1
+400869028,Alabama,kickReturnYards,26
+400869028,Alabama,kickReturnTDs,0
+400869028,Alabama,kickReturns,1
+400869028,Alabama,kickingPoints,7
+400869028,Alabama,interceptionYards,58
+400869028,Alabama,interceptionTDs,1
+400869028,Alabama,passesIntercepted,1
+400869028,Alabama,fumblesRecovered,0
+400869028,Alabama,totalFumbles,2
+400869028,Alabama,tacklesForLoss,10
+400869028,Alabama,defensiveTDs,2
+400869028,Alabama,tackles,44
+400869028,Alabama,sacks,3
+400869028,Alabama,qbHurries,2
+400869028,Alabama,passesDeflected,6
+400869028,Alabama,firstDowns,28
+400869028,Alabama,thirdDownEff,6-12
+400869028,Alabama,fourthDownEff,0-1
+400869028,Alabama,totalYards,594
+400869028,Alabama,netPassingYards,185
+400869028,Alabama,completionAttempts,18-28
+400869028,Alabama,yardsPerPass,6.6
+400869028,Alabama,rushingYards,409
+400869028,Alabama,rushingAttempts,48
+400869028,Alabama,yardsPerRushAttempt,8.5
+400869028,Alabama,totalPenaltiesYards,5-38
+400869028,Alabama,turnovers,2
+400869028,Alabama,fumblesLost,1
+400869028,Alabama,interceptions,1
+400869028,Alabama,possessionTime,31:33
 400869024,Ole Miss,rushingTDs,3
 400869024,Ole Miss,puntReturnYards,0
 400869024,Ole Miss,puntReturnTDs,0
@@ -203,6 +369,41 @@ game_id,team,category,stat
 400869024,Ole Miss,fumblesLost,0
 400869024,Ole Miss,interceptions,1
 400869024,Ole Miss,possessionTime,19:22
+400869024,Arkansas,rushingTDs,1
+400869024,Arkansas,puntReturnYards,5
+400869024,Arkansas,puntReturnTDs,0
+400869024,Arkansas,puntReturns,2
+400869024,Arkansas,passingTDs,3
+400869024,Arkansas,kickReturnYards,26
+400869024,Arkansas,kickReturnTDs,0
+400869024,Arkansas,kickReturns,2
+400869024,Arkansas,kickingPoints,10
+400869024,Arkansas,interceptionYards,0
+400869024,Arkansas,interceptionTDs,0
+400869024,Arkansas,passesIntercepted,1
+400869024,Arkansas,fumblesRecovered,0
+400869024,Arkansas,totalFumbles,1
+400869024,Arkansas,tacklesForLoss,3
+400869024,Arkansas,defensiveTDs,0
+400869024,Arkansas,tackles,31
+400869024,Arkansas,sacks,2
+400869024,Arkansas,qbHurries,6
+400869024,Arkansas,passesDeflected,7
+400869024,Arkansas,firstDowns,27
+400869024,Arkansas,thirdDownEff,5-16
+400869024,Arkansas,fourthDownEff,1-1
+400869024,Arkansas,totalYards,429
+400869024,Arkansas,netPassingYards,229
+400869024,Arkansas,completionAttempts,19-32
+400869024,Arkansas,yardsPerPass,7.2
+400869024,Arkansas,rushingYards,200
+400869024,Arkansas,rushingAttempts,51
+400869024,Arkansas,yardsPerRushAttempt,3.9
+400869024,Arkansas,totalPenaltiesYards,6-71
+400869024,Arkansas,turnovers,1
+400869024,Arkansas,fumblesLost,0
+400869024,Arkansas,interceptions,1
+400869024,Arkansas,possessionTime,40:38
 400868928,Mississippi State,rushingTDs,2
 400868928,Mississippi State,passingTDs,1
 400868928,Mississippi State,kickReturnYards,14
@@ -235,6 +436,41 @@ game_id,team,category,stat
 400868928,Mississippi State,fumblesLost,0
 400868928,Mississippi State,interceptions,2
 400868928,Mississippi State,possessionTime,29:02
+400868928,BYU,rushingTDs,1
+400868928,BYU,puntReturnYards,15
+400868928,BYU,puntReturnTDs,0
+400868928,BYU,puntReturns,1
+400868928,BYU,passingTDs,3
+400868928,BYU,kickReturnYards,12
+400868928,BYU,kickReturnTDs,0
+400868928,BYU,kickReturns,1
+400868928,BYU,kickingPoints,4
+400868928,BYU,interceptionYards,10
+400868928,BYU,interceptionTDs,0
+400868928,BYU,passesIntercepted,2
+400868928,BYU,fumblesRecovered,0
+400868928,BYU,totalFumbles,2
+400868928,BYU,tacklesForLoss,9
+400868928,BYU,defensiveTDs,0
+400868928,BYU,tackles,52
+400868928,BYU,sacks,2
+400868928,BYU,qbHurries,1
+400868928,BYU,passesDeflected,6
+400868928,BYU,firstDowns,20
+400868928,BYU,thirdDownEff,9-17
+400868928,BYU,fourthDownEff,1-1
+400868928,BYU,totalYards,311
+400868928,BYU,netPassingYards,165
+400868928,BYU,completionAttempts,16-28
+400868928,BYU,yardsPerPass,5.9
+400868928,BYU,rushingYards,146
+400868928,BYU,rushingAttempts,47
+400868928,BYU,yardsPerRushAttempt,3.1
+400868928,BYU,totalPenaltiesYards,9-84
+400868928,BYU,turnovers,2
+400868928,BYU,fumblesLost,1
+400868928,BYU,interceptions,1
+400868928,BYU,possessionTime,30:58
 400869027,LSU,rushingTDs,3
 400869027,LSU,puntReturnYards,5
 400869027,LSU,puntReturnTDs,0
@@ -267,6 +503,41 @@ game_id,team,category,stat
 400869027,LSU,fumblesLost,0
 400869027,LSU,interceptions,1
 400869027,LSU,possessionTime,22:01
+400869027,Southern Mississippi,rushingTDs,1
+400869027,Southern Mississippi,puntReturnYards,5
+400869027,Southern Mississippi,puntReturnTDs,0
+400869027,Southern Mississippi,puntReturns,1
+400869027,Southern Mississippi,passingTDs,0
+400869027,Southern Mississippi,kickReturnYards,101
+400869027,Southern Mississippi,kickReturnTDs,0
+400869027,Southern Mississippi,kickReturns,7
+400869027,Southern Mississippi,kickingPoints,4
+400869027,Southern Mississippi,interceptionYards,0
+400869027,Southern Mississippi,interceptionTDs,0
+400869027,Southern Mississippi,passesIntercepted,1
+400869027,Southern Mississippi,fumblesRecovered,0
+400869027,Southern Mississippi,totalFumbles,3
+400869027,Southern Mississippi,tacklesForLoss,2
+400869027,Southern Mississippi,defensiveTDs,0
+400869027,Southern Mississippi,tackles,14
+400869027,Southern Mississippi,sacks,1
+400869027,Southern Mississippi,qbHurries,0
+400869027,Southern Mississippi,passesDeflected,2
+400869027,Southern Mississippi,firstDowns,16
+400869027,Southern Mississippi,thirdDownEff,7-18
+400869027,Southern Mississippi,fourthDownEff,1-2
+400869027,Southern Mississippi,totalYards,242
+400869027,Southern Mississippi,netPassingYards,161
+400869027,Southern Mississippi,completionAttempts,25-37
+400869027,Southern Mississippi,yardsPerPass,4.4
+400869027,Southern Mississippi,rushingYards,81
+400869027,Southern Mississippi,rushingAttempts,36
+400869027,Southern Mississippi,yardsPerRushAttempt,2.3
+400869027,Southern Mississippi,totalPenaltiesYards,6-42
+400869027,Southern Mississippi,turnovers,1
+400869027,Southern Mississippi,fumblesLost,1
+400869027,Southern Mississippi,interceptions,0
+400869027,Southern Mississippi,possessionTime,37:59
 400869309,Miami (OH),rushingTDs,0
 400869309,Miami (OH),passingTDs,2
 400869309,Miami (OH),kickReturnYards,34
@@ -299,6 +570,35 @@ game_id,team,category,stat
 400869309,Miami (OH),fumblesLost,1
 400869309,Miami (OH),interceptions,0
 400869309,Miami (OH),possessionTime,27:44
+400869309,Kent State,rushingTDs,2
+400869309,Kent State,puntReturnYards,16
+400869309,Kent State,puntReturnTDs,0
+400869309,Kent State,puntReturns,1
+400869309,Kent State,passingTDs,0
+400869309,Kent State,kickingPoints,2
+400869309,Kent State,fumblesRecovered,1
+400869309,Kent State,totalFumbles,2
+400869309,Kent State,tacklesForLoss,5
+400869309,Kent State,defensiveTDs,0
+400869309,Kent State,tackles,29
+400869309,Kent State,sacks,1
+400869309,Kent State,qbHurries,3
+400869309,Kent State,passesDeflected,2
+400869309,Kent State,firstDowns,14
+400869309,Kent State,thirdDownEff,5-15
+400869309,Kent State,fourthDownEff,1-2
+400869309,Kent State,totalYards,260
+400869309,Kent State,netPassingYards,99
+400869309,Kent State,completionAttempts,8-14
+400869309,Kent State,yardsPerPass,7.1
+400869309,Kent State,rushingYards,161
+400869309,Kent State,rushingAttempts,48
+400869309,Kent State,yardsPerRushAttempt,3.4
+400869309,Kent State,totalPenaltiesYards,5-39
+400869309,Kent State,turnovers,2
+400869309,Kent State,fumblesLost,0
+400869309,Kent State,interceptions,2
+400869309,Kent State,possessionTime,32:16
 400869308,Ohio,rushingTDs,1
 400869308,Ohio,puntReturnYards,1
 400869308,Ohio,puntReturnTDs,0
@@ -331,6 +631,41 @@ game_id,team,category,stat
 400869308,Ohio,fumblesLost,1
 400869308,Ohio,interceptions,1
 400869308,Ohio,possessionTime,29:03
+400869308,Eastern Michigan,rushingTDs,0
+400869308,Eastern Michigan,puntReturnYards,1
+400869308,Eastern Michigan,puntReturnTDs,0
+400869308,Eastern Michigan,puntReturns,1
+400869308,Eastern Michigan,passingTDs,3
+400869308,Eastern Michigan,kickReturnYards,71
+400869308,Eastern Michigan,kickReturnTDs,0
+400869308,Eastern Michigan,kickReturns,4
+400869308,Eastern Michigan,kickingPoints,9
+400869308,Eastern Michigan,interceptionYards,35
+400869308,Eastern Michigan,interceptionTDs,0
+400869308,Eastern Michigan,passesIntercepted,1
+400869308,Eastern Michigan,fumblesRecovered,1
+400869308,Eastern Michigan,totalFumbles,1
+400869308,Eastern Michigan,tacklesForLoss,2
+400869308,Eastern Michigan,defensiveTDs,0
+400869308,Eastern Michigan,tackles,33
+400869308,Eastern Michigan,sacks,1
+400869308,Eastern Michigan,qbHurries,0
+400869308,Eastern Michigan,passesDeflected,2
+400869308,Eastern Michigan,firstDowns,20
+400869308,Eastern Michigan,thirdDownEff,7-15
+400869308,Eastern Michigan,fourthDownEff,0-0
+400869308,Eastern Michigan,totalYards,435
+400869308,Eastern Michigan,netPassingYards,347
+400869308,Eastern Michigan,completionAttempts,29-39
+400869308,Eastern Michigan,yardsPerPass,8.9
+400869308,Eastern Michigan,rushingYards,88
+400869308,Eastern Michigan,rushingAttempts,32
+400869308,Eastern Michigan,yardsPerRushAttempt,2.8
+400869308,Eastern Michigan,totalPenaltiesYards,5-55
+400869308,Eastern Michigan,turnovers,1
+400869308,Eastern Michigan,fumblesLost,1
+400869308,Eastern Michigan,interceptions,0
+400869308,Eastern Michigan,possessionTime,30:57
 400869310,Akron,rushingTDs,0
 400869310,Akron,passingTDs,0
 400869310,Akron,kickReturnYards,60
@@ -359,6 +694,38 @@ game_id,team,category,stat
 400869310,Akron,fumblesLost,0
 400869310,Akron,interceptions,2
 400869310,Akron,possessionTime,22:48
+400869310,Western Michigan,rushingTDs,4
+400869310,Western Michigan,puntReturnYards,17
+400869310,Western Michigan,puntReturnTDs,0
+400869310,Western Michigan,puntReturns,2
+400869310,Western Michigan,passingTDs,2
+400869310,Western Michigan,kickingPoints,5
+400869310,Western Michigan,interceptionYards,1
+400869310,Western Michigan,interceptionTDs,0
+400869310,Western Michigan,passesIntercepted,2
+400869310,Western Michigan,fumblesRecovered,0
+400869310,Western Michigan,totalFumbles,1
+400869310,Western Michigan,tacklesForLoss,9
+400869310,Western Michigan,defensiveTDs,0
+400869310,Western Michigan,tackles,34
+400869310,Western Michigan,sacks,3
+400869310,Western Michigan,qbHurries,1
+400869310,Western Michigan,passesDeflected,4
+400869310,Western Michigan,firstDowns,31
+400869310,Western Michigan,thirdDownEff,14-18
+400869310,Western Michigan,fourthDownEff,1-1
+400869310,Western Michigan,totalYards,585
+400869310,Western Michigan,netPassingYards,207
+400869310,Western Michigan,completionAttempts,21-31
+400869310,Western Michigan,yardsPerPass,6.7
+400869310,Western Michigan,rushingYards,378
+400869310,Western Michigan,rushingAttempts,56
+400869310,Western Michigan,yardsPerRushAttempt,6.8
+400869310,Western Michigan,totalPenaltiesYards,4-41
+400869310,Western Michigan,turnovers,1
+400869310,Western Michigan,fumblesLost,1
+400869310,Western Michigan,interceptions,0
+400869310,Western Michigan,possessionTime,37:12
 400869306,Toledo,fumblesRecovered,0
 400869306,Toledo,rushingTDs,2
 400869306,Toledo,puntReturnYards,26
@@ -393,6 +760,41 @@ game_id,team,category,stat
 400869306,Toledo,fumblesLost,0
 400869306,Toledo,interceptions,1
 400869306,Toledo,possessionTime,31:27
+400869306,Bowling Green,rushingTDs,0
+400869306,Bowling Green,puntReturnYards,0
+400869306,Bowling Green,puntReturnTDs,0
+400869306,Bowling Green,puntReturns,1
+400869306,Bowling Green,passingTDs,5
+400869306,Bowling Green,kickReturnYards,101
+400869306,Bowling Green,kickReturnTDs,0
+400869306,Bowling Green,kickReturns,5
+400869306,Bowling Green,kickingPoints,5
+400869306,Bowling Green,interceptionYards,7
+400869306,Bowling Green,interceptionTDs,0
+400869306,Bowling Green,passesIntercepted,1
+400869306,Bowling Green,fumblesRecovered,0
+400869306,Bowling Green,totalFumbles,1
+400869306,Bowling Green,tacklesForLoss,6
+400869306,Bowling Green,defensiveTDs,0
+400869306,Bowling Green,tackles,52
+400869306,Bowling Green,sacks,3
+400869306,Bowling Green,qbHurries,2
+400869306,Bowling Green,passesDeflected,1
+400869306,Bowling Green,firstDowns,24
+400869306,Bowling Green,thirdDownEff,3-14
+400869306,Bowling Green,fourthDownEff,3-4
+400869306,Bowling Green,totalYards,502
+400869306,Bowling Green,netPassingYards,335
+400869306,Bowling Green,completionAttempts,25-38
+400869306,Bowling Green,yardsPerPass,8.8
+400869306,Bowling Green,rushingYards,167
+400869306,Bowling Green,rushingAttempts,34
+400869306,Bowling Green,yardsPerRushAttempt,4.9
+400869306,Bowling Green,totalPenaltiesYards,10-83
+400869306,Bowling Green,turnovers,1
+400869306,Bowling Green,fumblesLost,0
+400869306,Bowling Green,interceptions,1
+400869306,Bowling Green,possessionTime,28:33
 400869305,Ball State,rushingTDs,4
 400869305,Ball State,puntReturnYards,0
 400869305,Ball State,puntReturnTDs,0
@@ -425,6 +827,41 @@ game_id,team,category,stat
 400869305,Ball State,fumblesLost,1
 400869305,Ball State,interceptions,2
 400869305,Ball State,possessionTime,30:24
+400869305,Buffalo,rushingTDs,0
+400869305,Buffalo,puntReturnYards,13
+400869305,Buffalo,puntReturnTDs,0
+400869305,Buffalo,puntReturns,2
+400869305,Buffalo,passingTDs,3
+400869305,Buffalo,kickReturnYards,81
+400869305,Buffalo,kickReturnTDs,0
+400869305,Buffalo,kickReturns,5
+400869305,Buffalo,kickingPoints,3
+400869305,Buffalo,interceptionYards,0
+400869305,Buffalo,interceptionTDs,0
+400869305,Buffalo,passesIntercepted,2
+400869305,Buffalo,fumblesRecovered,1
+400869305,Buffalo,totalFumbles,0
+400869305,Buffalo,tacklesForLoss,7
+400869305,Buffalo,defensiveTDs,0
+400869305,Buffalo,tackles,57
+400869305,Buffalo,sacks,1
+400869305,Buffalo,qbHurries,4
+400869305,Buffalo,passesDeflected,4
+400869305,Buffalo,firstDowns,24
+400869305,Buffalo,thirdDownEff,7-18
+400869305,Buffalo,fourthDownEff,1-4
+400869305,Buffalo,totalYards,459
+400869305,Buffalo,netPassingYards,306
+400869305,Buffalo,completionAttempts,28-46
+400869305,Buffalo,yardsPerPass,6.7
+400869305,Buffalo,rushingYards,153
+400869305,Buffalo,rushingAttempts,37
+400869305,Buffalo,yardsPerRushAttempt,4.1
+400869305,Buffalo,totalPenaltiesYards,6-49
+400869305,Buffalo,turnovers,0
+400869305,Buffalo,fumblesLost,0
+400869305,Buffalo,interceptions,0
+400869305,Buffalo,possessionTime,29:36
 400869307,Central Michigan,rushingTDs,2
 400869307,Central Michigan,puntReturnYards,21
 400869307,Central Michigan,puntReturnTDs,0
@@ -457,6 +894,38 @@ game_id,team,category,stat
 400869307,Central Michigan,fumblesLost,1
 400869307,Central Michigan,interceptions,2
 400869307,Central Michigan,possessionTime,41:01
+400869307,Northern Illinois,rushingTDs,1
+400869307,Northern Illinois,passingTDs,3
+400869307,Northern Illinois,kickReturnYards,23
+400869307,Northern Illinois,kickReturnTDs,0
+400869307,Northern Illinois,kickReturns,2
+400869307,Northern Illinois,kickingPoints,4
+400869307,Northern Illinois,interceptionYards,18
+400869307,Northern Illinois,interceptionTDs,0
+400869307,Northern Illinois,passesIntercepted,2
+400869307,Northern Illinois,fumblesRecovered,1
+400869307,Northern Illinois,totalFumbles,2
+400869307,Northern Illinois,tacklesForLoss,5
+400869307,Northern Illinois,defensiveTDs,0
+400869307,Northern Illinois,tackles,62
+400869307,Northern Illinois,sacks,2
+400869307,Northern Illinois,qbHurries,0
+400869307,Northern Illinois,passesDeflected,3
+400869307,Northern Illinois,firstDowns,16
+400869307,Northern Illinois,thirdDownEff,4-15
+400869307,Northern Illinois,fourthDownEff,1-2
+400869307,Northern Illinois,totalYards,339
+400869307,Northern Illinois,netPassingYards,165
+400869307,Northern Illinois,completionAttempts,18-30
+400869307,Northern Illinois,yardsPerPass,5.5
+400869307,Northern Illinois,rushingYards,174
+400869307,Northern Illinois,rushingAttempts,37
+400869307,Northern Illinois,yardsPerRushAttempt,4.7
+400869307,Northern Illinois,totalPenaltiesYards,3-26
+400869307,Northern Illinois,turnovers,2
+400869307,Northern Illinois,fumblesLost,0
+400869307,Northern Illinois,interceptions,2
+400869307,Northern Illinois,possessionTime,18:59
 400869825,Louisiana,fumblesRecovered,0
 400869825,Louisiana,rushingTDs,0
 400869825,Louisiana,puntReturnYards,46
@@ -491,6 +960,35 @@ game_id,team,category,stat
 400869825,Louisiana,fumblesLost,0
 400869825,Louisiana,interceptions,0
 400869825,Louisiana,possessionTime,28:18
+400869825,Appalachian State,rushingTDs,2
+400869825,Appalachian State,passingTDs,1
+400869825,Appalachian State,kickReturnYards,18
+400869825,Appalachian State,kickReturnTDs,0
+400869825,Appalachian State,kickReturns,1
+400869825,Appalachian State,kickingPoints,6
+400869825,Appalachian State,fumblesRecovered,0
+400869825,Appalachian State,totalFumbles,2
+400869825,Appalachian State,tacklesForLoss,10
+400869825,Appalachian State,defensiveTDs,0
+400869825,Appalachian State,tackles,55
+400869825,Appalachian State,sacks,5
+400869825,Appalachian State,qbHurries,1
+400869825,Appalachian State,passesDeflected,2
+400869825,Appalachian State,firstDowns,20
+400869825,Appalachian State,thirdDownEff,5-13
+400869825,Appalachian State,fourthDownEff,0-1
+400869825,Appalachian State,totalYards,372
+400869825,Appalachian State,netPassingYards,201
+400869825,Appalachian State,completionAttempts,15-26
+400869825,Appalachian State,yardsPerPass,7.7
+400869825,Appalachian State,rushingYards,171
+400869825,Appalachian State,rushingAttempts,37
+400869825,Appalachian State,yardsPerRushAttempt,4.6
+400869825,Appalachian State,totalPenaltiesYards,5-50
+400869825,Appalachian State,turnovers,1
+400869825,Appalachian State,fumblesLost,0
+400869825,Appalachian State,interceptions,1
+400869825,Appalachian State,possessionTime,31:42
 400869826,Arkansas State,rushingTDs,1
 400869826,Arkansas State,puntReturnYards,1
 400869826,Arkansas State,puntReturnTDs,0
@@ -523,6 +1021,38 @@ game_id,team,category,stat
 400869826,Arkansas State,fumblesLost,0
 400869826,Arkansas State,interceptions,1
 400869826,Arkansas State,possessionTime,33:29
+400869826,South Alabama,rushingTDs,1
+400869826,South Alabama,passingTDs,0
+400869826,South Alabama,kickReturnYards,36
+400869826,South Alabama,kickReturnTDs,0
+400869826,South Alabama,kickReturns,2
+400869826,South Alabama,kickingPoints,1
+400869826,South Alabama,interceptionYards,3
+400869826,South Alabama,interceptionTDs,0
+400869826,South Alabama,passesIntercepted,1
+400869826,South Alabama,fumblesRecovered,0
+400869826,South Alabama,totalFumbles,2
+400869826,South Alabama,tacklesForLoss,8
+400869826,South Alabama,defensiveTDs,0
+400869826,South Alabama,tackles,39
+400869826,South Alabama,sacks,3
+400869826,South Alabama,qbHurries,0
+400869826,South Alabama,passesDeflected,0
+400869826,South Alabama,firstDowns,13
+400869826,South Alabama,thirdDownEff,5-13
+400869826,South Alabama,fourthDownEff,0-1
+400869826,South Alabama,totalYards,255
+400869826,South Alabama,netPassingYards,194
+400869826,South Alabama,completionAttempts,12-27
+400869826,South Alabama,yardsPerPass,7.2
+400869826,South Alabama,rushingYards,61
+400869826,South Alabama,rushingAttempts,31
+400869826,South Alabama,yardsPerRushAttempt,2.0
+400869826,South Alabama,totalPenaltiesYards,9-67
+400869826,South Alabama,turnovers,2
+400869826,South Alabama,fumblesLost,1
+400869826,South Alabama,interceptions,1
+400869826,South Alabama,possessionTime,26:31
 400869829,Louisiana Monroe,rushingTDs,3
 400869829,Louisiana Monroe,puntReturnYards,24
 400869829,Louisiana Monroe,puntReturnTDs,0
@@ -558,6 +1088,41 @@ game_id,team,category,stat
 400869829,Louisiana Monroe,fumblesLost,1
 400869829,Louisiana Monroe,interceptions,1
 400869829,Louisiana Monroe,possessionTime,42:00
+400869829,Texas State,rushingTDs,3
+400869829,Texas State,puntReturnYards,4
+400869829,Texas State,puntReturnTDs,0
+400869829,Texas State,puntReturns,1
+400869829,Texas State,passingTDs,0
+400869829,Texas State,kickReturnYards,126
+400869829,Texas State,kickReturnTDs,0
+400869829,Texas State,kickReturns,6
+400869829,Texas State,kickingPoints,4
+400869829,Texas State,interceptionYards,53
+400869829,Texas State,interceptionTDs,1
+400869829,Texas State,passesIntercepted,1
+400869829,Texas State,fumblesRecovered,1
+400869829,Texas State,totalFumbles,2
+400869829,Texas State,tacklesForLoss,13
+400869829,Texas State,defensiveTDs,1
+400869829,Texas State,tackles,65
+400869829,Texas State,sacks,1
+400869829,Texas State,qbHurries,4
+400869829,Texas State,passesDeflected,4
+400869829,Texas State,firstDowns,19
+400869829,Texas State,thirdDownEff,2-9
+400869829,Texas State,fourthDownEff,0-1
+400869829,Texas State,totalYards,355
+400869829,Texas State,netPassingYards,193
+400869829,Texas State,completionAttempts,19-36
+400869829,Texas State,yardsPerPass,5.4
+400869829,Texas State,rushingYards,162
+400869829,Texas State,rushingAttempts,26
+400869829,Texas State,yardsPerRushAttempt,6.2
+400869829,Texas State,totalPenaltiesYards,11-103
+400869829,Texas State,turnovers,3
+400869829,Texas State,fumblesLost,1
+400869829,Texas State,interceptions,2
+400869829,Texas State,possessionTime,18:00
 400869827,Troy,rushingTDs,1
 400869827,Troy,puntReturnYards,21
 400869827,Troy,puntReturnTDs,0
@@ -593,6 +1158,38 @@ game_id,team,category,stat
 400869827,Troy,fumblesLost,0
 400869827,Troy,interceptions,1
 400869827,Troy,possessionTime,34:11
+400869827,Georgia State,rushingTDs,0
+400869827,Georgia State,passingTDs,3
+400869827,Georgia State,kickReturnYards,63
+400869827,Georgia State,kickReturnTDs,0
+400869827,Georgia State,kickReturns,4
+400869827,Georgia State,kickingPoints,3
+400869827,Georgia State,interceptionYards,0
+400869827,Georgia State,interceptionTDs,0
+400869827,Georgia State,passesIntercepted,1
+400869827,Georgia State,fumblesRecovered,0
+400869827,Georgia State,totalFumbles,3
+400869827,Georgia State,tacklesForLoss,2
+400869827,Georgia State,defensiveTDs,0
+400869827,Georgia State,tackles,51
+400869827,Georgia State,sacks,0
+400869827,Georgia State,qbHurries,2
+400869827,Georgia State,passesDeflected,2
+400869827,Georgia State,firstDowns,24
+400869827,Georgia State,thirdDownEff,8-17
+400869827,Georgia State,fourthDownEff,2-4
+400869827,Georgia State,totalYards,418
+400869827,Georgia State,netPassingYards,381
+400869827,Georgia State,completionAttempts,28-52
+400869827,Georgia State,yardsPerPass,7.3
+400869827,Georgia State,rushingYards,37
+400869827,Georgia State,rushingAttempts,24
+400869827,Georgia State,yardsPerRushAttempt,1.5
+400869827,Georgia State,totalPenaltiesYards,10-48
+400869827,Georgia State,turnovers,3
+400869827,Georgia State,fumblesLost,1
+400869827,Georgia State,interceptions,2
+400869827,Georgia State,possessionTime,25:49
 400869463,Florida State,rushingTDs,1
 400869463,Florida State,passingTDs,1
 400869463,Florida State,kickReturnYards,22
@@ -625,6 +1222,41 @@ game_id,team,category,stat
 400869463,Florida State,fumblesLost,3
 400869463,Florida State,interceptions,1
 400869463,Florida State,possessionTime,32:26
+400869463,Wake Forest,rushingTDs,0
+400869463,Wake Forest,puntReturnYards,25
+400869463,Wake Forest,puntReturnTDs,0
+400869463,Wake Forest,puntReturns,1
+400869463,Wake Forest,passingTDs,0
+400869463,Wake Forest,kickReturnYards,34
+400869463,Wake Forest,kickReturnTDs,0
+400869463,Wake Forest,kickReturns,2
+400869463,Wake Forest,kickingPoints,6
+400869463,Wake Forest,interceptionYards,0
+400869463,Wake Forest,interceptionTDs,0
+400869463,Wake Forest,passesIntercepted,1
+400869463,Wake Forest,fumblesRecovered,3
+400869463,Wake Forest,totalFumbles,1
+400869463,Wake Forest,tacklesForLoss,7
+400869463,Wake Forest,defensiveTDs,0
+400869463,Wake Forest,tackles,42
+400869463,Wake Forest,sacks,3
+400869463,Wake Forest,qbHurries,2
+400869463,Wake Forest,passesDeflected,4
+400869463,Wake Forest,firstDowns,13
+400869463,Wake Forest,thirdDownEff,5-16
+400869463,Wake Forest,fourthDownEff,0-2
+400869463,Wake Forest,totalYards,252
+400869463,Wake Forest,netPassingYards,184
+400869463,Wake Forest,completionAttempts,16-34
+400869463,Wake Forest,yardsPerPass,5.4
+400869463,Wake Forest,rushingYards,68
+400869463,Wake Forest,rushingAttempts,32
+400869463,Wake Forest,yardsPerRushAttempt,2.1
+400869463,Wake Forest,totalPenaltiesYards,5-40
+400869463,Wake Forest,turnovers,3
+400869463,Wake Forest,fumblesLost,1
+400869463,Wake Forest,interceptions,2
+400869463,Wake Forest,possessionTime,27:34
 400869462,Clemson,rushingTDs,1
 400869462,Clemson,puntReturnYards,0
 400869462,Clemson,puntReturnTDs,0
@@ -660,6 +1292,35 @@ game_id,team,category,stat
 400869462,Clemson,fumblesLost,3
 400869462,Clemson,interceptions,1
 400869462,Clemson,possessionTime,29:14
+400869462,NC State,rushingTDs,1
+400869462,NC State,passingTDs,0
+400869462,NC State,kickingPoints,5
+400869462,NC State,interceptionYards,28
+400869462,NC State,interceptionTDs,1
+400869462,NC State,passesIntercepted,1
+400869462,NC State,fumblesRecovered,3
+400869462,NC State,totalFumbles,0
+400869462,NC State,tacklesForLoss,4
+400869462,NC State,defensiveTDs,1
+400869462,NC State,tackles,47
+400869462,NC State,sacks,2
+400869462,NC State,qbHurries,2
+400869462,NC State,passesDeflected,3
+400869462,NC State,firstDowns,23
+400869462,NC State,thirdDownEff,7-15
+400869462,NC State,fourthDownEff,0-0
+400869462,NC State,totalYards,397
+400869462,NC State,netPassingYards,269
+400869462,NC State,completionAttempts,21-42
+400869462,NC State,yardsPerPass,6.4
+400869462,NC State,rushingYards,128
+400869462,NC State,rushingAttempts,32
+400869462,NC State,yardsPerRushAttempt,4.0
+400869462,NC State,totalPenaltiesYards,13-120
+400869462,NC State,turnovers,2
+400869462,NC State,fumblesLost,0
+400869462,NC State,interceptions,2
+400869462,NC State,possessionTime,30:46
 400869466,Virginia Tech,rushingTDs,0
 400869466,Virginia Tech,puntReturnYards,13
 400869466,Virginia Tech,puntReturnTDs,0
@@ -695,6 +1356,41 @@ game_id,team,category,stat
 400869466,Virginia Tech,fumblesLost,1
 400869466,Virginia Tech,interceptions,1
 400869466,Virginia Tech,possessionTime,26:35
+400869466,Syracuse,rushingTDs,2
+400869466,Syracuse,puntReturnYards,20
+400869466,Syracuse,puntReturnTDs,0
+400869466,Syracuse,puntReturns,1
+400869466,Syracuse,passingTDs,2
+400869466,Syracuse,kickReturnYards,21
+400869466,Syracuse,kickReturnTDs,0
+400869466,Syracuse,kickReturns,1
+400869466,Syracuse,kickingPoints,7
+400869466,Syracuse,interceptionYards,0
+400869466,Syracuse,interceptionTDs,0
+400869466,Syracuse,passesIntercepted,1
+400869466,Syracuse,fumblesRecovered,1
+400869466,Syracuse,totalFumbles,1
+400869466,Syracuse,tacklesForLoss,5
+400869466,Syracuse,defensiveTDs,0
+400869466,Syracuse,tackles,52
+400869466,Syracuse,sacks,1
+400869466,Syracuse,qbHurries,1
+400869466,Syracuse,passesDeflected,1
+400869466,Syracuse,firstDowns,32
+400869466,Syracuse,thirdDownEff,10-21
+400869466,Syracuse,fourthDownEff,4-5
+400869466,Syracuse,totalYards,561
+400869466,Syracuse,netPassingYards,405
+400869466,Syracuse,completionAttempts,30-55
+400869466,Syracuse,yardsPerPass,7.4
+400869466,Syracuse,rushingYards,156
+400869466,Syracuse,rushingAttempts,45
+400869466,Syracuse,yardsPerRushAttempt,3.5
+400869466,Syracuse,totalPenaltiesYards,8-55
+400869466,Syracuse,turnovers,1
+400869466,Syracuse,fumblesLost,0
+400869466,Syracuse,interceptions,1
+400869466,Syracuse,possessionTime,33:25
 400869723,Miami,rushingTDs,1
 400869723,Miami,passingTDs,0
 400869723,Miami,kickReturnYards,60
@@ -724,6 +1420,35 @@ game_id,team,category,stat
 400869723,Miami,fumblesLost,1
 400869723,Miami,interceptions,0
 400869723,Miami,possessionTime,27:01
+400869723,North Carolina,rushingTDs,0
+400869723,North Carolina,puntReturnYards,0
+400869723,North Carolina,puntReturnTDs,0
+400869723,North Carolina,puntReturns,2
+400869723,North Carolina,passingTDs,2
+400869723,North Carolina,kickingPoints,8
+400869723,North Carolina,fumblesRecovered,1
+400869723,North Carolina,totalFumbles,0
+400869723,North Carolina,tacklesForLoss,3
+400869723,North Carolina,defensiveTDs,0
+400869723,North Carolina,tackles,42
+400869723,North Carolina,sacks,2
+400869723,North Carolina,qbHurries,1
+400869723,North Carolina,passesDeflected,5
+400869723,North Carolina,firstDowns,23
+400869723,North Carolina,thirdDownEff,14-23
+400869723,North Carolina,fourthDownEff,0-1
+400869723,North Carolina,totalYards,461
+400869723,North Carolina,netPassingYards,299
+400869723,North Carolina,completionAttempts,33-46
+400869723,North Carolina,yardsPerPass,6.5
+400869723,North Carolina,rushingYards,162
+400869723,North Carolina,rushingAttempts,43
+400869723,North Carolina,yardsPerRushAttempt,3.8
+400869723,North Carolina,totalPenaltiesYards,11-70
+400869723,North Carolina,turnovers,0
+400869723,North Carolina,fumblesLost,0
+400869723,North Carolina,interceptions,0
+400869723,North Carolina,possessionTime,32:59
 400869464,Georgia Tech,rushingTDs,4
 400869464,Georgia Tech,passingTDs,1
 400869464,Georgia Tech,kickReturnYards,13
@@ -753,6 +1478,34 @@ game_id,team,category,stat
 400869464,Georgia Tech,fumblesLost,0
 400869464,Georgia Tech,interceptions,0
 400869464,Georgia Tech,possessionTime,26:25
+400869464,Georgia Southern,fumblesRecovered,0
+400869464,Georgia Southern,rushingTDs,0
+400869464,Georgia Southern,passingTDs,1
+400869464,Georgia Southern,kickReturnYards,64
+400869464,Georgia Southern,kickReturnTDs,0
+400869464,Georgia Southern,kickReturns,3
+400869464,Georgia Southern,kickingPoints,6
+400869464,Georgia Southern,tacklesForLoss,3
+400869464,Georgia Southern,defensiveTDs,0
+400869464,Georgia Southern,tackles,39
+400869464,Georgia Southern,sacks,0
+400869464,Georgia Southern,qbHurries,0
+400869464,Georgia Southern,passesDeflected,0
+400869464,Georgia Southern,firstDowns,25
+400869464,Georgia Southern,thirdDownEff,13-20
+400869464,Georgia Southern,fourthDownEff,2-3
+400869464,Georgia Southern,totalYards,335
+400869464,Georgia Southern,netPassingYards,168
+400869464,Georgia Southern,completionAttempts,18-33
+400869464,Georgia Southern,yardsPerPass,5.1
+400869464,Georgia Southern,rushingYards,167
+400869464,Georgia Southern,rushingAttempts,50
+400869464,Georgia Southern,yardsPerRushAttempt,3.3
+400869464,Georgia Southern,totalPenaltiesYards,7-66
+400869464,Georgia Southern,turnovers,0
+400869464,Georgia Southern,fumblesLost,0
+400869464,Georgia Southern,interceptions,0
+400869464,Georgia Southern,possessionTime,33:35
 400869465,Virginia,fumblesRecovered,0
 400869465,Virginia,rushingTDs,3
 400869465,Virginia,puntReturnYards,19
@@ -784,6 +1537,41 @@ game_id,team,category,stat
 400869465,Virginia,fumblesLost,0
 400869465,Virginia,interceptions,1
 400869465,Virginia,possessionTime,23:46
+400869465,Pittsburgh,rushingTDs,2
+400869465,Pittsburgh,puntReturnYards,46
+400869465,Pittsburgh,puntReturnTDs,0
+400869465,Pittsburgh,puntReturns,3
+400869465,Pittsburgh,passingTDs,2
+400869465,Pittsburgh,kickReturnYards,210
+400869465,Pittsburgh,kickReturnTDs,1
+400869465,Pittsburgh,kickReturns,5
+400869465,Pittsburgh,kickingPoints,9
+400869465,Pittsburgh,interceptionYards,59
+400869465,Pittsburgh,interceptionTDs,1
+400869465,Pittsburgh,passesIntercepted,1
+400869465,Pittsburgh,fumblesRecovered,0
+400869465,Pittsburgh,totalFumbles,2
+400869465,Pittsburgh,tacklesForLoss,4
+400869465,Pittsburgh,defensiveTDs,2
+400869465,Pittsburgh,tackles,26
+400869465,Pittsburgh,sacks,4
+400869465,Pittsburgh,qbHurries,0
+400869465,Pittsburgh,passesDeflected,4
+400869465,Pittsburgh,firstDowns,19
+400869465,Pittsburgh,thirdDownEff,8-17
+400869465,Pittsburgh,fourthDownEff,1-1
+400869465,Pittsburgh,totalYards,346
+400869465,Pittsburgh,netPassingYards,137
+400869465,Pittsburgh,completionAttempts,11-21
+400869465,Pittsburgh,yardsPerPass,6.5
+400869465,Pittsburgh,rushingYards,209
+400869465,Pittsburgh,rushingAttempts,49
+400869465,Pittsburgh,yardsPerRushAttempt,4.3
+400869465,Pittsburgh,totalPenaltiesYards,8-69
+400869465,Pittsburgh,turnovers,0
+400869465,Pittsburgh,fumblesLost,0
+400869465,Pittsburgh,interceptions,0
+400869465,Pittsburgh,possessionTime,36:14
 400869461,Duke,rushingTDs,0
 400869461,Duke,puntReturnYards,9
 400869461,Duke,puntReturnTDs,0
@@ -816,6 +1604,38 @@ game_id,team,category,stat
 400869461,Duke,fumblesLost,0
 400869461,Duke,interceptions,0
 400869461,Duke,possessionTime,37:12
+400869461,Louisville,rushingTDs,2
+400869461,Louisville,puntReturnYards,19
+400869461,Louisville,puntReturnTDs,0
+400869461,Louisville,puntReturns,3
+400869461,Louisville,passingTDs,1
+400869461,Louisville,kickReturnYards,50
+400869461,Louisville,kickReturnTDs,0
+400869461,Louisville,kickReturns,3
+400869461,Louisville,kickingPoints,6
+400869461,Louisville,fumblesRecovered,0
+400869461,Louisville,totalFumbles,1
+400869461,Louisville,tacklesForLoss,5
+400869461,Louisville,defensiveTDs,0
+400869461,Louisville,tackles,34
+400869461,Louisville,sacks,1
+400869461,Louisville,qbHurries,5
+400869461,Louisville,passesDeflected,2
+400869461,Louisville,firstDowns,21
+400869461,Louisville,thirdDownEff,5-11
+400869461,Louisville,fourthDownEff,0-0
+400869461,Louisville,totalYards,469
+400869461,Louisville,netPassingYards,181
+400869461,Louisville,completionAttempts,13-26
+400869461,Louisville,yardsPerPass,7.0
+400869461,Louisville,rushingYards,288
+400869461,Louisville,rushingAttempts,35
+400869461,Louisville,yardsPerRushAttempt,8.2
+400869461,Louisville,totalPenaltiesYards,4-32
+400869461,Louisville,turnovers,1
+400869461,Louisville,fumblesLost,1
+400869461,Louisville,interceptions,0
+400869461,Louisville,possessionTime,22:48
 400869383,Marshall,rushingTDs,2
 400869383,Marshall,puntReturnYards,22
 400869383,Marshall,puntReturnTDs,0
@@ -851,6 +1671,41 @@ game_id,team,category,stat
 400869383,Marshall,fumblesLost,0
 400869383,Marshall,interceptions,1
 400869383,Marshall,possessionTime,35:49
+400869383,Florida Atlantic,rushingTDs,3
+400869383,Florida Atlantic,puntReturnYards,12
+400869383,Florida Atlantic,puntReturnTDs,0
+400869383,Florida Atlantic,puntReturns,1
+400869383,Florida Atlantic,passingTDs,0
+400869383,Florida Atlantic,kickReturnYards,11
+400869383,Florida Atlantic,kickReturnTDs,0
+400869383,Florida Atlantic,kickReturns,1
+400869383,Florida Atlantic,kickingPoints,3
+400869383,Florida Atlantic,interceptionYards,0
+400869383,Florida Atlantic,interceptionTDs,0
+400869383,Florida Atlantic,passesIntercepted,1
+400869383,Florida Atlantic,fumblesRecovered,0
+400869383,Florida Atlantic,totalFumbles,1
+400869383,Florida Atlantic,tacklesForLoss,9
+400869383,Florida Atlantic,defensiveTDs,0
+400869383,Florida Atlantic,tackles,24
+400869383,Florida Atlantic,sacks,2
+400869383,Florida Atlantic,qbHurries,7
+400869383,Florida Atlantic,passesDeflected,1
+400869383,Florida Atlantic,firstDowns,24
+400869383,Florida Atlantic,thirdDownEff,4-10
+400869383,Florida Atlantic,fourthDownEff,0-2
+400869383,Florida Atlantic,totalYards,456
+400869383,Florida Atlantic,netPassingYards,175
+400869383,Florida Atlantic,completionAttempts,11-20
+400869383,Florida Atlantic,yardsPerPass,8.8
+400869383,Florida Atlantic,rushingYards,281
+400869383,Florida Atlantic,rushingAttempts,45
+400869383,Florida Atlantic,yardsPerRushAttempt,6.2
+400869383,Florida Atlantic,totalPenaltiesYards,5-65
+400869383,Florida Atlantic,turnovers,2
+400869383,Florida Atlantic,fumblesLost,1
+400869383,Florida Atlantic,interceptions,1
+400869383,Florida Atlantic,possessionTime,24:11
 400869385,Rice,rushingTDs,1
 400869385,Rice,puntReturnYards,21
 400869385,Rice,puntReturnTDs,0
@@ -883,6 +1738,38 @@ game_id,team,category,stat
 400869385,Rice,fumblesLost,1
 400869385,Rice,interceptions,0
 400869385,Rice,possessionTime,29:05
+400869385,UT San Antonio,rushingTDs,0
+400869385,UT San Antonio,puntReturnYards,0
+400869385,UT San Antonio,puntReturnTDs,0
+400869385,UT San Antonio,puntReturns,4
+400869385,UT San Antonio,passingTDs,2
+400869385,UT San Antonio,kickReturnYards,21
+400869385,UT San Antonio,kickReturnTDs,0
+400869385,UT San Antonio,kickReturns,1
+400869385,UT San Antonio,kickingPoints,2
+400869385,UT San Antonio,fumblesRecovered,1
+400869385,UT San Antonio,totalFumbles,1
+400869385,UT San Antonio,tacklesForLoss,6
+400869385,UT San Antonio,defensiveTDs,0
+400869385,UT San Antonio,tackles,31
+400869385,UT San Antonio,sacks,1
+400869385,UT San Antonio,qbHurries,5
+400869385,UT San Antonio,passesDeflected,4
+400869385,UT San Antonio,firstDowns,16
+400869385,UT San Antonio,thirdDownEff,7-15
+400869385,UT San Antonio,fourthDownEff,0-1
+400869385,UT San Antonio,totalYards,334
+400869385,UT San Antonio,netPassingYards,209
+400869385,UT San Antonio,completionAttempts,17-25
+400869385,UT San Antonio,yardsPerPass,8.4
+400869385,UT San Antonio,rushingYards,125
+400869385,UT San Antonio,rushingAttempts,38
+400869385,UT San Antonio,yardsPerRushAttempt,3.3
+400869385,UT San Antonio,totalPenaltiesYards,8-60
+400869385,UT San Antonio,turnovers,1
+400869385,UT San Antonio,fumblesLost,1
+400869385,UT San Antonio,interceptions,0
+400869385,UT San Antonio,possessionTime,30:55
 400868915,Army,rushingTDs,6
 400868915,Army,puntReturnYards,18
 400868915,Army,puntReturnTDs,0
@@ -918,6 +1805,35 @@ game_id,team,category,stat
 400868915,Army,fumblesLost,1
 400868915,Army,interceptions,0
 400868915,Army,possessionTime,32:39
+400868915,Lafayette,rushingTDs,1
+400868915,Lafayette,passingTDs,0
+400868915,Lafayette,kickReturnYards,129
+400868915,Lafayette,kickReturnTDs,0
+400868915,Lafayette,kickReturns,8
+400868915,Lafayette,kickingPoints,1
+400868915,Lafayette,fumblesRecovered,1
+400868915,Lafayette,totalFumbles,0
+400868915,Lafayette,tacklesForLoss,2
+400868915,Lafayette,defensiveTDs,0
+400868915,Lafayette,tackles,35
+400868915,Lafayette,sacks,0
+400868915,Lafayette,qbHurries,0
+400868915,Lafayette,passesDeflected,1
+400868915,Lafayette,firstDowns,10
+400868915,Lafayette,thirdDownEff,5-13
+400868915,Lafayette,fourthDownEff,0-2
+400868915,Lafayette,totalYards,223
+400868915,Lafayette,netPassingYards,213
+400868915,Lafayette,completionAttempts,23-38
+400868915,Lafayette,yardsPerPass,5.6
+400868915,Lafayette,rushingYards,10
+400868915,Lafayette,rushingAttempts,17
+400868915,Lafayette,yardsPerRushAttempt,0.6
+400868915,Lafayette,totalPenaltiesYards,5-45
+400868915,Lafayette,turnovers,2
+400868915,Lafayette,fumblesLost,0
+400868915,Lafayette,interceptions,2
+400868915,Lafayette,possessionTime,27:21
 400869608,Kansas State,fumblesRecovered,0
 400869608,Kansas State,rushingTDs,1
 400869608,Kansas State,puntReturnYards,0
@@ -952,6 +1868,38 @@ game_id,team,category,stat
 400869608,Kansas State,fumblesLost,0
 400869608,Kansas State,interceptions,0
 400869608,Kansas State,possessionTime,30:58
+400869608,Oklahoma,rushingTDs,0
+400869608,Oklahoma,puntReturnYards,3
+400869608,Oklahoma,puntReturnTDs,0
+400869608,Oklahoma,puntReturns,2
+400869608,Oklahoma,passingTDs,5
+400869608,Oklahoma,kickReturnYards,55
+400869608,Oklahoma,kickReturnTDs,0
+400869608,Oklahoma,kickReturns,2
+400869608,Oklahoma,kickingPoints,8
+400869608,Oklahoma,fumblesRecovered,0
+400869608,Oklahoma,totalFumbles,1
+400869608,Oklahoma,tacklesForLoss,3
+400869608,Oklahoma,defensiveTDs,0
+400869608,Oklahoma,tackles,39
+400869608,Oklahoma,sacks,2
+400869608,Oklahoma,qbHurries,3
+400869608,Oklahoma,passesDeflected,7
+400869608,Oklahoma,firstDowns,24
+400869608,Oklahoma,thirdDownEff,7-13
+400869608,Oklahoma,fourthDownEff,1-1
+400869608,Oklahoma,totalYards,510
+400869608,Oklahoma,netPassingYards,372
+400869608,Oklahoma,completionAttempts,26-32
+400869608,Oklahoma,yardsPerPass,11.6
+400869608,Oklahoma,rushingYards,138
+400869608,Oklahoma,rushingAttempts,33
+400869608,Oklahoma,yardsPerRushAttempt,4.2
+400869608,Oklahoma,totalPenaltiesYards,3-35
+400869608,Oklahoma,turnovers,1
+400869608,Oklahoma,fumblesLost,0
+400869608,Oklahoma,interceptions,1
+400869608,Oklahoma,possessionTime,29:02
 400868880,Baylor,rushingTDs,4
 400868880,Baylor,puntReturnYards,45
 400868880,Baylor,puntReturnTDs,0
@@ -984,6 +1932,35 @@ game_id,team,category,stat
 400868880,Baylor,fumblesLost,1
 400868880,Baylor,interceptions,0
 400868880,Baylor,possessionTime,26:53
+400868880,Kansas,rushingTDs,1
+400868880,Kansas,passingTDs,0
+400868880,Kansas,kickReturnYards,52
+400868880,Kansas,kickReturnTDs,0
+400868880,Kansas,kickReturns,6
+400868880,Kansas,kickingPoints,1
+400868880,Kansas,fumblesRecovered,1
+400868880,Kansas,totalFumbles,2
+400868880,Kansas,tacklesForLoss,3
+400868880,Kansas,defensiveTDs,0
+400868880,Kansas,tackles,49
+400868880,Kansas,sacks,1
+400868880,Kansas,qbHurries,3
+400868880,Kansas,passesDeflected,3
+400868880,Kansas,firstDowns,15
+400868880,Kansas,thirdDownEff,3-15
+400868880,Kansas,fourthDownEff,1-2
+400868880,Kansas,totalYards,217
+400868880,Kansas,netPassingYards,134
+400868880,Kansas,completionAttempts,13-27
+400868880,Kansas,yardsPerPass,5.0
+400868880,Kansas,rushingYards,83
+400868880,Kansas,rushingAttempts,48
+400868880,Kansas,yardsPerRushAttempt,1.7
+400868880,Kansas,totalPenaltiesYards,4-35
+400868880,Kansas,turnovers,5
+400868880,Kansas,fumblesLost,1
+400868880,Kansas,interceptions,4
+400868880,Kansas,possessionTime,33:07
 400869591,Texas,rushingTDs,1
 400869591,Texas,puntReturnYards,42
 400869591,Texas,puntReturnTDs,0
@@ -1016,6 +1993,41 @@ game_id,team,category,stat
 400869591,Texas,fumblesLost,1
 400869591,Texas,interceptions,1
 400869591,Texas,possessionTime,28:44
+400869591,Iowa State,rushingTDs,0
+400869591,Iowa State,puntReturnYards,-1
+400869591,Iowa State,puntReturnTDs,0
+400869591,Iowa State,puntReturns,2
+400869591,Iowa State,passingTDs,0
+400869591,Iowa State,kickReturnYards,109
+400869591,Iowa State,kickReturnTDs,0
+400869591,Iowa State,kickReturns,4
+400869591,Iowa State,kickingPoints,6
+400869591,Iowa State,interceptionYards,0
+400869591,Iowa State,interceptionTDs,0
+400869591,Iowa State,passesIntercepted,1
+400869591,Iowa State,fumblesRecovered,1
+400869591,Iowa State,totalFumbles,1
+400869591,Iowa State,tacklesForLoss,3
+400869591,Iowa State,defensiveTDs,0
+400869591,Iowa State,tackles,63
+400869591,Iowa State,sacks,0
+400869591,Iowa State,qbHurries,1
+400869591,Iowa State,passesDeflected,4
+400869591,Iowa State,firstDowns,19
+400869591,Iowa State,thirdDownEff,6-19
+400869591,Iowa State,fourthDownEff,1-3
+400869591,Iowa State,totalYards,280
+400869591,Iowa State,netPassingYards,182
+400869591,Iowa State,completionAttempts,19-34
+400869591,Iowa State,yardsPerPass,5.4
+400869591,Iowa State,rushingYards,98
+400869591,Iowa State,rushingAttempts,43
+400869591,Iowa State,yardsPerRushAttempt,2.3
+400869591,Iowa State,totalPenaltiesYards,6-64
+400869591,Iowa State,turnovers,1
+400869591,Iowa State,fumblesLost,1
+400869591,Iowa State,interceptions,0
+400869591,Iowa State,possessionTime,31:16
 400869627,Texas Tech,rushingTDs,0
 400869627,Texas Tech,puntReturnYards,19
 400869627,Texas Tech,puntReturnTDs,0
@@ -1048,6 +2060,40 @@ game_id,team,category,stat
 400869627,Texas Tech,fumblesLost,0
 400869627,Texas Tech,interceptions,1
 400869627,Texas Tech,possessionTime,30:22
+400869627,West Virginia,fumblesRecovered,0
+400869627,West Virginia,rushingTDs,5
+400869627,West Virginia,puntReturnYards,4
+400869627,West Virginia,puntReturnTDs,0
+400869627,West Virginia,puntReturns,2
+400869627,West Virginia,passingTDs,1
+400869627,West Virginia,kickReturnYards,25
+400869627,West Virginia,kickReturnTDs,0
+400869627,West Virginia,kickReturns,1
+400869627,West Virginia,kickingPoints,12
+400869627,West Virginia,interceptionYards,0
+400869627,West Virginia,interceptionTDs,0
+400869627,West Virginia,passesIntercepted,1
+400869627,West Virginia,tacklesForLoss,9
+400869627,West Virginia,defensiveTDs,0
+400869627,West Virginia,tackles,49
+400869627,West Virginia,sacks,4
+400869627,West Virginia,qbHurries,2
+400869627,West Virginia,passesDeflected,3
+400869627,West Virginia,firstDowns,28
+400869627,West Virginia,thirdDownEff,7-13
+400869627,West Virginia,fourthDownEff,1-1
+400869627,West Virginia,totalYards,650
+400869627,West Virginia,netPassingYards,318
+400869627,West Virginia,completionAttempts,21-31
+400869627,West Virginia,yardsPerPass,10.3
+400869627,West Virginia,rushingYards,332
+400869627,West Virginia,rushingAttempts,46
+400869627,West Virginia,yardsPerRushAttempt,7.2
+400869627,West Virginia,totalPenaltiesYards,9-95
+400869627,West Virginia,turnovers,0
+400869627,West Virginia,fumblesLost,0
+400869627,West Virginia,interceptions,0
+400869627,West Virginia,possessionTime,29:38
 400869139,Oregon State,rushingTDs,1
 400869139,Oregon State,puntReturnYards,2
 400869139,Oregon State,puntReturnTDs,0
@@ -1080,6 +2126,41 @@ game_id,team,category,stat
 400869139,Oregon State,fumblesLost,1
 400869139,Oregon State,interceptions,1
 400869139,Oregon State,possessionTime,30:38
+400869139,Utah,rushingTDs,3
+400869139,Utah,puntReturnYards,7
+400869139,Utah,puntReturnTDs,0
+400869139,Utah,puntReturns,3
+400869139,Utah,passingTDs,0
+400869139,Utah,kickReturnYards,27
+400869139,Utah,kickReturnTDs,0
+400869139,Utah,kickReturns,1
+400869139,Utah,kickingPoints,5
+400869139,Utah,interceptionYards,24
+400869139,Utah,interceptionTDs,0
+400869139,Utah,passesIntercepted,1
+400869139,Utah,fumblesRecovered,1
+400869139,Utah,totalFumbles,3
+400869139,Utah,tacklesForLoss,4
+400869139,Utah,defensiveTDs,0
+400869139,Utah,tackles,33
+400869139,Utah,sacks,2
+400869139,Utah,qbHurries,0
+400869139,Utah,passesDeflected,1
+400869139,Utah,firstDowns,17
+400869139,Utah,thirdDownEff,6-16
+400869139,Utah,fourthDownEff,1-4
+400869139,Utah,totalYards,317
+400869139,Utah,netPassingYards,42
+400869139,Utah,completionAttempts,4-13
+400869139,Utah,yardsPerPass,3.2
+400869139,Utah,rushingYards,275
+400869139,Utah,rushingAttempts,60
+400869139,Utah,yardsPerRushAttempt,4.6
+400869139,Utah,totalPenaltiesYards,5-40
+400869139,Utah,turnovers,2
+400869139,Utah,fumblesLost,2
+400869139,Utah,interceptions,0
+400869139,Utah,possessionTime,29:22
 400869138,Washington State,rushingTDs,3
 400869138,Washington State,passingTDs,0
 400869138,Washington State,kickReturnYards,70
@@ -1112,6 +2193,41 @@ game_id,team,category,stat
 400869138,Washington State,fumblesLost,1
 400869138,Washington State,interceptions,1
 400869138,Washington State,possessionTime,33:52
+400869138,UCLA,rushingTDs,0
+400869138,UCLA,puntReturnYards,0
+400869138,UCLA,puntReturnTDs,0
+400869138,UCLA,puntReturns,1
+400869138,UCLA,passingTDs,3
+400869138,UCLA,kickReturnYards,60
+400869138,UCLA,kickReturnTDs,0
+400869138,UCLA,kickReturns,4
+400869138,UCLA,kickingPoints,3
+400869138,UCLA,interceptionYards,0
+400869138,UCLA,interceptionTDs,0
+400869138,UCLA,passesIntercepted,1
+400869138,UCLA,fumblesRecovered,1
+400869138,UCLA,totalFumbles,5
+400869138,UCLA,tacklesForLoss,7
+400869138,UCLA,defensiveTDs,0
+400869138,UCLA,tackles,39
+400869138,UCLA,sacks,3
+400869138,UCLA,qbHurries,0
+400869138,UCLA,passesDeflected,2
+400869138,UCLA,firstDowns,18
+400869138,UCLA,thirdDownEff,6-13
+400869138,UCLA,fourthDownEff,1-1
+400869138,UCLA,totalYards,301
+400869138,UCLA,netPassingYards,258
+400869138,UCLA,completionAttempts,24-40
+400869138,UCLA,yardsPerPass,6.4
+400869138,UCLA,rushingYards,43
+400869138,UCLA,rushingAttempts,25
+400869138,UCLA,yardsPerRushAttempt,1.7
+400869138,UCLA,totalPenaltiesYards,7-69
+400869138,UCLA,turnovers,4
+400869138,UCLA,fumblesLost,2
+400869138,UCLA,interceptions,2
+400869138,UCLA,possessionTime,26:08
 400869136,USC,rushingTDs,2
 400869136,USC,puntReturnYards,9
 400869136,USC,puntReturnTDs,0
@@ -1147,6 +2263,32 @@ game_id,team,category,stat
 400869136,USC,fumblesLost,0
 400869136,USC,interceptions,0
 400869136,USC,possessionTime,35:24
+400869136,Arizona,rushingTDs,1
+400869136,Arizona,passingTDs,1
+400869136,Arizona,kickingPoints,2
+400869136,Arizona,fumblesRecovered,0
+400869136,Arizona,totalFumbles,3
+400869136,Arizona,tacklesForLoss,3
+400869136,Arizona,defensiveTDs,0
+400869136,Arizona,tackles,53
+400869136,Arizona,sacks,0
+400869136,Arizona,qbHurries,0
+400869136,Arizona,passesDeflected,4
+400869136,Arizona,firstDowns,19
+400869136,Arizona,thirdDownEff,6-14
+400869136,Arizona,fourthDownEff,0-2
+400869136,Arizona,totalYards,343
+400869136,Arizona,netPassingYards,142
+400869136,Arizona,completionAttempts,11-26
+400869136,Arizona,yardsPerPass,5.5
+400869136,Arizona,rushingYards,201
+400869136,Arizona,rushingAttempts,44
+400869136,Arizona,yardsPerRushAttempt,4.6
+400869136,Arizona,totalPenaltiesYards,4-35
+400869136,Arizona,turnovers,4
+400869136,Arizona,fumblesLost,2
+400869136,Arizona,interceptions,2
+400869136,Arizona,possessionTime,24:36
 400869137,Arizona State,rushingTDs,0
 400869137,Arizona State,puntReturnYards,35
 400869137,Arizona State,puntReturnTDs,0
@@ -1179,6 +2321,38 @@ game_id,team,category,stat
 400869137,Arizona State,fumblesLost,0
 400869137,Arizona State,interceptions,1
 400869137,Arizona State,possessionTime,26:24
+400869137,Colorado,rushingTDs,5
+400869137,Colorado,puntReturnYards,16
+400869137,Colorado,puntReturnTDs,0
+400869137,Colorado,puntReturns,6
+400869137,Colorado,passingTDs,0
+400869137,Colorado,kickingPoints,10
+400869137,Colorado,interceptionYards,0
+400869137,Colorado,interceptionTDs,0
+400869137,Colorado,passesIntercepted,1
+400869137,Colorado,fumblesRecovered,0
+400869137,Colorado,totalFumbles,2
+400869137,Colorado,tacklesForLoss,8
+400869137,Colorado,defensiveTDs,0
+400869137,Colorado,tackles,46
+400869137,Colorado,sacks,5
+400869137,Colorado,qbHurries,6
+400869137,Colorado,passesDeflected,5
+400869137,Colorado,firstDowns,27
+400869137,Colorado,thirdDownEff,8-17
+400869137,Colorado,fourthDownEff,0-0
+400869137,Colorado,totalYards,580
+400869137,Colorado,netPassingYards,265
+400869137,Colorado,completionAttempts,23-32
+400869137,Colorado,yardsPerPass,8.3
+400869137,Colorado,rushingYards,315
+400869137,Colorado,rushingAttempts,52
+400869137,Colorado,yardsPerRushAttempt,6.1
+400869137,Colorado,totalPenaltiesYards,3-20
+400869137,Colorado,turnovers,2
+400869137,Colorado,fumblesLost,2
+400869137,Colorado,interceptions,0
+400869137,Colorado,possessionTime,33:36
 400869384,Middle Tennessee,fumblesRecovered,0
 400869384,Middle Tennessee,rushingTDs,2
 400869384,Middle Tennessee,passingTDs,3
@@ -1210,6 +2384,38 @@ game_id,team,category,stat
 400869384,Middle Tennessee,fumblesLost,0
 400869384,Middle Tennessee,interceptions,1
 400869384,Middle Tennessee,possessionTime,30:49
+400869384,Western Kentucky,rushingTDs,3
+400869384,Western Kentucky,passingTDs,2
+400869384,Western Kentucky,kickReturnYards,59
+400869384,Western Kentucky,kickReturnTDs,0
+400869384,Western Kentucky,kickReturns,4
+400869384,Western Kentucky,kickingPoints,14
+400869384,Western Kentucky,interceptionYards,52
+400869384,Western Kentucky,interceptionTDs,0
+400869384,Western Kentucky,passesIntercepted,1
+400869384,Western Kentucky,fumblesRecovered,0
+400869384,Western Kentucky,totalFumbles,2
+400869384,Western Kentucky,tacklesForLoss,4
+400869384,Western Kentucky,defensiveTDs,0
+400869384,Western Kentucky,tackles,60
+400869384,Western Kentucky,sacks,0
+400869384,Western Kentucky,qbHurries,3
+400869384,Western Kentucky,passesDeflected,1
+400869384,Western Kentucky,firstDowns,28
+400869384,Western Kentucky,thirdDownEff,6-13
+400869384,Western Kentucky,fourthDownEff,1-2
+400869384,Western Kentucky,totalYards,521
+400869384,Western Kentucky,netPassingYards,391
+400869384,Western Kentucky,completionAttempts,29-40
+400869384,Western Kentucky,yardsPerPass,9.8
+400869384,Western Kentucky,rushingYards,130
+400869384,Western Kentucky,rushingAttempts,37
+400869384,Western Kentucky,yardsPerRushAttempt,3.5
+400869384,Western Kentucky,totalPenaltiesYards,7-64
+400869384,Western Kentucky,turnovers,1
+400869384,Western Kentucky,fumblesLost,0
+400869384,Western Kentucky,interceptions,1
+400869384,Western Kentucky,possessionTime,29:11
 400869382,Florida International,rushingTDs,1
 400869382,Florida International,puntReturnYards,8
 400869382,Florida International,puntReturnTDs,0
@@ -1245,6 +2451,41 @@ game_id,team,category,stat
 400869382,Florida International,fumblesLost,1
 400869382,Florida International,interceptions,2
 400869382,Florida International,possessionTime,26:18
+400869382,Charlotte,rushingTDs,2
+400869382,Charlotte,puntReturnYards,5
+400869382,Charlotte,puntReturnTDs,0
+400869382,Charlotte,puntReturns,1
+400869382,Charlotte,passingTDs,1
+400869382,Charlotte,kickReturnYards,125
+400869382,Charlotte,kickReturnTDs,0
+400869382,Charlotte,kickReturns,6
+400869382,Charlotte,kickingPoints,8
+400869382,Charlotte,interceptionYards,0
+400869382,Charlotte,interceptionTDs,0
+400869382,Charlotte,passesIntercepted,2
+400869382,Charlotte,fumblesRecovered,0
+400869382,Charlotte,totalFumbles,2
+400869382,Charlotte,tacklesForLoss,6
+400869382,Charlotte,defensiveTDs,0
+400869382,Charlotte,tackles,34
+400869382,Charlotte,sacks,2
+400869382,Charlotte,qbHurries,8
+400869382,Charlotte,passesDeflected,6
+400869382,Charlotte,firstDowns,24
+400869382,Charlotte,thirdDownEff,7-16
+400869382,Charlotte,fourthDownEff,1-1
+400869382,Charlotte,totalYards,403
+400869382,Charlotte,netPassingYards,171
+400869382,Charlotte,completionAttempts,21-31
+400869382,Charlotte,yardsPerPass,5.5
+400869382,Charlotte,rushingYards,232
+400869382,Charlotte,rushingAttempts,47
+400869382,Charlotte,yardsPerRushAttempt,4.9
+400869382,Charlotte,totalPenaltiesYards,8-71
+400869382,Charlotte,turnovers,3
+400869382,Charlotte,fumblesLost,2
+400869382,Charlotte,interceptions,1
+400869382,Charlotte,possessionTime,33:42
 400868963,Louisiana Tech,rushingTDs,2
 400868963,Louisiana Tech,puntReturnYards,22
 400868963,Louisiana Tech,puntReturnTDs,0
@@ -1280,6 +2521,41 @@ game_id,team,category,stat
 400868963,Louisiana Tech,fumblesLost,3
 400868963,Louisiana Tech,interceptions,1
 400868963,Louisiana Tech,possessionTime,28:44
+400868963,UMass,rushingTDs,1
+400868963,UMass,puntReturnYards,41
+400868963,UMass,puntReturnTDs,0
+400868963,UMass,puntReturns,1
+400868963,UMass,passingTDs,3
+400868963,UMass,kickReturnYards,179
+400868963,UMass,kickReturnTDs,0
+400868963,UMass,kickReturns,8
+400868963,UMass,kickingPoints,4
+400868963,UMass,interceptionYards,21
+400868963,UMass,interceptionTDs,0
+400868963,UMass,passesIntercepted,1
+400868963,UMass,fumblesRecovered,3
+400868963,UMass,totalFumbles,1
+400868963,UMass,tacklesForLoss,6
+400868963,UMass,defensiveTDs,0
+400868963,UMass,tackles,28
+400868963,UMass,sacks,3
+400868963,UMass,qbHurries,0
+400868963,UMass,passesDeflected,3
+400868963,UMass,firstDowns,25
+400868963,UMass,thirdDownEff,4-12
+400868963,UMass,fourthDownEff,0-0
+400868963,UMass,totalYards,399
+400868963,UMass,netPassingYards,268
+400868963,UMass,completionAttempts,29-40
+400868963,UMass,yardsPerPass,6.7
+400868963,UMass,rushingYards,131
+400868963,UMass,rushingAttempts,33
+400868963,UMass,yardsPerRushAttempt,4.0
+400868963,UMass,totalPenaltiesYards,7-73
+400868963,UMass,turnovers,2
+400868963,UMass,fumblesLost,1
+400868963,UMass,interceptions,1
+400868963,UMass,possessionTime,31:16
 400869220,Boise State,fumblesRecovered,0
 400869220,Boise State,rushingTDs,2
 400869220,Boise State,puntReturnYards,11
@@ -1308,6 +2584,37 @@ game_id,team,category,stat
 400869220,Boise State,fumblesLost,0
 400869220,Boise State,interceptions,0
 400869220,Boise State,possessionTime,32:14
+400869220,Colorado State,fumblesRecovered,0
+400869220,Colorado State,rushingTDs,1
+400869220,Colorado State,puntReturnYards,7
+400869220,Colorado State,puntReturnTDs,0
+400869220,Colorado State,puntReturns,1
+400869220,Colorado State,passingTDs,2
+400869220,Colorado State,kickReturnYards,67
+400869220,Colorado State,kickReturnTDs,0
+400869220,Colorado State,kickReturns,3
+400869220,Colorado State,kickingPoints,5
+400869220,Colorado State,tacklesForLoss,6
+400869220,Colorado State,defensiveTDs,0
+400869220,Colorado State,tackles,48
+400869220,Colorado State,sacks,2
+400869220,Colorado State,qbHurries,0
+400869220,Colorado State,passesDeflected,1
+400869220,Colorado State,firstDowns,19
+400869220,Colorado State,thirdDownEff,3-14
+400869220,Colorado State,fourthDownEff,3-3
+400869220,Colorado State,totalYards,373
+400869220,Colorado State,netPassingYards,189
+400869220,Colorado State,completionAttempts,17-31
+400869220,Colorado State,yardsPerPass,6.1
+400869220,Colorado State,rushingYards,184
+400869220,Colorado State,rushingAttempts,36
+400869220,Colorado State,yardsPerRushAttempt,5.1
+400869220,Colorado State,totalPenaltiesYards,6-30
+400869220,Colorado State,turnovers,0
+400869220,Colorado State,fumblesLost,0
+400869220,Colorado State,interceptions,0
+400869220,Colorado State,possessionTime,27:46
 400869219,New Mexico,rushingTDs,4
 400869219,New Mexico,puntReturnYards,4
 400869219,New Mexico,puntReturnTDs,0
@@ -1340,6 +2647,38 @@ game_id,team,category,stat
 400869219,New Mexico,fumblesLost,0
 400869219,New Mexico,interceptions,0
 400869219,New Mexico,possessionTime,31:25
+400869219,Air Force,rushingTDs,3
+400869219,Air Force,puntReturnYards,7
+400869219,Air Force,puntReturnTDs,0
+400869219,Air Force,puntReturns,1
+400869219,Air Force,passingTDs,2
+400869219,Air Force,kickReturnYards,22
+400869219,Air Force,kickReturnTDs,0
+400869219,Air Force,kickReturns,1
+400869219,Air Force,kickingPoints,10
+400869219,Air Force,fumblesRecovered,0
+400869219,Air Force,totalFumbles,2
+400869219,Air Force,tacklesForLoss,4
+400869219,Air Force,defensiveTDs,0
+400869219,Air Force,tackles,44
+400869219,Air Force,sacks,0
+400869219,Air Force,qbHurries,1
+400869219,Air Force,passesDeflected,2
+400869219,Air Force,firstDowns,24
+400869219,Air Force,thirdDownEff,3-11
+400869219,Air Force,fourthDownEff,1-3
+400869219,Air Force,totalYards,531
+400869219,Air Force,netPassingYards,280
+400869219,Air Force,completionAttempts,12-24
+400869219,Air Force,yardsPerPass,11.7
+400869219,Air Force,rushingYards,251
+400869219,Air Force,rushingAttempts,49
+400869219,Air Force,yardsPerRushAttempt,5.1
+400869219,Air Force,totalPenaltiesYards,4-41
+400869219,Air Force,turnovers,0
+400869219,Air Force,fumblesLost,0
+400869219,Air Force,interceptions,0
+400869219,Air Force,possessionTime,28:35
 400869221,Fresno State,fumblesRecovered,0
 400869221,Fresno State,rushingTDs,0
 400869221,Fresno State,passingTDs,0
@@ -1368,6 +2707,41 @@ game_id,team,category,stat
 400869221,Fresno State,fumblesLost,0
 400869221,Fresno State,interceptions,3
 400869221,Fresno State,possessionTime,22:41
+400869221,San Diego State,rushingTDs,2
+400869221,San Diego State,puntReturnYards,0
+400869221,San Diego State,puntReturnTDs,0
+400869221,San Diego State,puntReturns,1
+400869221,San Diego State,passingTDs,0
+400869221,San Diego State,kickReturnYards,41
+400869221,San Diego State,kickReturnTDs,0
+400869221,San Diego State,kickReturns,2
+400869221,San Diego State,kickingPoints,5
+400869221,San Diego State,interceptionYards,20
+400869221,San Diego State,interceptionTDs,0
+400869221,San Diego State,passesIntercepted,3
+400869221,San Diego State,fumblesRecovered,0
+400869221,San Diego State,totalFumbles,1
+400869221,San Diego State,tacklesForLoss,4
+400869221,San Diego State,defensiveTDs,0
+400869221,San Diego State,tackles,21
+400869221,San Diego State,sacks,2
+400869221,San Diego State,qbHurries,0
+400869221,San Diego State,passesDeflected,3
+400869221,San Diego State,firstDowns,25
+400869221,San Diego State,thirdDownEff,7-13
+400869221,San Diego State,fourthDownEff,0-1
+400869221,San Diego State,totalYards,364
+400869221,San Diego State,netPassingYards,72
+400869221,San Diego State,completionAttempts,7-12
+400869221,San Diego State,yardsPerPass,6.0
+400869221,San Diego State,rushingYards,292
+400869221,San Diego State,rushingAttempts,61
+400869221,San Diego State,yardsPerRushAttempt,4.8
+400869221,San Diego State,totalPenaltiesYards,6-65
+400869221,San Diego State,turnovers,0
+400869221,San Diego State,fumblesLost,0
+400869221,San Diego State,interceptions,0
+400869221,San Diego State,possessionTime,37:19
 400869222,UNLV,rushingTDs,3
 400869222,UNLV,puntReturnYards,3
 400869222,UNLV,puntReturnTDs,0
@@ -1400,6 +2774,35 @@ game_id,team,category,stat
 400869222,UNLV,fumblesLost,0
 400869222,UNLV,interceptions,0
 400869222,UNLV,possessionTime,32:01
+400869222,Hawai'i,rushingTDs,3
+400869222,Hawai'i,passingTDs,2
+400869222,Hawai'i,kickReturnYards,160
+400869222,Hawai'i,kickReturnTDs,0
+400869222,Hawai'i,kickReturns,5
+400869222,Hawai'i,kickingPoints,8
+400869222,Hawai'i,fumblesRecovered,0
+400869222,Hawai'i,totalFumbles,2
+400869222,Hawai'i,tacklesForLoss,5
+400869222,Hawai'i,defensiveTDs,0
+400869222,Hawai'i,tackles,50
+400869222,Hawai'i,sacks,0
+400869222,Hawai'i,qbHurries,1
+400869222,Hawai'i,passesDeflected,3
+400869222,Hawai'i,firstDowns,20
+400869222,Hawai'i,thirdDownEff,8-15
+400869222,Hawai'i,fourthDownEff,0-1
+400869222,Hawai'i,totalYards,446
+400869222,Hawai'i,netPassingYards,217
+400869222,Hawai'i,completionAttempts,17-32
+400869222,Hawai'i,yardsPerPass,6.8
+400869222,Hawai'i,rushingYards,229
+400869222,Hawai'i,rushingAttempts,33
+400869222,Hawai'i,yardsPerRushAttempt,6.9
+400869222,Hawai'i,totalPenaltiesYards,7-61
+400869222,Hawai'i,turnovers,1
+400869222,Hawai'i,fumblesLost,1
+400869222,Hawai'i,interceptions,0
+400869222,Hawai'i,possessionTime,27:59
 400869223,San José State,rushingTDs,2
 400869223,San José State,passingTDs,0
 400869223,San José State,kickReturnYards,109
@@ -1432,6 +2835,34 @@ game_id,team,category,stat
 400869223,San José State,fumblesLost,0
 400869223,San José State,interceptions,0
 400869223,San José State,possessionTime,36:28
+400869223,Nevada,fumblesRecovered,0
+400869223,Nevada,rushingTDs,0
+400869223,Nevada,passingTDs,1
+400869223,Nevada,kickReturnYards,22
+400869223,Nevada,kickReturnTDs,0
+400869223,Nevada,kickReturns,1
+400869223,Nevada,kickingPoints,4
+400869223,Nevada,tacklesForLoss,11
+400869223,Nevada,defensiveTDs,0
+400869223,Nevada,tackles,49
+400869223,Nevada,sacks,4
+400869223,Nevada,qbHurries,1
+400869223,Nevada,passesDeflected,1
+400869223,Nevada,firstDowns,13
+400869223,Nevada,thirdDownEff,2-10
+400869223,Nevada,fourthDownEff,1-1
+400869223,Nevada,totalYards,257
+400869223,Nevada,netPassingYards,144
+400869223,Nevada,completionAttempts,9-22
+400869223,Nevada,yardsPerPass,6.5
+400869223,Nevada,rushingYards,113
+400869223,Nevada,rushingAttempts,34
+400869223,Nevada,yardsPerRushAttempt,3.3
+400869223,Nevada,totalPenaltiesYards,3-35
+400869223,Nevada,turnovers,2
+400869223,Nevada,fumblesLost,0
+400869223,Nevada,interceptions,2
+400869223,Nevada,possessionTime,23:32
 400869644,Ohio State,rushingTDs,2
 400869644,Ohio State,puntReturnYards,10
 400869644,Ohio State,puntReturnTDs,0
@@ -1467,6 +2898,41 @@ game_id,team,category,stat
 400869644,Ohio State,fumblesLost,0
 400869644,Ohio State,interceptions,1
 400869644,Ohio State,possessionTime,28:32
+400869644,Wisconsin,rushingTDs,1
+400869644,Wisconsin,puntReturnYards,4
+400869644,Wisconsin,puntReturnTDs,0
+400869644,Wisconsin,puntReturns,1
+400869644,Wisconsin,passingTDs,1
+400869644,Wisconsin,kickReturnYards,36
+400869644,Wisconsin,kickReturnTDs,0
+400869644,Wisconsin,kickReturns,2
+400869644,Wisconsin,kickingPoints,11
+400869644,Wisconsin,interceptionYards,0
+400869644,Wisconsin,interceptionTDs,0
+400869644,Wisconsin,passesIntercepted,1
+400869644,Wisconsin,fumblesRecovered,0
+400869644,Wisconsin,totalFumbles,1
+400869644,Wisconsin,tacklesForLoss,7
+400869644,Wisconsin,defensiveTDs,0
+400869644,Wisconsin,tackles,45
+400869644,Wisconsin,sacks,2
+400869644,Wisconsin,qbHurries,3
+400869644,Wisconsin,passesDeflected,3
+400869644,Wisconsin,firstDowns,22
+400869644,Wisconsin,thirdDownEff,6-15
+400869644,Wisconsin,fourthDownEff,0-1
+400869644,Wisconsin,totalYards,450
+400869644,Wisconsin,netPassingYards,214
+400869644,Wisconsin,completionAttempts,16-28
+400869644,Wisconsin,yardsPerPass,7.6
+400869644,Wisconsin,rushingYards,236
+400869644,Wisconsin,rushingAttempts,46
+400869644,Wisconsin,yardsPerRushAttempt,5.1
+400869644,Wisconsin,totalPenaltiesYards,4-35
+400869644,Wisconsin,turnovers,1
+400869644,Wisconsin,fumblesLost,0
+400869644,Wisconsin,interceptions,1
+400869644,Wisconsin,possessionTime,31:28
 400869672,Michigan State,rushingTDs,0
 400869672,Michigan State,puntReturnYards,31
 400869672,Michigan State,puntReturnTDs,0
@@ -1502,6 +2968,41 @@ game_id,team,category,stat
 400869672,Michigan State,fumblesLost,1
 400869672,Michigan State,interceptions,1
 400869672,Michigan State,possessionTime,24:26
+400869672,Northwestern,rushingTDs,3
+400869672,Northwestern,puntReturnYards,12
+400869672,Northwestern,puntReturnTDs,0
+400869672,Northwestern,puntReturns,3
+400869672,Northwestern,passingTDs,3
+400869672,Northwestern,kickReturnYards,132
+400869672,Northwestern,kickReturnTDs,1
+400869672,Northwestern,kickReturns,3
+400869672,Northwestern,kickingPoints,10
+400869672,Northwestern,interceptionYards,0
+400869672,Northwestern,interceptionTDs,0
+400869672,Northwestern,passesIntercepted,1
+400869672,Northwestern,fumblesRecovered,1
+400869672,Northwestern,totalFumbles,0
+400869672,Northwestern,tacklesForLoss,6
+400869672,Northwestern,defensiveTDs,1
+400869672,Northwestern,tackles,28
+400869672,Northwestern,sacks,4
+400869672,Northwestern,qbHurries,5
+400869672,Northwestern,passesDeflected,4
+400869672,Northwestern,firstDowns,26
+400869672,Northwestern,thirdDownEff,10-19
+400869672,Northwestern,fourthDownEff,1-1
+400869672,Northwestern,totalYards,490
+400869672,Northwestern,netPassingYards,281
+400869672,Northwestern,completionAttempts,27-35
+400869672,Northwestern,yardsPerPass,8.0
+400869672,Northwestern,rushingYards,209
+400869672,Northwestern,rushingAttempts,51
+400869672,Northwestern,yardsPerRushAttempt,4.1
+400869672,Northwestern,totalPenaltiesYards,4-25
+400869672,Northwestern,turnovers,1
+400869672,Northwestern,fumblesLost,0
+400869672,Northwestern,interceptions,1
+400869672,Northwestern,possessionTime,35:34
 400869671,Maryland,rushingTDs,0
 400869671,Maryland,puntReturnYards,13
 400869671,Maryland,puntReturnTDs,0
@@ -1534,6 +3035,41 @@ game_id,team,category,stat
 400869671,Maryland,fumblesLost,2
 400869671,Maryland,interceptions,2
 400869671,Maryland,possessionTime,25:48
+400869671,Minnesota,rushingTDs,2
+400869671,Minnesota,puntReturnYards,30
+400869671,Minnesota,puntReturnTDs,0
+400869671,Minnesota,puntReturns,4
+400869671,Minnesota,passingTDs,1
+400869671,Minnesota,kickReturnYards,47
+400869671,Minnesota,kickReturnTDs,0
+400869671,Minnesota,kickReturns,3
+400869671,Minnesota,kickingPoints,7
+400869671,Minnesota,interceptionYards,82
+400869671,Minnesota,interceptionTDs,1
+400869671,Minnesota,passesIntercepted,2
+400869671,Minnesota,fumblesRecovered,2
+400869671,Minnesota,totalFumbles,1
+400869671,Minnesota,tacklesForLoss,5
+400869671,Minnesota,defensiveTDs,1
+400869671,Minnesota,tackles,46
+400869671,Minnesota,sacks,3
+400869671,Minnesota,qbHurries,0
+400869671,Minnesota,passesDeflected,4
+400869671,Minnesota,firstDowns,16
+400869671,Minnesota,thirdDownEff,4-14
+400869671,Minnesota,fourthDownEff,0-0
+400869671,Minnesota,totalYards,311
+400869671,Minnesota,netPassingYards,82
+400869671,Minnesota,completionAttempts,7-15
+400869671,Minnesota,yardsPerPass,5.5
+400869671,Minnesota,rushingYards,229
+400869671,Minnesota,rushingAttempts,48
+400869671,Minnesota,yardsPerRushAttempt,4.8
+400869671,Minnesota,totalPenaltiesYards,7-50
+400869671,Minnesota,turnovers,0
+400869671,Minnesota,fumblesLost,0
+400869671,Minnesota,interceptions,0
+400869671,Minnesota,possessionTime,34:12
 400869637,Rutgers,rushingTDs,0
 400869637,Rutgers,puntReturnYards,21
 400869637,Rutgers,puntReturnTDs,0
@@ -1569,6 +3105,41 @@ game_id,team,category,stat
 400869637,Rutgers,fumblesLost,4
 400869637,Rutgers,interceptions,1
 400869637,Rutgers,possessionTime,32:48
+400869637,Illinois,rushingTDs,1
+400869637,Illinois,puntReturnYards,27
+400869637,Illinois,puntReturnTDs,0
+400869637,Illinois,puntReturns,3
+400869637,Illinois,passingTDs,1
+400869637,Illinois,kickReturnYards,15
+400869637,Illinois,kickReturnTDs,0
+400869637,Illinois,kickReturns,1
+400869637,Illinois,kickingPoints,6
+400869637,Illinois,interceptionYards,78
+400869637,Illinois,interceptionTDs,1
+400869637,Illinois,passesIntercepted,1
+400869637,Illinois,fumblesRecovered,4
+400869637,Illinois,totalFumbles,0
+400869637,Illinois,tacklesForLoss,9
+400869637,Illinois,defensiveTDs,1
+400869637,Illinois,tackles,53
+400869637,Illinois,sacks,2
+400869637,Illinois,qbHurries,2
+400869637,Illinois,passesDeflected,1
+400869637,Illinois,firstDowns,10
+400869637,Illinois,thirdDownEff,4-13
+400869637,Illinois,fourthDownEff,0-0
+400869637,Illinois,totalYards,320
+400869637,Illinois,netPassingYards,92
+400869637,Illinois,completionAttempts,6-14
+400869637,Illinois,yardsPerPass,6.6
+400869637,Illinois,rushingYards,228
+400869637,Illinois,rushingAttempts,43
+400869637,Illinois,yardsPerRushAttempt,5.3
+400869637,Illinois,totalPenaltiesYards,6-60
+400869637,Illinois,turnovers,1
+400869637,Illinois,fumblesLost,0
+400869637,Illinois,interceptions,1
+400869637,Illinois,possessionTime,27:12
 400869670,Indiana,fumblesRecovered,0
 400869670,Indiana,rushingTDs,1
 400869670,Indiana,puntReturnYards,48
@@ -1603,6 +3174,40 @@ game_id,team,category,stat
 400869670,Indiana,fumblesLost,0
 400869670,Indiana,interceptions,2
 400869670,Indiana,possessionTime,27:04
+400869670,Nebraska,fumblesRecovered,0
+400869670,Nebraska,rushingTDs,1
+400869670,Nebraska,puntReturnYards,25
+400869670,Nebraska,puntReturnTDs,0
+400869670,Nebraska,puntReturns,4
+400869670,Nebraska,passingTDs,1
+400869670,Nebraska,kickReturnYards,62
+400869670,Nebraska,kickReturnTDs,0
+400869670,Nebraska,kickReturns,3
+400869670,Nebraska,kickingPoints,9
+400869670,Nebraska,interceptionYards,29
+400869670,Nebraska,interceptionTDs,1
+400869670,Nebraska,passesIntercepted,2
+400869670,Nebraska,tacklesForLoss,9
+400869670,Nebraska,defensiveTDs,1
+400869670,Nebraska,tackles,52
+400869670,Nebraska,sacks,3
+400869670,Nebraska,qbHurries,2
+400869670,Nebraska,passesDeflected,3
+400869670,Nebraska,firstDowns,17
+400869670,Nebraska,thirdDownEff,5-15
+400869670,Nebraska,fourthDownEff,1-1
+400869670,Nebraska,totalYards,360
+400869670,Nebraska,netPassingYards,208
+400869670,Nebraska,completionAttempts,10-26
+400869670,Nebraska,yardsPerPass,8.0
+400869670,Nebraska,rushingYards,152
+400869670,Nebraska,rushingAttempts,45
+400869670,Nebraska,yardsPerRushAttempt,3.4
+400869670,Nebraska,totalPenaltiesYards,9-53
+400869670,Nebraska,turnovers,2
+400869670,Nebraska,fumblesLost,0
+400869670,Nebraska,interceptions,2
+400869670,Nebraska,possessionTime,32:56
 400869673,Iowa,fumblesRecovered,0
 400869673,Iowa,rushingTDs,4
 400869673,Iowa,puntReturnYards,11
@@ -1637,6 +3242,34 @@ game_id,team,category,stat
 400869673,Iowa,fumblesLost,0
 400869673,Iowa,interceptions,0
 400869673,Iowa,possessionTime,36:06
+400869673,Purdue,fumblesRecovered,0
+400869673,Purdue,rushingTDs,0
+400869673,Purdue,passingTDs,5
+400869673,Purdue,kickReturnYards,15
+400869673,Purdue,kickReturnTDs,0
+400869673,Purdue,kickReturns,2
+400869673,Purdue,kickingPoints,5
+400869673,Purdue,tacklesForLoss,5
+400869673,Purdue,defensiveTDs,0
+400869673,Purdue,tackles,43
+400869673,Purdue,sacks,3
+400869673,Purdue,qbHurries,0
+400869673,Purdue,passesDeflected,0
+400869673,Purdue,firstDowns,24
+400869673,Purdue,thirdDownEff,5-15
+400869673,Purdue,fourthDownEff,2-5
+400869673,Purdue,totalYards,505
+400869673,Purdue,netPassingYards,458
+400869673,Purdue,completionAttempts,30-59
+400869673,Purdue,yardsPerPass,7.8
+400869673,Purdue,rushingYards,47
+400869673,Purdue,rushingAttempts,21
+400869673,Purdue,yardsPerRushAttempt,2.2
+400869673,Purdue,totalPenaltiesYards,6-38
+400869673,Purdue,turnovers,1
+400869673,Purdue,fumblesLost,0
+400869673,Purdue,interceptions,1
+400869673,Purdue,possessionTime,23:54
 400869539,Temple,rushingTDs,1
 400869539,Temple,passingTDs,2
 400869539,Temple,kickReturnYards,26
@@ -1669,6 +3302,41 @@ game_id,team,category,stat
 400869539,Temple,fumblesLost,1
 400869539,Temple,interceptions,1
 400869539,Temple,possessionTime,37:18
+400869539,UCF,rushingTDs,1
+400869539,UCF,puntReturnYards,7
+400869539,UCF,puntReturnTDs,0
+400869539,UCF,puntReturns,2
+400869539,UCF,passingTDs,2
+400869539,UCF,kickReturnYards,72
+400869539,UCF,kickReturnTDs,0
+400869539,UCF,kickReturns,5
+400869539,UCF,kickingPoints,5
+400869539,UCF,interceptionYards,26
+400869539,UCF,interceptionTDs,0
+400869539,UCF,passesIntercepted,1
+400869539,UCF,fumblesRecovered,1
+400869539,UCF,totalFumbles,3
+400869539,UCF,tacklesForLoss,12
+400869539,UCF,defensiveTDs,0
+400869539,UCF,tackles,43
+400869539,UCF,sacks,5
+400869539,UCF,qbHurries,2
+400869539,UCF,passesDeflected,6
+400869539,UCF,firstDowns,14
+400869539,UCF,thirdDownEff,2-12
+400869539,UCF,fourthDownEff,0-2
+400869539,UCF,totalYards,296
+400869539,UCF,netPassingYards,210
+400869539,UCF,completionAttempts,13-22
+400869539,UCF,yardsPerPass,9.5
+400869539,UCF,rushingYards,86
+400869539,UCF,rushingAttempts,36
+400869539,UCF,yardsPerRushAttempt,2.4
+400869539,UCF,totalPenaltiesYards,12-110
+400869539,UCF,turnovers,1
+400869539,UCF,fumblesLost,0
+400869539,UCF,interceptions,1
+400869539,UCF,possessionTime,22:42
 400869540,South Florida,rushingTDs,4
 400869540,South Florida,puntReturnYards,1
 400869540,South Florida,puntReturnTDs,0
@@ -1698,6 +3366,41 @@ game_id,team,category,stat
 400869540,South Florida,fumblesLost,2
 400869540,South Florida,interceptions,2
 400869540,South Florida,possessionTime,27:44
+400869540,Connecticut,rushingTDs,1
+400869540,Connecticut,puntReturnYards,8
+400869540,Connecticut,puntReturnTDs,0
+400869540,Connecticut,puntReturns,1
+400869540,Connecticut,passingTDs,2
+400869540,Connecticut,kickReturnYards,64
+400869540,Connecticut,kickReturnTDs,0
+400869540,Connecticut,kickReturns,3
+400869540,Connecticut,kickingPoints,9
+400869540,Connecticut,interceptionYards,0
+400869540,Connecticut,interceptionTDs,0
+400869540,Connecticut,passesIntercepted,2
+400869540,Connecticut,fumblesRecovered,2
+400869540,Connecticut,totalFumbles,0
+400869540,Connecticut,tacklesForLoss,3
+400869540,Connecticut,defensiveTDs,0
+400869540,Connecticut,tackles,50
+400869540,Connecticut,sacks,1
+400869540,Connecticut,qbHurries,0
+400869540,Connecticut,passesDeflected,1
+400869540,Connecticut,firstDowns,20
+400869540,Connecticut,thirdDownEff,4-18
+400869540,Connecticut,fourthDownEff,2-3
+400869540,Connecticut,totalYards,378
+400869540,Connecticut,netPassingYards,306
+400869540,Connecticut,completionAttempts,22-39
+400869540,Connecticut,yardsPerPass,7.8
+400869540,Connecticut,rushingYards,72
+400869540,Connecticut,rushingAttempts,36
+400869540,Connecticut,yardsPerRushAttempt,2.0
+400869540,Connecticut,totalPenaltiesYards,3-20
+400869540,Connecticut,turnovers,0
+400869540,Connecticut,fumblesLost,0
+400869540,Connecticut,interceptions,0
+400869540,Connecticut,possessionTime,32:16
 400869541,Houston,rushingTDs,4
 400869541,Houston,passingTDs,0
 400869541,Houston,kickReturnYards,84
@@ -1730,6 +3433,38 @@ game_id,team,category,stat
 400869541,Houston,fumblesLost,2
 400869541,Houston,interceptions,1
 400869541,Houston,possessionTime,35:06
+400869541,Tulsa,rushingTDs,3
+400869541,Tulsa,passingTDs,1
+400869541,Tulsa,kickReturnYards,46
+400869541,Tulsa,kickReturnTDs,0
+400869541,Tulsa,kickReturns,2
+400869541,Tulsa,kickingPoints,7
+400869541,Tulsa,interceptionYards,0
+400869541,Tulsa,interceptionTDs,0
+400869541,Tulsa,passesIntercepted,1
+400869541,Tulsa,fumblesRecovered,2
+400869541,Tulsa,totalFumbles,1
+400869541,Tulsa,tacklesForLoss,2
+400869541,Tulsa,defensiveTDs,0
+400869541,Tulsa,tackles,54
+400869541,Tulsa,sacks,0
+400869541,Tulsa,qbHurries,3
+400869541,Tulsa,passesDeflected,1
+400869541,Tulsa,firstDowns,27
+400869541,Tulsa,thirdDownEff,14-20
+400869541,Tulsa,fourthDownEff,0-1
+400869541,Tulsa,totalYards,459
+400869541,Tulsa,netPassingYards,365
+400869541,Tulsa,completionAttempts,27-51
+400869541,Tulsa,yardsPerPass,7.2
+400869541,Tulsa,rushingYards,94
+400869541,Tulsa,rushingAttempts,35
+400869541,Tulsa,yardsPerRushAttempt,2.7
+400869541,Tulsa,totalPenaltiesYards,5-25
+400869541,Tulsa,turnovers,2
+400869541,Tulsa,fumblesLost,1
+400869541,Tulsa,interceptions,1
+400869541,Tulsa,possessionTime,24:54
 400869538,Memphis,rushingTDs,1
 400869538,Memphis,puntReturnYards,9
 400869538,Memphis,puntReturnTDs,0
@@ -1765,3 +3500,38 @@ game_id,team,category,stat
 400869538,Memphis,fumblesLost,2
 400869538,Memphis,interceptions,1
 400869538,Memphis,possessionTime,27:28
+400869538,Tulane,rushingTDs,1
+400869538,Tulane,puntReturnYards,3
+400869538,Tulane,puntReturnTDs,0
+400869538,Tulane,puntReturns,2
+400869538,Tulane,passingTDs,1
+400869538,Tulane,kickReturnYards,53
+400869538,Tulane,kickReturnTDs,0
+400869538,Tulane,kickReturns,3
+400869538,Tulane,kickingPoints,2
+400869538,Tulane,interceptionYards,5
+400869538,Tulane,interceptionTDs,0
+400869538,Tulane,passesIntercepted,1
+400869538,Tulane,fumblesRecovered,2
+400869538,Tulane,totalFumbles,2
+400869538,Tulane,tacklesForLoss,7
+400869538,Tulane,defensiveTDs,0
+400869538,Tulane,tackles,44
+400869538,Tulane,sacks,3
+400869538,Tulane,qbHurries,0
+400869538,Tulane,passesDeflected,6
+400869538,Tulane,firstDowns,20
+400869538,Tulane,thirdDownEff,4-16
+400869538,Tulane,fourthDownEff,2-3
+400869538,Tulane,totalYards,313
+400869538,Tulane,netPassingYards,144
+400869538,Tulane,completionAttempts,11-30
+400869538,Tulane,yardsPerPass,4.8
+400869538,Tulane,rushingYards,169
+400869538,Tulane,rushingAttempts,44
+400869538,Tulane,yardsPerRushAttempt,3.8
+400869538,Tulane,totalPenaltiesYards,7-62
+400869538,Tulane,turnovers,3
+400869538,Tulane,fumblesLost,2
+400869538,Tulane,interceptions,1
+400869538,Tulane,possessionTime,32:32
