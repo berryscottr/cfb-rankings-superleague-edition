@@ -1,0 +1,1717 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.3">
+  <Nodes>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="186" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="game_id" />
+            <Field field="team" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="id" />
+            <Field field="team_name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_season" selected="True" input="Right_" />
+                <SelectField field="Right_week" selected="True" input="Right_" />
+                <SelectField field="Left_game_id" selected="True" input="Left_" />
+                <SelectField field="Left_team" selected="True" input="Left_" />
+                <SelectField field="Left_defensiveTDs" selected="True" input="Left_" />
+                <SelectField field="Left_firstDowns" selected="True" input="Left_" />
+                <SelectField field="Left_fumblesLost" selected="True" input="Left_" />
+                <SelectField field="Left_fumblesRecovered" selected="True" input="Left_" />
+                <SelectField field="Left_interceptions" selected="True" input="Left_" />
+                <SelectField field="Left_interceptionTDs" selected="True" input="Left_" />
+                <SelectField field="Left_interceptionYards" selected="True" input="Left_" />
+                <SelectField field="Left_kickingPoints" selected="True" input="Left_" />
+                <SelectField field="Left_kickReturns" selected="True" input="Left_" />
+                <SelectField field="Left_kickReturnTDs" selected="True" input="Left_" />
+                <SelectField field="Left_kickReturnYards" selected="True" input="Left_" />
+                <SelectField field="Left_netPassingYards" selected="True" input="Left_" />
+                <SelectField field="Left_passesDeflected" selected="True" input="Left_" />
+                <SelectField field="Left_passesIntercepted" selected="True" input="Left_" />
+                <SelectField field="Left_passingTDs" selected="True" input="Left_" />
+                <SelectField field="Left_puntReturns" selected="True" input="Left_" />
+                <SelectField field="Left_puntReturnTDs" selected="True" input="Left_" />
+                <SelectField field="Left_puntReturnYards" selected="True" input="Left_" />
+                <SelectField field="Left_qbHurries" selected="True" input="Left_" />
+                <SelectField field="Left_rushingAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_rushingTDs" selected="True" input="Left_" />
+                <SelectField field="Left_rushingYards" selected="True" input="Left_" />
+                <SelectField field="Left_sacks" selected="True" input="Left_" />
+                <SelectField field="Left_tackles" selected="True" input="Left_" />
+                <SelectField field="Left_tacklesForLoss" selected="True" input="Left_" />
+                <SelectField field="Left_totalFumbles" selected="True" input="Left_" />
+                <SelectField field="Left_totalYards" selected="True" input="Left_" />
+                <SelectField field="Left_turnovers" selected="True" input="Left_" />
+                <SelectField field="Left_yardsPerPass" selected="True" input="Left_" />
+                <SelectField field="Left_yardsPerRushAttempt" selected="True" input="Left_" />
+                <SelectField field="Left_passCompletions" selected="True" input="Left_" />
+                <SelectField field="Left_passAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_fourthDownConversions" selected="True" input="Left_" />
+                <SelectField field="Left_fourthDownAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_possessionTimeSecTotal" selected="True" input="Left_" />
+                <SelectField field="Left_thirdDownConversions" selected="True" input="Left_" />
+                <SelectField field="Left_thirdDownAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_totalPenalties" selected="True" input="Left_" />
+                <SelectField field="Left_totalPenaltyYards" selected="True" input="Left_" />
+                <SelectField field="Right_id" selected="False" input="Right_" />
+                <SelectField field="Right_season_type" selected="False" input="Right_" />
+                <SelectField field="Right_start_date" selected="False" input="Right_" />
+                <SelectField field="Right_neutral_site" selected="False" input="Right_" />
+                <SelectField field="Right_conference_game" selected="False" input="Right_" />
+                <SelectField field="Right_attendance" selected="False" input="Right_" />
+                <SelectField field="Right_venue_id" selected="False" input="Right_" />
+                <SelectField field="Right_Description" selected="False" input="Right_" />
+                <SelectField field="Right_team_id" selected="False" input="Right_" />
+                <SelectField field="Right_team_name" selected="False" input="Right_" />
+                <SelectField field="Right_team_conference" selected="False" input="Right_" />
+                <SelectField field="Right_team_points" selected="False" input="Right_" />
+                <SelectField field="Right_team_won" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q1" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q2" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q3" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q4" selected="False" input="Right_" />
+                <SelectField field="Right_team_spread" selected="False" input="Right_" />
+                <SelectField field="Right_team_wins" selected="False" input="Right_" />
+                <SelectField field="Right_team_loses" selected="False" input="Right_" />
+                <SelectField field="Right_games_played" selected="False" input="Right_" />
+                <SelectField field="Right_season_point_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q1_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q2_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q3_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q4_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_previous_wins" selected="False" input="Right_" />
+                <SelectField field="Right_team_previous_loses" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_points" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q1" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q2" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q3" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q4" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_id" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_name" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_conference" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_points" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_won" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q1" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q2" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q3" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q4" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_spread" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_wins" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_loses" selected="False" input="Right_" />
+                <SelectField field="Right_opp_games_played" selected="False" input="Right_" />
+                <SelectField field="Right_opp_season_point_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q1_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q2_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q3_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q4_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_previous_wins" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_previous_loses" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_points" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q1" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q2" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q3" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q4" selected="False" input="Right_" />
+                <SelectField field="Right_team_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_team_opp_wins" selected="False" input="Right_" />
+                <SelectField field="Right_team_opp_loses" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_opp_wins" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_opp_loses" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="186" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="game_id" />
+            <Field field="team" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="id" />
+            <Field field="opp_team_name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_season" selected="True" input="Right_" />
+                <SelectField field="Right_week" selected="True" input="Right_" />
+                <SelectField field="Left_game_id" selected="True" input="Left_" />
+                <SelectField field="Left_team" selected="True" input="Left_" />
+                <SelectField field="Left_defensiveTDs" selected="True" input="Left_" />
+                <SelectField field="Left_firstDowns" selected="True" input="Left_" />
+                <SelectField field="Left_fumblesLost" selected="True" input="Left_" />
+                <SelectField field="Left_fumblesRecovered" selected="True" input="Left_" />
+                <SelectField field="Left_interceptions" selected="True" input="Left_" />
+                <SelectField field="Left_interceptionTDs" selected="True" input="Left_" />
+                <SelectField field="Left_interceptionYards" selected="True" input="Left_" />
+                <SelectField field="Left_kickingPoints" selected="True" input="Left_" />
+                <SelectField field="Left_kickReturns" selected="True" input="Left_" />
+                <SelectField field="Left_kickReturnTDs" selected="True" input="Left_" />
+                <SelectField field="Left_kickReturnYards" selected="True" input="Left_" />
+                <SelectField field="Left_netPassingYards" selected="True" input="Left_" />
+                <SelectField field="Left_passesDeflected" selected="True" input="Left_" />
+                <SelectField field="Left_passesIntercepted" selected="True" input="Left_" />
+                <SelectField field="Left_passingTDs" selected="True" input="Left_" />
+                <SelectField field="Left_puntReturns" selected="True" input="Left_" />
+                <SelectField field="Left_puntReturnTDs" selected="True" input="Left_" />
+                <SelectField field="Left_puntReturnYards" selected="True" input="Left_" />
+                <SelectField field="Left_qbHurries" selected="True" input="Left_" />
+                <SelectField field="Left_rushingAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_rushingTDs" selected="True" input="Left_" />
+                <SelectField field="Left_rushingYards" selected="True" input="Left_" />
+                <SelectField field="Left_sacks" selected="True" input="Left_" />
+                <SelectField field="Left_tackles" selected="True" input="Left_" />
+                <SelectField field="Left_tacklesForLoss" selected="True" input="Left_" />
+                <SelectField field="Left_totalFumbles" selected="True" input="Left_" />
+                <SelectField field="Left_totalYards" selected="True" input="Left_" />
+                <SelectField field="Left_turnovers" selected="True" input="Left_" />
+                <SelectField field="Left_yardsPerPass" selected="True" input="Left_" />
+                <SelectField field="Left_yardsPerRushAttempt" selected="True" input="Left_" />
+                <SelectField field="Left_passCompletions" selected="True" input="Left_" />
+                <SelectField field="Left_passAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_fourthDownConversions" selected="True" input="Left_" />
+                <SelectField field="Left_fourthDownAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_possessionTimeSecTotal" selected="True" input="Left_" />
+                <SelectField field="Left_thirdDownConversions" selected="True" input="Left_" />
+                <SelectField field="Left_thirdDownAttempts" selected="True" input="Left_" />
+                <SelectField field="Left_totalPenalties" selected="True" input="Left_" />
+                <SelectField field="Left_totalPenaltyYards" selected="True" input="Left_" />
+                <SelectField field="Right_id" selected="False" input="Right_" />
+                <SelectField field="Right_season_type" selected="False" input="Right_" />
+                <SelectField field="Right_start_date" selected="False" input="Right_" />
+                <SelectField field="Right_neutral_site" selected="False" input="Right_" />
+                <SelectField field="Right_conference_game" selected="False" input="Right_" />
+                <SelectField field="Right_attendance" selected="False" input="Right_" />
+                <SelectField field="Right_venue_id" selected="False" input="Right_" />
+                <SelectField field="Right_Description" selected="False" input="Right_" />
+                <SelectField field="Right_team_id" selected="False" input="Right_" />
+                <SelectField field="Right_team_name" selected="False" input="Right_" />
+                <SelectField field="Right_team_conference" selected="False" input="Right_" />
+                <SelectField field="Right_team_points" selected="False" input="Right_" />
+                <SelectField field="Right_team_won" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q1" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q2" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q3" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q4" selected="False" input="Right_" />
+                <SelectField field="Right_team_spread" selected="False" input="Right_" />
+                <SelectField field="Right_team_wins" selected="False" input="Right_" />
+                <SelectField field="Right_team_loses" selected="False" input="Right_" />
+                <SelectField field="Right_games_played" selected="False" input="Right_" />
+                <SelectField field="Right_season_point_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q1_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q2_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q3_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_line_score_q4_total" selected="False" input="Right_" />
+                <SelectField field="Right_team_previous_wins" selected="False" input="Right_" />
+                <SelectField field="Right_team_previous_loses" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_points" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q1" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q2" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q3" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_point_q4" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_id" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_name" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_conference" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_points" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_won" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q1" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q2" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q3" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q4" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_spread" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_wins" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_loses" selected="False" input="Right_" />
+                <SelectField field="Right_opp_games_played" selected="False" input="Right_" />
+                <SelectField field="Right_opp_season_point_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q1_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q2_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q3_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_line_score_q4_total" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_previous_wins" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_previous_loses" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_points" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q1" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q2" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q3" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_point_q4" selected="False" input="Right_" />
+                <SelectField field="Right_team_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_team_avg_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_team_opp_wins" selected="False" input="Right_" />
+                <SelectField field="Right_team_opp_loses" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_avg_points_allowed" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_opp_wins" selected="False" input="Right_" />
+                <SelectField field="Right_opp_team_opp_loses" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>*_cleaned_games.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="season" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="week" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="season_type" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="start_date" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="neutral_site" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="conference_game" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="attendance" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="venue_id" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="Description" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_id" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_name" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_conference" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_points" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_won" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q1" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q2" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q3" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q4" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_spread" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_wins" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_loses" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="games_played" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="season_point_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q1_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q2_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q3_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_line_score_q4_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_previous_wins" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_previous_loses" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_avg_points" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_avg_point_q1" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_avg_point_q2" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_avg_point_q3" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_avg_point_q4" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_id" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_name" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_conference" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_points" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_won" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q1" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q2" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q3" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q4" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_spread" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_wins" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_loses" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_games_played" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_season_point_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q1_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q2_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q3_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_line_score_q4_total" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_previous_wins" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_previous_loses" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_avg_points" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_avg_point_q1" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_avg_point_q2" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_avg_point_q3" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_avg_point_q4" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_points_allowed" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_avg_points_allowed" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_opp_wins" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_opp_loses" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_points_allowed" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_avg_points_allowed" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_opp_wins" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_opp_loses" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>all_team_stats.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="game_id" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="team" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="defensiveTDs" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="firstDowns" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="fumblesLost" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="fumblesRecovered" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="interceptions" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="interceptionTDs" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="interceptionYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="kickingPoints" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="kickReturns" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="kickReturnTDs" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="kickReturnYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="netPassingYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="passesDeflected" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="passesIntercepted" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="passingTDs" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="puntReturns" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="puntReturnTDs" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="puntReturnYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="qbHurries" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="rushingAttempts" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="rushingTDs" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="rushingYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="sacks" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="tackles" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="tacklesForLoss" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="totalFumbles" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="totalYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="turnovers" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="yardsPerPass" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="yardsPerRushAttempt" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="passCompletions" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="passAttempts" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="fourthDownConversions" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="fourthDownAttempts" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="possessionTimeSecTotal" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="thirdDownConversions" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="thirdDownAttempts" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="totalPenalties" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="totalPenaltyYards" size="254" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="306" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="414" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="team" order="Ascending" />
+            <Field field="season" order="Ascending" />
+            <Field field="week" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>team - Ascending
+season - Ascending
+week - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="522" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="game_id" />
+            <Field field="team" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="630" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\WILLMI~1\AppData\Local\Temp\Engine_14268_00423ddfd18a47efa6bbd3843c8d6a15_\Engine_15308_cef3b084779b464788bfaaf9f9446042_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RunningTotal.RunningTotal">
+        <Position x="726" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupByFields>
+            <Field field="season" />
+            <Field field="team" />
+          </GroupByFields>
+          <RunningTotalFields>
+            <Field field="defensiveTDs" />
+            <Field field="firstDowns" />
+            <Field field="fumblesLost" />
+            <Field field="fumblesRecovered" />
+            <Field field="interceptions" />
+            <Field field="interceptionTDs" />
+            <Field field="interceptionYards" />
+            <Field field="kickingPoints" />
+            <Field field="kickReturns" />
+            <Field field="kickReturnTDs" />
+            <Field field="kickReturnYards" />
+            <Field field="netPassingYards" />
+            <Field field="passesDeflected" />
+            <Field field="passesIntercepted" />
+            <Field field="passingTDs" />
+            <Field field="puntReturns" />
+            <Field field="puntReturnTDs" />
+            <Field field="puntReturnYards" />
+            <Field field="qbHurries" />
+            <Field field="rushingAttempts" />
+            <Field field="rushingTDs" />
+            <Field field="rushingYards" />
+            <Field field="sacks" />
+            <Field field="tackles" />
+            <Field field="tacklesForLoss" />
+            <Field field="totalFumbles" />
+            <Field field="totalYards" />
+            <Field field="turnovers" />
+            <Field field="yardsPerPass" />
+            <Field field="yardsPerRushAttempt" />
+            <Field field="passCompletions" />
+            <Field field="passAttempts" />
+            <Field field="fourthDownConversions" />
+            <Field field="fourthDownAttempts" />
+            <Field field="possessionTimeSecTotal" />
+            <Field field="thirdDownConversions" />
+            <Field field="thirdDownAttempts" />
+            <Field field="totalPenalties" />
+            <Field field="totalPenaltyYards" />
+          </RunningTotalFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRunningTotal" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="822" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="team" order="Ascending" />
+            <Field field="season" order="Ascending" />
+            <Field field="week" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>team - Ascending
+season - Ascending
+week - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="906" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\WILLMI~1\AppData\Local\Temp\Engine_14268_00423ddfd18a47efa6bbd3843c8d6a15_\Engine_15308_424e3823c0be4eb39c3a714cacda5b42_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="930" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[RunTot_defensiveTDs] - [defensiveTDs]" field="defensiveTDs" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_firstDowns]-[firstDowns]" field="firstDowns" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_fumblesLost]-[fumblesLost]" field="fumblesLost" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_fumblesRecovered]-[fumblesRecovered]" field="fumblesRecovered" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_interceptions]-[interceptions]" field="interceptions" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_interceptionTDs]-[interceptionTDs]" field="interceptionTDs" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_interceptionYards]-[interceptionYards]" field="interceptionYards" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_kickingPoints]-[kickingPoints]" field="kickingPoints" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_kickReturns]-[kickReturns]" field="kickReturns" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_kickReturnTDs]-[kickReturnTDs]" field="kickReturnTDs" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_kickReturnYards]-[kickReturnYards]" field="kickReturnYards" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_netPassingYards]-[netPassingYards]" field="netPassingYards" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_passesDeflected]-[passesDeflected]" field="passesDeflected" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_passesIntercepted]-[passesIntercepted]" field="passesIntercepted" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_passingTDs]-[passingTDs]" field="passingTDs" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_puntReturns]-[puntReturns]" field="puntReturns" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_puntReturnTDs]-[puntReturnTDs]" field="puntReturnTDs" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_puntReturnYards]-[puntReturnYards]" field="puntReturnYards" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_qbHurries]-[qbHurries]" field="qbHurries" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_rushingAttempts]-[rushingAttempts]" field="rushingAttempts" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_rushingTDs]-[rushingTDs]" field="rushingTDs" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_rushingYards]-[rushingYards]" field="rushingYards" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_sacks]-[sacks]" field="sacks" size="8" type="Double" />
+            <FormulaField expression="[RunTot_tackles]-[tackles]" field="tackles" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_tacklesForLoss]-[tacklesForLoss]" field="tacklesForLoss" size="8" type="Double" />
+            <FormulaField expression="[RunTot_totalFumbles]-[totalFumbles]" field="totalFumbles" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_totalYards]-[totalYards]" field="totalYards" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_turnovers]-[turnovers]" field="turnovers" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_yardsPerPass]-[yardsPerPass]" field="yardsPerPass" size="8" type="Double" />
+            <FormulaField expression="[RunTot_yardsPerRushAttempt]-[yardsPerRushAttempt]" field="yardsPerRushAttempt" size="8" type="Double" />
+            <FormulaField expression="[RunTot_passCompletions]-[passCompletions]" field="passCompletions" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_passAttempts]-[passAttempts]" field="passAttempts" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_fourthDownConversions]-[fourthDownConversions]" field="fourthDownConversions" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_fourthDownAttempts]-[fourthDownAttempts]" field="fourthDownAttempts" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_possessionTimeSecTotal]-[possessionTimeSecTotal]" field="possessionTimeSecTotal" size="2" type="Int16" />
+            <FormulaField expression="[RunTot_thirdDownConversions]-[thirdDownConversions]" field="thirdDownConversions" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_thirdDownAttempts]-[thirdDownAttempts]" field="thirdDownAttempts" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_totalPenalties]-[totalPenalties]" field="totalPenalties" size="1" type="Byte" />
+            <FormulaField expression="[RunTot_totalPenaltyYards]-[totalPenaltyYards]" field="totalPenaltyYards" size="2" type="Int16" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>defensiveTDs = [RunTot_defensiveTDs] - [defensiveTDs]
+firstDowns = [RunTot_first...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1038" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="RunTot_defensiveTDs" selected="False" />
+            <SelectField field="RunTot_firstDowns" selected="False" />
+            <SelectField field="RunTot_fumblesLost" selected="False" />
+            <SelectField field="RunTot_fumblesRecovered" selected="False" />
+            <SelectField field="RunTot_interceptions" selected="False" />
+            <SelectField field="RunTot_interceptionTDs" selected="False" />
+            <SelectField field="RunTot_interceptionYards" selected="False" />
+            <SelectField field="RunTot_kickingPoints" selected="False" />
+            <SelectField field="RunTot_kickReturns" selected="False" />
+            <SelectField field="RunTot_kickReturnTDs" selected="False" />
+            <SelectField field="RunTot_kickReturnYards" selected="False" />
+            <SelectField field="RunTot_netPassingYards" selected="False" />
+            <SelectField field="RunTot_passesDeflected" selected="False" />
+            <SelectField field="RunTot_passesIntercepted" selected="False" />
+            <SelectField field="RunTot_passingTDs" selected="False" />
+            <SelectField field="RunTot_puntReturns" selected="False" />
+            <SelectField field="RunTot_puntReturnTDs" selected="False" />
+            <SelectField field="RunTot_puntReturnYards" selected="False" />
+            <SelectField field="RunTot_qbHurries" selected="False" />
+            <SelectField field="RunTot_rushingAttempts" selected="False" />
+            <SelectField field="RunTot_rushingTDs" selected="False" />
+            <SelectField field="RunTot_rushingYards" selected="False" />
+            <SelectField field="RunTot_sacks" selected="False" />
+            <SelectField field="RunTot_tackles" selected="False" />
+            <SelectField field="RunTot_tacklesForLoss" selected="False" />
+            <SelectField field="RunTot_totalFumbles" selected="False" />
+            <SelectField field="RunTot_totalYards" selected="False" />
+            <SelectField field="RunTot_turnovers" selected="False" />
+            <SelectField field="RunTot_yardsPerPass" selected="False" />
+            <SelectField field="RunTot_yardsPerRushAttempt" selected="False" />
+            <SelectField field="RunTot_passCompletions" selected="False" />
+            <SelectField field="RunTot_passAttempts" selected="False" />
+            <SelectField field="RunTot_fourthDownConversions" selected="False" />
+            <SelectField field="RunTot_fourthDownAttempts" selected="False" />
+            <SelectField field="RunTot_possessionTimeSecTotal" selected="False" />
+            <SelectField field="RunTot_thirdDownConversions" selected="False" />
+            <SelectField field="RunTot_thirdDownAttempts" selected="False" />
+            <SelectField field="RunTot_totalPenalties" selected="False" />
+            <SelectField field="RunTot_totalPenaltyYards" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="642" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="season" selected="True" />
+            <Field field="week" selected="True" />
+            <Field field="game_id" selected="True" />
+            <Field field="team" selected="True" />
+            <Field field="defensiveTDs" selected="True" />
+            <Field field="firstDowns" selected="True" />
+            <Field field="fumblesLost" selected="True" />
+            <Field field="fumblesRecovered" selected="True" />
+            <Field field="interceptions" selected="True" />
+            <Field field="interceptionTDs" selected="True" />
+            <Field field="interceptionYards" selected="True" />
+            <Field field="kickingPoints" selected="True" />
+            <Field field="kickReturns" selected="True" />
+            <Field field="kickReturnTDs" selected="True" />
+            <Field field="kickReturnYards" selected="True" />
+            <Field field="netPassingYards" selected="True" />
+            <Field field="passesDeflected" selected="True" />
+            <Field field="passesIntercepted" selected="True" />
+            <Field field="passingTDs" selected="True" />
+            <Field field="puntReturns" selected="True" />
+            <Field field="puntReturnTDs" selected="True" />
+            <Field field="puntReturnYards" selected="True" />
+            <Field field="qbHurries" selected="True" />
+            <Field field="rushingAttempts" selected="True" />
+            <Field field="rushingTDs" selected="True" />
+            <Field field="rushingYards" selected="True" />
+            <Field field="sacks" selected="True" />
+            <Field field="tackles" selected="True" />
+            <Field field="tacklesForLoss" selected="True" />
+            <Field field="totalFumbles" selected="True" />
+            <Field field="totalYards" selected="True" />
+            <Field field="turnovers" selected="True" />
+            <Field field="yardsPerPass" selected="True" />
+            <Field field="yardsPerRushAttempt" selected="True" />
+            <Field field="passCompletions" selected="True" />
+            <Field field="passAttempts" selected="True" />
+            <Field field="fourthDownConversions" selected="True" />
+            <Field field="fourthDownAttempts" selected="True" />
+            <Field field="possessionTimeSecTotal" selected="True" />
+            <Field field="thirdDownConversions" selected="True" />
+            <Field field="thirdDownAttempts" selected="True" />
+            <Field field="totalPenalties" selected="True" />
+            <Field field="totalPenaltyYards" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="season" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="week" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="game_id" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int32" />
+            <Field name="team" size="27" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="V_String" />
+            <Field name="defensiveTDs" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="firstDowns" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="fumblesLost" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="fumblesRecovered" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="interceptions" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="interceptionTDs" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="interceptionYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="kickingPoints" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="kickReturns" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="kickReturnTDs" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="kickReturnYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="netPassingYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="passesDeflected" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="passesIntercepted" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="passingTDs" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="puntReturns" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="puntReturnTDs" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="puntReturnYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="qbHurries" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="rushingAttempts" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="rushingTDs" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="rushingYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="sacks" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Double" />
+            <Field name="tackles" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="tacklesForLoss" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Double" />
+            <Field name="totalFumbles" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="totalYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="turnovers" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="yardsPerPass" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Double" />
+            <Field name="yardsPerRushAttempt" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Double" />
+            <Field name="passCompletions" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="passAttempts" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="fourthDownConversions" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="fourthDownAttempts" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="possessionTimeSecTotal" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+            <Field name="thirdDownConversions" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="thirdDownAttempts" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="totalPenalties" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Byte" />
+            <Field name="totalPenaltyYards" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\team_stats\all_team_stats.csv" type="Int16" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1134" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="id" />
+            <Field field="team_name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="game_id" />
+            <Field field="team" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_season" selected="False" rename="Right_season" input="Right_" />
+                <SelectField field="Right_week" selected="False" rename="Right_week" input="Right_" />
+                <SelectField field="Right_game_id" selected="False" input="Right_" />
+                <SelectField field="Right_team" selected="False" input="Right_" />
+                <SelectField field="Right_defensiveTDs" selected="True" rename="team_defensiveTDs" input="Right_" />
+                <SelectField field="Right_firstDowns" selected="True" rename="team_firstDowns" input="Right_" />
+                <SelectField field="Right_fumblesLost" selected="True" rename="team_fumblesLost" input="Right_" />
+                <SelectField field="Right_fumblesRecovered" selected="True" rename="team_fumblesRecovered" input="Right_" />
+                <SelectField field="Right_interceptions" selected="True" rename="team_interceptions" input="Right_" />
+                <SelectField field="Right_interceptionTDs" selected="True" rename="team_interceptionTDs" input="Right_" />
+                <SelectField field="Right_interceptionYards" selected="True" rename="team_interceptionYards" input="Right_" />
+                <SelectField field="Right_kickingPoints" selected="True" rename="team_kickingPoints" input="Right_" />
+                <SelectField field="Right_kickReturns" selected="True" rename="team_kickReturns" input="Right_" />
+                <SelectField field="Right_kickReturnTDs" selected="True" rename="team_kickReturnTDs" input="Right_" />
+                <SelectField field="Right_kickReturnYards" selected="True" rename="team_kickReturnYards" input="Right_" />
+                <SelectField field="Right_netPassingYards" selected="True" rename="team_netPassingYards" input="Right_" />
+                <SelectField field="Right_passesDeflected" selected="True" rename="team_passesDeflected" input="Right_" />
+                <SelectField field="Right_passesIntercepted" selected="True" rename="team_passesIntercepted" input="Right_" />
+                <SelectField field="Right_passingTDs" selected="True" rename="team_passingTDs" input="Right_" />
+                <SelectField field="Right_puntReturns" selected="True" rename="team_puntReturns" input="Right_" />
+                <SelectField field="Right_puntReturnTDs" selected="True" rename="team_puntReturnTDs" input="Right_" />
+                <SelectField field="Right_puntReturnYards" selected="True" rename="team_puntReturnYards" input="Right_" />
+                <SelectField field="Right_qbHurries" selected="True" rename="team_qbHurries" input="Right_" />
+                <SelectField field="Right_rushingAttempts" selected="True" rename="team_rushingAttempts" input="Right_" />
+                <SelectField field="Right_rushingTDs" selected="True" rename="team_rushingTDs" input="Right_" />
+                <SelectField field="Right_rushingYards" selected="True" rename="team_rushingYards" input="Right_" />
+                <SelectField field="Right_sacks" selected="True" rename="team_sacks" input="Right_" />
+                <SelectField field="Right_tackles" selected="True" rename="team_tackles" input="Right_" />
+                <SelectField field="Right_tacklesForLoss" selected="True" rename="team_tacklesForLoss" input="Right_" />
+                <SelectField field="Right_totalFumbles" selected="True" rename="team_totalFumbles" input="Right_" />
+                <SelectField field="Right_totalYards" selected="True" rename="team_totalYards" input="Right_" />
+                <SelectField field="Right_turnovers" selected="True" rename="team_turnovers" input="Right_" />
+                <SelectField field="Right_yardsPerPass" selected="True" rename="team_yardsPerPass" input="Right_" />
+                <SelectField field="Right_yardsPerRushAttempt" selected="True" rename="team_yardsPerRushAttempt" input="Right_" />
+                <SelectField field="Right_passCompletions" selected="True" rename="team_passCompletions" input="Right_" />
+                <SelectField field="Right_passAttempts" selected="True" rename="team_passAttempts" input="Right_" />
+                <SelectField field="Right_fourthDownConversions" selected="True" rename="team_fourthDownConversions" input="Right_" />
+                <SelectField field="Right_fourthDownAttempts" selected="True" rename="team_fourthDownAttempts" input="Right_" />
+                <SelectField field="Right_possessionTimeSecTotal" selected="True" rename="team_possessionTimeSecTotal" input="Right_" />
+                <SelectField field="Right_thirdDownConversions" selected="True" rename="team_thirdDownConversions" input="Right_" />
+                <SelectField field="Right_thirdDownAttempts" selected="True" rename="team_thirdDownAttempts" input="Right_" />
+                <SelectField field="Right_totalPenalties" selected="True" rename="team_totalPenalties" input="Right_" />
+                <SelectField field="Right_totalPenaltyYards" selected="True" rename="team_totalPenaltyYards" input="Right_" />
+                <SelectField field="Right_id" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1278" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="id" />
+            <Field field="opp_team_name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="game_id" />
+            <Field field="team" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_season" selected="False" rename="Right_season" input="Right_" />
+                <SelectField field="Right_week" selected="False" rename="Right_week" input="Right_" />
+                <SelectField field="Right_game_id" selected="False" input="Right_" />
+                <SelectField field="Right_team" selected="False" input="Right_" />
+                <SelectField field="Right_defensiveTDs" selected="True" rename="opp_team_defensiveTDs" input="Right_" />
+                <SelectField field="Right_firstDowns" selected="True" rename="opp_team_firstDowns" input="Right_" />
+                <SelectField field="Right_fumblesLost" selected="True" rename="opp_team_fumblesLost" input="Right_" />
+                <SelectField field="Right_fumblesRecovered" selected="True" rename="opp_team_fumblesRecovered" input="Right_" />
+                <SelectField field="Right_interceptions" selected="True" rename="opp_team_interceptions" input="Right_" />
+                <SelectField field="Right_interceptionTDs" selected="True" rename="opp_team_interceptionTDs" input="Right_" />
+                <SelectField field="Right_interceptionYards" selected="True" rename="opp_team_interceptionYards" input="Right_" />
+                <SelectField field="Right_kickingPoints" selected="True" rename="opp_team_kickingPoints" input="Right_" />
+                <SelectField field="Right_kickReturns" selected="True" rename="opp_team_kickReturns" input="Right_" />
+                <SelectField field="Right_kickReturnTDs" selected="True" rename="opp_team_kickReturnTDs" input="Right_" />
+                <SelectField field="Right_kickReturnYards" selected="True" rename="opp_team_kickReturnYards" input="Right_" />
+                <SelectField field="Right_netPassingYards" selected="True" rename="opp_team_netPassingYards" input="Right_" />
+                <SelectField field="Right_passesDeflected" selected="True" rename="opp_team_passesDeflected" input="Right_" />
+                <SelectField field="Right_passesIntercepted" selected="True" rename="opp_team_passesIntercepted" input="Right_" />
+                <SelectField field="Right_passingTDs" selected="True" rename="opp_team_passingTDs" input="Right_" />
+                <SelectField field="Right_puntReturns" selected="True" rename="opp_team_puntReturns" input="Right_" />
+                <SelectField field="Right_puntReturnTDs" selected="True" rename="opp_team_puntReturnTDs" input="Right_" />
+                <SelectField field="Right_puntReturnYards" selected="True" rename="opp_team_puntReturnYards" input="Right_" />
+                <SelectField field="Right_qbHurries" selected="True" rename="opp_team_qbHurries" input="Right_" />
+                <SelectField field="Right_rushingAttempts" selected="True" rename="opp_team_rushingAttempts" input="Right_" />
+                <SelectField field="Right_rushingTDs" selected="True" rename="opp_team_rushingTDs" input="Right_" />
+                <SelectField field="Right_rushingYards" selected="True" rename="opp_team_rushingYards" input="Right_" />
+                <SelectField field="Right_sacks" selected="True" rename="opp_team_sacks" input="Right_" />
+                <SelectField field="Right_tackles" selected="True" rename="opp_team_tackles" input="Right_" />
+                <SelectField field="Right_tacklesForLoss" selected="True" rename="opp_team_tacklesForLoss" input="Right_" />
+                <SelectField field="Right_totalFumbles" selected="True" rename="opp_team_totalFumbles" input="Right_" />
+                <SelectField field="Right_totalYards" selected="True" rename="opp_team_totalYards" input="Right_" />
+                <SelectField field="Right_turnovers" selected="True" rename="opp_team_turnovers" input="Right_" />
+                <SelectField field="Right_yardsPerPass" selected="True" rename="opp_team_yardsPerPass" input="Right_" />
+                <SelectField field="Right_yardsPerRushAttempt" selected="True" rename="opp_team_yardsPerRushAttempt" input="Right_" />
+                <SelectField field="Right_passCompletions" selected="True" rename="opp_team_passCompletions" input="Right_" />
+                <SelectField field="Right_passAttempts" selected="True" rename="opp_team_passAttempts" input="Right_" />
+                <SelectField field="Right_fourthDownConversions" selected="True" rename="opp_team_fourthDownConversions" input="Right_" />
+                <SelectField field="Right_fourthDownAttempts" selected="True" rename="opp_team_fourthDownAttempts" input="Right_" />
+                <SelectField field="Right_possessionTimeSecTotal" selected="True" rename="opp_team_possessionTimeSecTotal" input="Right_" />
+                <SelectField field="Right_thirdDownConversions" selected="True" rename="opp_team_thirdDownConversions" input="Right_" />
+                <SelectField field="Right_thirdDownAttempts" selected="True" rename="opp_team_thirdDownAttempts" input="Right_" />
+                <SelectField field="Right_totalPenalties" selected="True" rename="opp_team_totalPenalties" input="Right_" />
+                <SelectField field="Right_totalPenaltyYards" selected="True" rename="opp_team_totalPenaltyYards" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="1038" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="id" selected="True" />
+            <Field field="season" selected="True" />
+            <Field field="week" selected="True" />
+            <Field field="season_type" selected="True" />
+            <Field field="start_date" selected="True" />
+            <Field field="neutral_site" selected="True" />
+            <Field field="conference_game" selected="True" />
+            <Field field="attendance" selected="True" />
+            <Field field="venue_id" selected="True" />
+            <Field field="Description" selected="True" />
+            <Field field="team_id" selected="True" />
+            <Field field="team_name" selected="True" />
+            <Field field="team_conference" selected="True" />
+            <Field field="team_points" selected="True" />
+            <Field field="team_won" selected="True" />
+            <Field field="team_line_score_q1" selected="True" />
+            <Field field="team_line_score_q2" selected="True" />
+            <Field field="team_line_score_q3" selected="True" />
+            <Field field="team_line_score_q4" selected="True" />
+            <Field field="team_spread" selected="True" />
+            <Field field="team_wins" selected="True" />
+            <Field field="team_loses" selected="True" />
+            <Field field="games_played" selected="True" />
+            <Field field="season_point_total" selected="True" />
+            <Field field="team_line_score_q1_total" selected="True" />
+            <Field field="team_line_score_q2_total" selected="True" />
+            <Field field="team_line_score_q3_total" selected="True" />
+            <Field field="team_line_score_q4_total" selected="True" />
+            <Field field="team_previous_wins" selected="True" />
+            <Field field="team_previous_loses" selected="True" />
+            <Field field="team_avg_points" selected="True" />
+            <Field field="team_avg_point_q1" selected="True" />
+            <Field field="team_avg_point_q2" selected="True" />
+            <Field field="team_avg_point_q3" selected="True" />
+            <Field field="team_avg_point_q4" selected="True" />
+            <Field field="opp_team_id" selected="True" />
+            <Field field="opp_team_name" selected="True" />
+            <Field field="opp_team_conference" selected="True" />
+            <Field field="opp_team_points" selected="True" />
+            <Field field="opp_team_won" selected="True" />
+            <Field field="opp_team_line_score_q1" selected="True" />
+            <Field field="opp_team_line_score_q2" selected="True" />
+            <Field field="opp_team_line_score_q3" selected="True" />
+            <Field field="opp_team_line_score_q4" selected="True" />
+            <Field field="opp_team_spread" selected="True" />
+            <Field field="opp_team_wins" selected="True" />
+            <Field field="opp_team_loses" selected="True" />
+            <Field field="opp_games_played" selected="True" />
+            <Field field="opp_season_point_total" selected="True" />
+            <Field field="opp_team_line_score_q1_total" selected="True" />
+            <Field field="opp_team_line_score_q2_total" selected="True" />
+            <Field field="opp_team_line_score_q3_total" selected="True" />
+            <Field field="opp_team_line_score_q4_total" selected="True" />
+            <Field field="opp_team_previous_wins" selected="True" />
+            <Field field="opp_team_previous_loses" selected="True" />
+            <Field field="opp_team_avg_points" selected="True" />
+            <Field field="opp_team_avg_point_q1" selected="True" />
+            <Field field="opp_team_avg_point_q2" selected="True" />
+            <Field field="opp_team_avg_point_q3" selected="True" />
+            <Field field="opp_team_avg_point_q4" selected="True" />
+            <Field field="team_points_allowed" selected="True" />
+            <Field field="team_avg_points_allowed" selected="True" />
+            <Field field="team_opp_wins" selected="True" />
+            <Field field="team_opp_loses" selected="True" />
+            <Field field="opp_team_points_allowed" selected="True" />
+            <Field field="opp_team_avg_points_allowed" selected="True" />
+            <Field field="opp_team_opp_wins" selected="True" />
+            <Field field="opp_team_opp_loses" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int32" />
+            <Field name="season" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="week" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="season_type" size="7" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="String" />
+            <Field name="start_date" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Bool" />
+            <Field name="neutral_site" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Bool" />
+            <Field name="conference_game" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Bool" />
+            <Field name="attendance" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int32" />
+            <Field name="venue_id" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="Description" size="12" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="String" />
+            <Field name="team_id" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="team_name" size="27" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_conference" size="17" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="team_points" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_won" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Bool" />
+            <Field name="team_line_score_q1" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_line_score_q2" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_line_score_q3" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_line_score_q4" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_spread" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="team_wins" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_loses" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="games_played" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="season_point_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="team_line_score_q1_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_line_score_q2_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_line_score_q3_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_line_score_q4_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_previous_wins" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_previous_loses" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_avg_points" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_avg_point_q1" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_avg_point_q2" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_avg_point_q3" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_avg_point_q4" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_id" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="opp_team_name" size="27" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_conference" size="17" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="V_String" />
+            <Field name="opp_team_points" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_won" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Bool" />
+            <Field name="opp_team_line_score_q1" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_line_score_q2" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_line_score_q3" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_line_score_q4" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_spread" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="opp_team_wins" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_loses" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_games_played" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_season_point_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="opp_team_line_score_q1_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_line_score_q2_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_line_score_q3_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_line_score_q4_total" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_previous_wins" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_previous_loses" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_avg_points" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_avg_point_q1" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_avg_point_q2" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_avg_point_q3" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_avg_point_q4" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_points_allowed" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="team_avg_points_allowed" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_opp_wins" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="team_opp_loses" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_points_allowed" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="opp_team_avg_points_allowed" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Int16" />
+            <Field name="opp_team_opp_wins" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+            <Field name="opp_team_opp_loses" source="File: C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\cleaned_games\*_cleaned_games.csv" type="Byte" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1230" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\WILLMI~1\AppData\Local\Temp\Engine_14268_00423ddfd18a47efa6bbd3843c8d6a15_\Engine_15308_4a3e36f90d01442db96e1a5886d65089_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1374" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="season_type" selected="False" />
+            <SelectField field="start_date" selected="False" />
+            <SelectField field="team_line_score_q1" selected="False" />
+            <SelectField field="team_line_score_q2" selected="False" />
+            <SelectField field="team_line_score_q3" selected="False" />
+            <SelectField field="team_line_score_q4" selected="False" />
+            <SelectField field="season_point_total" selected="False" />
+            <SelectField field="team_line_score_q1_total" selected="False" />
+            <SelectField field="team_line_score_q2_total" selected="False" />
+            <SelectField field="team_line_score_q3_total" selected="False" />
+            <SelectField field="team_line_score_q4_total" selected="False" />
+            <SelectField field="team_avg_point_q1" selected="False" />
+            <SelectField field="team_avg_point_q2" selected="False" />
+            <SelectField field="team_avg_point_q3" selected="False" />
+            <SelectField field="team_avg_point_q4" selected="False" />
+            <SelectField field="opp_team_line_score_q1" selected="False" />
+            <SelectField field="opp_team_line_score_q2" selected="False" />
+            <SelectField field="opp_team_line_score_q3" selected="False" />
+            <SelectField field="opp_team_line_score_q4" selected="False" />
+            <SelectField field="opp_team_line_score_q1_total" selected="False" />
+            <SelectField field="opp_team_line_score_q2_total" selected="False" />
+            <SelectField field="opp_team_line_score_q3_total" selected="False" />
+            <SelectField field="opp_team_line_score_q4_total" selected="False" />
+            <SelectField field="opp_team_avg_points" selected="False" />
+            <SelectField field="opp_team_avg_point_q1" selected="False" />
+            <SelectField field="opp_team_avg_point_q2" selected="False" />
+            <SelectField field="opp_team_avg_point_q3" selected="False" />
+            <SelectField field="opp_team_avg_point_q4" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="1494" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Numeric</FieldType>
+          <Fields orderChanged="False">
+            <Field name="team_defensiveTDs" />
+            <Field name="team_firstDowns" />
+            <Field name="team_fumblesLost" />
+            <Field name="team_fumblesRecovered" />
+            <Field name="team_interceptions" />
+            <Field name="team_interceptionTDs" />
+            <Field name="team_interceptionYards" />
+            <Field name="team_kickingPoints" />
+            <Field name="team_kickReturns" />
+            <Field name="team_kickReturnTDs" />
+            <Field name="team_kickReturnYards" />
+            <Field name="team_netPassingYards" />
+            <Field name="team_passesDeflected" />
+            <Field name="team_passesIntercepted" />
+            <Field name="team_passingTDs" />
+            <Field name="team_puntReturns" />
+            <Field name="team_puntReturnTDs" />
+            <Field name="team_puntReturnYards" />
+            <Field name="team_qbHurries" />
+            <Field name="team_rushingAttempts" />
+            <Field name="team_rushingTDs" />
+            <Field name="team_rushingYards" />
+            <Field name="team_sacks" />
+            <Field name="team_tackles" />
+            <Field name="team_tacklesForLoss" />
+            <Field name="team_totalFumbles" />
+            <Field name="team_totalYards" />
+            <Field name="team_turnovers" />
+            <Field name="team_yardsPerPass" />
+            <Field name="team_yardsPerRushAttempt" />
+            <Field name="team_passCompletions" />
+            <Field name="team_passAttempts" />
+            <Field name="team_fourthDownConversions" />
+            <Field name="team_fourthDownAttempts" />
+            <Field name="team_possessionTimeSecTotal" />
+            <Field name="team_thirdDownConversions" />
+            <Field name="team_thirdDownAttempts" />
+            <Field name="team_totalPenalties" />
+            <Field name="team_totalPenaltyYards" />
+            <Field name="id" selected="False" />
+            <Field name="season" selected="False" />
+            <Field name="week" selected="False" />
+            <Field name="attendance" selected="False" />
+            <Field name="venue_id" selected="False" />
+            <Field name="team_id" selected="False" />
+            <Field name="team_points" selected="False" />
+            <Field name="team_spread" selected="False" />
+            <Field name="team_wins" selected="False" />
+            <Field name="team_loses" selected="False" />
+            <Field name="games_played" selected="False" />
+            <Field name="team_previous_wins" selected="False" />
+            <Field name="team_previous_loses" selected="False" />
+            <Field name="team_avg_points" selected="False" />
+            <Field name="opp_team_id" selected="False" />
+            <Field name="opp_team_points" selected="False" />
+            <Field name="opp_team_spread" selected="False" />
+            <Field name="opp_team_wins" selected="False" />
+            <Field name="opp_team_loses" selected="False" />
+            <Field name="opp_games_played" selected="False" />
+            <Field name="opp_season_point_total" selected="False" />
+            <Field name="opp_team_previous_wins" selected="False" />
+            <Field name="opp_team_previous_loses" selected="False" />
+            <Field name="team_points_allowed" selected="False" />
+            <Field name="team_avg_points_allowed" selected="False" />
+            <Field name="team_opp_wins" selected="False" />
+            <Field name="team_opp_loses" selected="False" />
+            <Field name="opp_team_points_allowed" selected="False" />
+            <Field name="opp_team_avg_points_allowed" selected="False" />
+            <Field name="opp_team_opp_wins" selected="False" />
+            <Field name="opp_team_opp_loses" selected="False" />
+            <Field name="opp_team_defensiveTDs" selected="False" />
+            <Field name="opp_team_firstDowns" selected="False" />
+            <Field name="opp_team_fumblesLost" selected="False" />
+            <Field name="opp_team_fumblesRecovered" selected="False" />
+            <Field name="opp_team_interceptions" selected="False" />
+            <Field name="opp_team_interceptionTDs" selected="False" />
+            <Field name="opp_team_interceptionYards" selected="False" />
+            <Field name="opp_team_kickingPoints" selected="False" />
+            <Field name="opp_team_kickReturns" selected="False" />
+            <Field name="opp_team_kickReturnTDs" selected="False" />
+            <Field name="opp_team_kickReturnYards" selected="False" />
+            <Field name="opp_team_netPassingYards" selected="False" />
+            <Field name="opp_team_passesDeflected" selected="False" />
+            <Field name="opp_team_passesIntercepted" selected="False" />
+            <Field name="opp_team_passingTDs" selected="False" />
+            <Field name="opp_team_puntReturns" selected="False" />
+            <Field name="opp_team_puntReturnTDs" selected="False" />
+            <Field name="opp_team_puntReturnYards" selected="False" />
+            <Field name="opp_team_qbHurries" selected="False" />
+            <Field name="opp_team_rushingAttempts" selected="False" />
+            <Field name="opp_team_rushingTDs" selected="False" />
+            <Field name="opp_team_rushingYards" selected="False" />
+            <Field name="opp_team_sacks" selected="False" />
+            <Field name="opp_team_tackles" selected="False" />
+            <Field name="opp_team_tacklesForLoss" selected="False" />
+            <Field name="opp_team_totalFumbles" selected="False" />
+            <Field name="opp_team_totalYards" selected="False" />
+            <Field name="opp_team_turnovers" selected="False" />
+            <Field name="opp_team_yardsPerPass" selected="False" />
+            <Field name="opp_team_yardsPerRushAttempt" selected="False" />
+            <Field name="opp_team_passCompletions" selected="False" />
+            <Field name="opp_team_passAttempts" selected="False" />
+            <Field name="opp_team_fourthDownConversions" selected="False" />
+            <Field name="opp_team_fourthDownAttempts" selected="False" />
+            <Field name="opp_team_possessionTimeSecTotal" selected="False" />
+            <Field name="opp_team_thirdDownConversions" selected="False" />
+            <Field name="opp_team_thirdDownAttempts" selected="False" />
+            <Field name="opp_team_totalPenalties" selected="False" />
+            <Field name="opp_team_totalPenaltyYards" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <CopyOutput value="False" />
+          <Expression>IF [games_played] &gt; 0 THEN [_CurrentField_]/[games_played]
+ELSE 0
+ENDIF</Expression>
+          <ChangeFieldType value="True" />
+          <OutputFieldType type="Double" size="8" scale="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF [games_played] &gt; 0 THEN [_CurrentField_]/[games_played]
+EL...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="1614" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Numeric</FieldType>
+          <Fields orderChanged="False">
+            <Field name="opp_team_defensiveTDs" />
+            <Field name="opp_team_firstDowns" />
+            <Field name="opp_team_fumblesLost" />
+            <Field name="opp_team_fumblesRecovered" />
+            <Field name="opp_team_interceptions" />
+            <Field name="opp_team_interceptionTDs" />
+            <Field name="opp_team_interceptionYards" />
+            <Field name="opp_team_kickingPoints" />
+            <Field name="opp_team_kickReturns" />
+            <Field name="opp_team_kickReturnTDs" />
+            <Field name="opp_team_kickReturnYards" />
+            <Field name="opp_team_netPassingYards" />
+            <Field name="opp_team_passesDeflected" />
+            <Field name="opp_team_passesIntercepted" />
+            <Field name="opp_team_passingTDs" />
+            <Field name="opp_team_puntReturns" />
+            <Field name="opp_team_puntReturnTDs" />
+            <Field name="opp_team_puntReturnYards" />
+            <Field name="opp_team_qbHurries" />
+            <Field name="opp_team_rushingAttempts" />
+            <Field name="opp_team_rushingTDs" />
+            <Field name="opp_team_rushingYards" />
+            <Field name="opp_team_sacks" />
+            <Field name="opp_team_tackles" />
+            <Field name="opp_team_tacklesForLoss" />
+            <Field name="opp_team_totalFumbles" />
+            <Field name="opp_team_totalYards" />
+            <Field name="opp_team_turnovers" />
+            <Field name="opp_team_yardsPerPass" />
+            <Field name="opp_team_yardsPerRushAttempt" />
+            <Field name="opp_team_passCompletions" />
+            <Field name="opp_team_passAttempts" />
+            <Field name="opp_team_fourthDownConversions" />
+            <Field name="opp_team_fourthDownAttempts" />
+            <Field name="opp_team_possessionTimeSecTotal" />
+            <Field name="opp_team_thirdDownConversions" />
+            <Field name="opp_team_thirdDownAttempts" />
+            <Field name="opp_team_totalPenalties" />
+            <Field name="opp_team_totalPenaltyYards" />
+            <Field name="id" selected="False" />
+            <Field name="season" selected="False" />
+            <Field name="week" selected="False" />
+            <Field name="attendance" selected="False" />
+            <Field name="venue_id" selected="False" />
+            <Field name="team_id" selected="False" />
+            <Field name="team_points" selected="False" />
+            <Field name="team_spread" selected="False" />
+            <Field name="team_wins" selected="False" />
+            <Field name="team_loses" selected="False" />
+            <Field name="games_played" selected="False" />
+            <Field name="team_previous_wins" selected="False" />
+            <Field name="team_previous_loses" selected="False" />
+            <Field name="team_avg_points" selected="False" />
+            <Field name="opp_team_id" selected="False" />
+            <Field name="opp_team_points" selected="False" />
+            <Field name="opp_team_spread" selected="False" />
+            <Field name="opp_team_wins" selected="False" />
+            <Field name="opp_team_loses" selected="False" />
+            <Field name="opp_games_played" selected="False" />
+            <Field name="opp_season_point_total" selected="False" />
+            <Field name="opp_team_previous_wins" selected="False" />
+            <Field name="opp_team_previous_loses" selected="False" />
+            <Field name="team_points_allowed" selected="False" />
+            <Field name="team_avg_points_allowed" selected="False" />
+            <Field name="team_opp_wins" selected="False" />
+            <Field name="team_opp_loses" selected="False" />
+            <Field name="opp_team_points_allowed" selected="False" />
+            <Field name="opp_team_avg_points_allowed" selected="False" />
+            <Field name="opp_team_opp_wins" selected="False" />
+            <Field name="opp_team_opp_loses" selected="False" />
+            <Field name="team_defensiveTDs" selected="False" />
+            <Field name="team_firstDowns" selected="False" />
+            <Field name="team_fumblesLost" selected="False" />
+            <Field name="team_fumblesRecovered" selected="False" />
+            <Field name="team_interceptions" selected="False" />
+            <Field name="team_interceptionTDs" selected="False" />
+            <Field name="team_interceptionYards" selected="False" />
+            <Field name="team_kickingPoints" selected="False" />
+            <Field name="team_kickReturns" selected="False" />
+            <Field name="team_kickReturnTDs" selected="False" />
+            <Field name="team_kickReturnYards" selected="False" />
+            <Field name="team_netPassingYards" selected="False" />
+            <Field name="team_passesDeflected" selected="False" />
+            <Field name="team_passesIntercepted" selected="False" />
+            <Field name="team_passingTDs" selected="False" />
+            <Field name="team_puntReturns" selected="False" />
+            <Field name="team_puntReturnTDs" selected="False" />
+            <Field name="team_puntReturnYards" selected="False" />
+            <Field name="team_qbHurries" selected="False" />
+            <Field name="team_rushingAttempts" selected="False" />
+            <Field name="team_rushingTDs" selected="False" />
+            <Field name="team_rushingYards" selected="False" />
+            <Field name="team_sacks" selected="False" />
+            <Field name="team_tackles" selected="False" />
+            <Field name="team_tacklesForLoss" selected="False" />
+            <Field name="team_totalFumbles" selected="False" />
+            <Field name="team_totalYards" selected="False" />
+            <Field name="team_turnovers" selected="False" />
+            <Field name="team_yardsPerPass" selected="False" />
+            <Field name="team_yardsPerRushAttempt" selected="False" />
+            <Field name="team_passCompletions" selected="False" />
+            <Field name="team_passAttempts" selected="False" />
+            <Field name="team_fourthDownConversions" selected="False" />
+            <Field name="team_fourthDownAttempts" selected="False" />
+            <Field name="team_possessionTimeSecTotal" selected="False" />
+            <Field name="team_thirdDownConversions" selected="False" />
+            <Field name="team_thirdDownAttempts" selected="False" />
+            <Field name="team_totalPenalties" selected="False" />
+            <Field name="team_totalPenaltyYards" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <CopyOutput value="False" />
+          <Expression>IF [games_played] &gt; 0 THEN [_CurrentField_]/[games_played]
+ELSE 0
+ENDIF</Expression>
+          <ChangeFieldType value="True" />
+          <OutputFieldType type="Double" size="8" scale="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF [games_played] &gt; 0 THEN [_CurrentField_]/[games_played]
+EL...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="72">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1734" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\WillMItchell\OneDrive - CANIDIUM\Documents\Coding Projects\cfb-rankings-superleague-edition\src\data\_master_sheet.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="True" />
+          <MultiFileType>Prefix</MultiFileType>
+          <MultiFileField>season</MultiFileField>
+          <KeepField value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>_master_sheet.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="11" Connection="Join" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="13" Connection="Join" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="11" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="11" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="13" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="13" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Unique" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Unique" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="44" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="44" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="45" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Join" />
+      <Destination ToolID="45" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Join" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Join" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Output" />
+      <Destination ToolID="72" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>cfbd_workflow_stats</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="33414ab6-5a0b-42c5-8ef5-146f744a6211" />
+      <Telemetry>
+        <PreviousWorkflowId value="3440975e-5bc8-49a8-be2d-6d3c8bbb6e85" />
+        <OriginWorkflowId value="3440975e-5bc8-49a8-be2d-6d3c8bbb6e85" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
